@@ -1,0 +1,511 @@
+{
+  "pptx": "/mnt/data/Presentacion_Automatica_2.pptx",
+  "diapositivas": 69,
+  "sin_graficos": [
+    31,
+    69
+  ],
+  "con_un_grafico": [
+    6,
+    12,
+    13,
+    17,
+    19,
+    20,
+    22,
+    25,
+    26,
+    28,
+    45,
+    49,
+    55,
+    67
+  ],
+  "paneles_N_cero": 134,
+  "paneles_None": 117,
+  "diapositivas_detalle": [
+    {
+      "slide": 1,
+      "graficos": 2,
+      "tablas": 0,
+      "paneles_N_cero": 2,
+      "paneles_None": 2
+    },
+    {
+      "slide": 2,
+      "graficos": 2,
+      "tablas": 0,
+      "paneles_N_cero": 2,
+      "paneles_None": 2
+    },
+    {
+      "slide": 3,
+      "graficos": 2,
+      "tablas": 0,
+      "paneles_N_cero": 2,
+      "paneles_None": 2
+    },
+    {
+      "slide": 4,
+      "graficos": 2,
+      "tablas": 0,
+      "paneles_N_cero": 2,
+      "paneles_None": 2
+    },
+    {
+      "slide": 5,
+      "graficos": 2,
+      "tablas": 0,
+      "paneles_N_cero": 1,
+      "paneles_None": 1
+    },
+    {
+      "slide": 6,
+      "graficos": 1,
+      "tablas": 0,
+      "paneles_N_cero": 1,
+      "paneles_None": 0
+    },
+    {
+      "slide": 7,
+      "graficos": 2,
+      "tablas": 0,
+      "paneles_N_cero": 2,
+      "paneles_None": 2
+    },
+    {
+      "slide": 8,
+      "graficos": 2,
+      "tablas": 0,
+      "paneles_N_cero": 2,
+      "paneles_None": 2
+    },
+    {
+      "slide": 9,
+      "graficos": 2,
+      "tablas": 0,
+      "paneles_N_cero": 2,
+      "paneles_None": 2
+    },
+    {
+      "slide": 10,
+      "graficos": 2,
+      "tablas": 0,
+      "paneles_N_cero": 2,
+      "paneles_None": 2
+    },
+    {
+      "slide": 11,
+      "graficos": 2,
+      "tablas": 0,
+      "paneles_N_cero": 2,
+      "paneles_None": 2
+    },
+    {
+      "slide": 12,
+      "graficos": 1,
+      "tablas": 0,
+      "paneles_N_cero": 2,
+      "paneles_None": 1
+    },
+    {
+      "slide": 13,
+      "graficos": 1,
+      "tablas": 0,
+      "paneles_N_cero": 2,
+      "paneles_None": 1
+    },
+    {
+      "slide": 14,
+      "graficos": 2,
+      "tablas": 0,
+      "paneles_N_cero": 2,
+      "paneles_None": 2
+    },
+    {
+      "slide": 15,
+      "graficos": 2,
+      "tablas": 0,
+      "paneles_N_cero": 2,
+      "paneles_None": 2
+    },
+    {
+      "slide": 16,
+      "graficos": 2,
+      "tablas": 0,
+      "paneles_N_cero": 2,
+      "paneles_None": 2
+    },
+    {
+      "slide": 17,
+      "graficos": 1,
+      "tablas": 0,
+      "paneles_N_cero": 2,
+      "paneles_None": 1
+    },
+    {
+      "slide": 18,
+      "graficos": 2,
+      "tablas": 0,
+      "paneles_N_cero": 2,
+      "paneles_None": 2
+    },
+    {
+      "slide": 19,
+      "graficos": 1,
+      "tablas": 0,
+      "paneles_N_cero": 2,
+      "paneles_None": 1
+    },
+    {
+      "slide": 20,
+      "graficos": 1,
+      "tablas": 0,
+      "paneles_N_cero": 2,
+      "paneles_None": 1
+    },
+    {
+      "slide": 21,
+      "graficos": 2,
+      "tablas": 0,
+      "paneles_N_cero": 2,
+      "paneles_None": 2
+    },
+    {
+      "slide": 22,
+      "graficos": 1,
+      "tablas": 0,
+      "paneles_N_cero": 2,
+      "paneles_None": 1
+    },
+    {
+      "slide": 23,
+      "graficos": 2,
+      "tablas": 0,
+      "paneles_N_cero": 2,
+      "paneles_None": 2
+    },
+    {
+      "slide": 24,
+      "graficos": 2,
+      "tablas": 0,
+      "paneles_N_cero": 2,
+      "paneles_None": 2
+    },
+    {
+      "slide": 25,
+      "graficos": 1,
+      "tablas": 0,
+      "paneles_N_cero": 2,
+      "paneles_None": 1
+    },
+    {
+      "slide": 26,
+      "graficos": 1,
+      "tablas": 0,
+      "paneles_N_cero": 2,
+      "paneles_None": 1
+    },
+    {
+      "slide": 27,
+      "graficos": 2,
+      "tablas": 0,
+      "paneles_N_cero": 2,
+      "paneles_None": 2
+    },
+    {
+      "slide": 28,
+      "graficos": 1,
+      "tablas": 0,
+      "paneles_N_cero": 2,
+      "paneles_None": 1
+    },
+    {
+      "slide": 29,
+      "graficos": 2,
+      "tablas": 0,
+      "paneles_N_cero": 2,
+      "paneles_None": 2
+    },
+    {
+      "slide": 30,
+      "graficos": 2,
+      "tablas": 0,
+      "paneles_N_cero": 2,
+      "paneles_None": 2
+    },
+    {
+      "slide": 31,
+      "graficos": 0,
+      "tablas": 0,
+      "paneles_N_cero": 2,
+      "paneles_None": 0
+    },
+    {
+      "slide": 32,
+      "graficos": 2,
+      "tablas": 0,
+      "paneles_N_cero": 2,
+      "paneles_None": 2
+    },
+    {
+      "slide": 33,
+      "graficos": 2,
+      "tablas": 0,
+      "paneles_N_cero": 2,
+      "paneles_None": 2
+    },
+    {
+      "slide": 34,
+      "graficos": 2,
+      "tablas": 0,
+      "paneles_N_cero": 2,
+      "paneles_None": 2
+    },
+    {
+      "slide": 35,
+      "graficos": 2,
+      "tablas": 0,
+      "paneles_N_cero": 2,
+      "paneles_None": 2
+    },
+    {
+      "slide": 36,
+      "graficos": 2,
+      "tablas": 0,
+      "paneles_N_cero": 2,
+      "paneles_None": 2
+    },
+    {
+      "slide": 37,
+      "graficos": 2,
+      "tablas": 0,
+      "paneles_N_cero": 2,
+      "paneles_None": 2
+    },
+    {
+      "slide": 38,
+      "graficos": 2,
+      "tablas": 0,
+      "paneles_N_cero": 2,
+      "paneles_None": 2
+    },
+    {
+      "slide": 39,
+      "graficos": 2,
+      "tablas": 0,
+      "paneles_N_cero": 2,
+      "paneles_None": 2
+    },
+    {
+      "slide": 40,
+      "graficos": 2,
+      "tablas": 0,
+      "paneles_N_cero": 2,
+      "paneles_None": 2
+    },
+    {
+      "slide": 41,
+      "graficos": 2,
+      "tablas": 0,
+      "paneles_N_cero": 2,
+      "paneles_None": 2
+    },
+    {
+      "slide": 42,
+      "graficos": 2,
+      "tablas": 0,
+      "paneles_N_cero": 2,
+      "paneles_None": 2
+    },
+    {
+      "slide": 43,
+      "graficos": 2,
+      "tablas": 0,
+      "paneles_N_cero": 2,
+      "paneles_None": 2
+    },
+    {
+      "slide": 44,
+      "graficos": 2,
+      "tablas": 0,
+      "paneles_N_cero": 2,
+      "paneles_None": 2
+    },
+    {
+      "slide": 45,
+      "graficos": 1,
+      "tablas": 0,
+      "paneles_N_cero": 2,
+      "paneles_None": 1
+    },
+    {
+      "slide": 46,
+      "graficos": 2,
+      "tablas": 0,
+      "paneles_N_cero": 2,
+      "paneles_None": 2
+    },
+    {
+      "slide": 47,
+      "graficos": 2,
+      "tablas": 0,
+      "paneles_N_cero": 2,
+      "paneles_None": 2
+    },
+    {
+      "slide": 48,
+      "graficos": 2,
+      "tablas": 0,
+      "paneles_N_cero": 2,
+      "paneles_None": 2
+    },
+    {
+      "slide": 49,
+      "graficos": 1,
+      "tablas": 0,
+      "paneles_N_cero": 2,
+      "paneles_None": 1
+    },
+    {
+      "slide": 50,
+      "graficos": 2,
+      "tablas": 0,
+      "paneles_N_cero": 2,
+      "paneles_None": 2
+    },
+    {
+      "slide": 51,
+      "graficos": 2,
+      "tablas": 0,
+      "paneles_N_cero": 2,
+      "paneles_None": 2
+    },
+    {
+      "slide": 52,
+      "graficos": 2,
+      "tablas": 0,
+      "paneles_N_cero": 2,
+      "paneles_None": 2
+    },
+    {
+      "slide": 53,
+      "graficos": 2,
+      "tablas": 0,
+      "paneles_N_cero": 2,
+      "paneles_None": 2
+    },
+    {
+      "slide": 54,
+      "graficos": 2,
+      "tablas": 0,
+      "paneles_N_cero": 2,
+      "paneles_None": 2
+    },
+    {
+      "slide": 55,
+      "graficos": 1,
+      "tablas": 0,
+      "paneles_N_cero": 2,
+      "paneles_None": 1
+    },
+    {
+      "slide": 56,
+      "graficos": 2,
+      "tablas": 0,
+      "paneles_N_cero": 2,
+      "paneles_None": 2
+    },
+    {
+      "slide": 57,
+      "graficos": 2,
+      "tablas": 0,
+      "paneles_N_cero": 2,
+      "paneles_None": 2
+    },
+    {
+      "slide": 58,
+      "graficos": 2,
+      "tablas": 0,
+      "paneles_N_cero": 2,
+      "paneles_None": 2
+    },
+    {
+      "slide": 59,
+      "graficos": 2,
+      "tablas": 0,
+      "paneles_N_cero": 2,
+      "paneles_None": 2
+    },
+    {
+      "slide": 60,
+      "graficos": 2,
+      "tablas": 0,
+      "paneles_N_cero": 1,
+      "paneles_None": 1
+    },
+    {
+      "slide": 61,
+      "graficos": 2,
+      "tablas": 0,
+      "paneles_N_cero": 2,
+      "paneles_None": 2
+    },
+    {
+      "slide": 62,
+      "graficos": 2,
+      "tablas": 0,
+      "paneles_N_cero": 2,
+      "paneles_None": 2
+    },
+    {
+      "slide": 63,
+      "graficos": 2,
+      "tablas": 0,
+      "paneles_N_cero": 2,
+      "paneles_None": 2
+    },
+    {
+      "slide": 64,
+      "graficos": 2,
+      "tablas": 0,
+      "paneles_N_cero": 2,
+      "paneles_None": 2
+    },
+    {
+      "slide": 65,
+      "graficos": 2,
+      "tablas": 0,
+      "paneles_N_cero": 2,
+      "paneles_None": 2
+    },
+    {
+      "slide": 66,
+      "graficos": 2,
+      "tablas": 0,
+      "paneles_N_cero": 2,
+      "paneles_None": 2
+    },
+    {
+      "slide": 67,
+      "graficos": 1,
+      "tablas": 0,
+      "paneles_N_cero": 2,
+      "paneles_None": 1
+    },
+    {
+      "slide": 68,
+      "graficos": 2,
+      "tablas": 0,
+      "paneles_N_cero": 2,
+      "paneles_None": 2
+    },
+    {
+      "slide": 69,
+      "graficos": 0,
+      "tablas": 0,
+      "paneles_N_cero": 1,
+      "paneles_None": 0
+    }
+  ]
+}

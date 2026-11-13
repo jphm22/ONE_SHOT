@@ -1,0 +1,1366 @@
+﻿fila_excel;variable;categoria;segmento;n;porcentaje;base_N;fuente_base
+5;CUOTA_CIUDAD;Lima;TOTAL;351;43.82;801;ADODB (validado con porcentajes TOM)
+5;CUOTA_CIUDAD;Arequipa;TOTAL;60;7.49;801;ADODB (validado con porcentajes TOM)
+5;CUOTA_CIUDAD;Cajamarca;TOTAL;20;2.497;801;ADODB (validado con porcentajes TOM)
+5;CUOTA_CIUDAD;Chiclayo;TOTAL;40;4.994;801;ADODB (validado con porcentajes TOM)
+5;CUOTA_CIUDAD;Cusco;TOTAL;30;3.745;801;ADODB (validado con porcentajes TOM)
+5;CUOTA_CIUDAD;Huancayo;TOTAL;40;4.994;801;ADODB (validado con porcentajes TOM)
+5;CUOTA_CIUDAD;Ica;TOTAL;50;6.242;801;ADODB (validado con porcentajes TOM)
+5;CUOTA_CIUDAD;Iquitos;TOTAL;40;4.994;801;ADODB (validado con porcentajes TOM)
+5;CUOTA_CIUDAD;Piura;TOTAL;40;4.994;801;ADODB (validado con porcentajes TOM)
+5;CUOTA_CIUDAD;Pucallpa;TOTAL;40;4.994;801;ADODB (validado con porcentajes TOM)
+5;CUOTA_CIUDAD;Tacna;TOTAL;20;2.497;801;ADODB (validado con porcentajes TOM)
+5;CUOTA_CIUDAD;Trujillo;TOTAL;70;8.739;801;ADODB (validado con porcentajes TOM)
+6;CUOTA_NSE;A;TOTAL;101;12.609;801;ADODB (validado con porcentajes TOM)
+6;CUOTA_NSE;B;TOTAL;144;17.978;801;ADODB (validado con porcentajes TOM)
+6;CUOTA_NSE;C;TOTAL;275;34.332;801;ADODB (validado con porcentajes TOM)
+6;CUOTA_NSE;D;TOTAL;172;21.473;801;ADODB (validado con porcentajes TOM)
+6;CUOTA_NSE;E;TOTAL;109;13.608;801;ADODB (validado con porcentajes TOM)
+7;CUOTA_F2R;18 a 24;TOTAL;136;16.979;801;ADODB (validado con porcentajes TOM)
+7;CUOTA_F2R;25 a 35;TOTAL;211;26.342;801;ADODB (validado con porcentajes TOM)
+7;CUOTA_F2R;36 a 50;TOTAL;235;29.338;801;ADODB (validado con porcentajes TOM)
+7;CUOTA_F2R;51 a 60;TOTAL;116;14.482;801;ADODB (validado con porcentajes TOM)
+7;CUOTA_F2R;61 a 75;TOTAL;103;12.859;801;ADODB (validado con porcentajes TOM)
+8;CUOTA_F1;Hombre;TOTAL;400;49.938;801;ADODB (validado con porcentajes TOM)
+8;CUOTA_F1;Mujer;TOTAL;401;50.062;801;ADODB (validado con porcentajes TOM)
+9;CIUDAD;Lima;TOTAL;351;43.82;801;ADODB (validado con porcentajes TOM)
+9;CIUDAD;Arequipa;TOTAL;60;7.49;801;ADODB (validado con porcentajes TOM)
+9;CIUDAD;Cajamarca;TOTAL;20;2.497;801;ADODB (validado con porcentajes TOM)
+9;CIUDAD;Chiclayo;TOTAL;40;4.994;801;ADODB (validado con porcentajes TOM)
+9;CIUDAD;Cusco;TOTAL;30;3.745;801;ADODB (validado con porcentajes TOM)
+9;CIUDAD;Huancayo;TOTAL;40;4.994;801;ADODB (validado con porcentajes TOM)
+9;CIUDAD;Ica;TOTAL;50;6.242;801;ADODB (validado con porcentajes TOM)
+9;CIUDAD;Iquitos;TOTAL;40;4.994;801;ADODB (validado con porcentajes TOM)
+9;CIUDAD;Piura;TOTAL;40;4.994;801;ADODB (validado con porcentajes TOM)
+9;CIUDAD;Pucallpa;TOTAL;40;4.994;801;ADODB (validado con porcentajes TOM)
+9;CIUDAD;Tacna;TOTAL;20;2.497;801;ADODB (validado con porcentajes TOM)
+9;CIUDAD;Trujillo;TOTAL;70;8.739;801;ADODB (validado con porcentajes TOM)
+10;REGION;Lima;TOTAL;351;43.82;801;ADODB (validado con porcentajes TOM)
+10;REGION;Ciudades;TOTAL;450;56.18;801;ADODB (validado con porcentajes TOM)
+11;DISTRITOX;San Juan De Lurigancho;TOTAL;40;4.994;801;ADODB (validado con porcentajes TOM)
+11;DISTRITOX;Ica;TOTAL;35;4.37;801;ADODB (validado con porcentajes TOM)
+11;DISTRITOX;Chiclayo;TOTAL;25;3.121;801;ADODB (validado con porcentajes TOM)
+11;DISTRITOX;Ate;TOTAL;25;3.121;801;ADODB (validado con porcentajes TOM)
+11;DISTRITOX;Trujillo;TOTAL;22;2.747;801;ADODB (validado con porcentajes TOM)
+11;DISTRITOX;Cajamarca;TOTAL;20;2.497;801;ADODB (validado con porcentajes TOM)
+11;DISTRITOX;Puente Piedra;TOTAL;20;2.497;801;ADODB (validado con porcentajes TOM)
+11;DISTRITOX;Santiago De Surco;TOTAL;20;2.497;801;ADODB (validado con porcentajes TOM)
+11;DISTRITOX;Villa Maria Del Triunfo;TOTAL;20;2.497;801;ADODB (validado con porcentajes TOM)
+11;DISTRITOX;Iquitos;TOTAL;20;2.497;801;ADODB (validado con porcentajes TOM)
+11;DISTRITOX;Calleria;TOTAL;20;2.497;801;ADODB (validado con porcentajes TOM)
+11;DISTRITOX;El Porvenir;TOTAL;16;1.998;801;ADODB (validado con porcentajes TOM)
+12;F1;Masculino;TOTAL;400;49.938;801;ADODB (validado con porcentajes TOM)
+12;F1;Femenino;TOTAL;401;50.062;801;ADODB (validado con porcentajes TOM)
+14;F2R;18 a 24 años;TOTAL;136;16.979;801;ADODB (validado con porcentajes TOM)
+14;F2R;25 a 35 años;TOTAL;211;26.342;801;ADODB (validado con porcentajes TOM)
+14;F2R;36 a 50 años;TOTAL;235;29.338;801;ADODB (validado con porcentajes TOM)
+14;F2R;51 a 60 años;TOTAL;116;14.482;801;ADODB (validado con porcentajes TOM)
+14;F2R;61 a 75 años;TOTAL;103;12.859;801;ADODB (validado con porcentajes TOM)
+15;Generacion;GEN Z;TOTAL;236;29.463;801;ADODB (validado con porcentajes TOM)
+15;Generacion;GEN Y;TOTAL;261;32.584;801;ADODB (validado con porcentajes TOM)
+15;Generacion;GEN X;TOTAL;218;27.216;801;ADODB (validado con porcentajes TOM)
+15;Generacion;GEN BB;TOTAL;86;10.737;801;ADODB (validado con porcentajes TOM)
+17;NSEX;A;TOTAL;101;12.609;801;ADODB (validado con porcentajes TOM)
+17;NSEX;B;TOTAL;144;17.978;801;ADODB (validado con porcentajes TOM)
+17;NSEX;C;TOTAL;275;34.332;801;ADODB (validado con porcentajes TOM)
+17;NSEX;D;TOTAL;172;21.473;801;ADODB (validado con porcentajes TOM)
+17;NSEX;E;TOTAL;109;13.608;801;ADODB (validado con porcentajes TOM)
+18;NIVEL3;A1;TOTAL;25;3.121;801;ADODB (validado con porcentajes TOM)
+18;NIVEL3;A2;TOTAL;76;9.488;801;ADODB (validado con porcentajes TOM)
+18;NIVEL3;B1;TOTAL;62;7.74;801;ADODB (validado con porcentajes TOM)
+18;NIVEL3;B2;TOTAL;82;10.237;801;ADODB (validado con porcentajes TOM)
+18;NIVEL3;C1;TOTAL;214;26.717;801;ADODB (validado con porcentajes TOM)
+18;NIVEL3;C2;TOTAL;61;7.616;801;ADODB (validado con porcentajes TOM)
+18;NIVEL3;D;TOTAL;172;21.473;801;ADODB (validado con porcentajes TOM)
+18;NIVEL3;E;TOTAL;109;13.608;801;ADODB (validado con porcentajes TOM)
+19;NSE2;NSE ABC;TOTAL;520;64.919;801;ADODB (validado con porcentajes TOM)
+19;NSE2;NSE DE;TOTAL;281;35.081;801;ADODB (validado con porcentajes TOM)
+20;A2;El 2026 es un año para ahorrar (juntando dinero);TOTAL;234;29.213;801;ADODB (validado con porcentajes TOM)
+20;A2;El 2026 es un año para economizar en mis compras y gastos;TOTAL;246;30.712;801;ADODB (validado con porcentajes TOM)
+20;A2;El 2026 es un año para hacer realidad mis planes;TOTAL;358;44.694;801;ADODB (validado con porcentajes TOM)
+20;A2;Ninguna;TOTAL;28;3.496;801;ADODB (validado con porcentajes TOM)
+21;A3;(1) Alimentación;TOTAL;615;76.779;801;ADODB (validado con porcentajes TOM)
+21;A3;(4) Educación;TOTAL;393;49.064;801;ADODB (validado con porcentajes TOM)
+21;A3;(11) Salud (ej. atenciones, medicamentos, seguros de salud);TOTAL;315;39.326;801;ADODB (validado con porcentajes TOM)
+21;A3;(3) Deudas y compromisos de pago financieros;TOTAL;209;26.092;801;ADODB (validado con porcentajes TOM)
+21;A3;(12) Servicios básicos (ej. luz, agua, gas);TOTAL;166;20.724;801;ADODB (validado con porcentajes TOM)
+21;A3;(8) Mejoramiento del hogar y equipamiento;TOTAL;98;12.235;801;ADODB (validado con porcentajes TOM)
+21;A3;(2) Cuidado personal (rostro y cuerpo);TOTAL;97;12.11;801;ADODB (validado con porcentajes TOM)
+21;A3;(10) Ropa y calzado;TOTAL;86;10.737;801;ADODB (validado con porcentajes TOM)
+21;A3;(16) Vivienda (alquiler o pagos de créditos, mantenimiento, etc.);TOTAL;60;7.491;801;ADODB (validado con porcentajes TOM)
+21;A3;(6) Impuestos;TOTAL;59;7.366;801;ADODB (validado con porcentajes TOM)
+21;A3;(14) Transporte (ej. gasolina, pasajes, mantenimiento);TOTAL;45;5.618;801;ADODB (validado con porcentajes TOM)
+21;A3;(7) Mascotas (ej. alimentos, juguetes, veterinario, etc.);TOTAL;44;5.493;801;ADODB (validado con porcentajes TOM)
+22;A4;(1) Iniciar un negocio propio;TOTAL;222;27.715;801;ADODB (validado con porcentajes TOM)
+22;A4;(11) Construir / remodelar / ampliar su vivienda;TOTAL;163;20.35;801;ADODB (validado con porcentajes TOM)
+22;A4;(2) Invertir más en el negocio propio que ya tiene;TOTAL;132;16.479;801;ADODB (validado con porcentajes TOM)
+22;A4;(7) Estudiar una carrera profesional;TOTAL;129;16.105;801;ADODB (validado con porcentajes TOM)
+22;A4;(6) Viajar al interior del país;TOTAL;120;14.981;801;ADODB (validado con porcentajes TOM)
+22;A4;(3) Comprar casa, departamento, terreno o lote;TOTAL;109;13.608;801;ADODB (validado con porcentajes TOM)
+22;A4;(5) Viajar al extranjero;TOTAL;100;12.484;801;ADODB (validado con porcentajes TOM)
+22;A4;(9) Estudiar idiomas;TOTAL;88;10.986;801;ADODB (validado con porcentajes TOM)
+22;A4;(96) Ninguno;TOTAL;81;10.112;801;ADODB (validado con porcentajes TOM)
+22;A4;(8) Llevar una especialización / capacitación;TOTAL;77;9.613;801;ADODB (validado con porcentajes TOM)
+22;A4;(15) Hacerse una tratamiento por salud / cirugía por salud;TOTAL;76;9.488;801;ADODB (validado con porcentajes TOM)
+22;A4;(13) Comprar muebles, electrodomésticos, dispositivos, equipos para equipar el hogar;TOTAL;73;9.114;801;ADODB (validado con porcentajes TOM)
+23;A5;(11) Pagar sus deudas;TOTAL;213;26.592;801;ADODB (validado con porcentajes TOM)
+23;A5;(96) Ninguno;TOTAL;172;21.473;801;ADODB (validado con porcentajes TOM)
+23;A5;(12) Crear o aumentar un fondo de ahorro de emergencia;TOTAL;148;18.477;801;ADODB (validado con porcentajes TOM)
+23;A5;(16) Apoyar económicamente a un familiar en un proyecto importante (ej. estudios de un hijo, negocio de un hermano);TOTAL;109;13.608;801;ADODB (validado con porcentajes TOM)
+23;A5;(15) Invertir en su bienestar físico o mental (ej. inscribirme a un gimnasio, empezar terapia, tomar clases de yoga);TOTAL;83;10.362;801;ADODB (validado con porcentajes TOM)
+23;A5;(3) Independizarse (salir de la casa de los padres);TOTAL;79;9.863;801;ADODB (validado con porcentajes TOM)
+23;A5;(9) Participar en una junta, pandero o fondo colectivo;TOTAL;65;8.115;801;ADODB (validado con porcentajes TOM)
+23;A5;(8) Renovar su guardarropa o hacer compras importantes de ropa y calzado;TOTAL;64;7.99;801;ADODB (validado con porcentajes TOM)
+23;A5;(5) Mudarse de ciudad / país;TOTAL;62;7.74;801;ADODB (validado con porcentajes TOM)
+23;A5;(13) Celebrar un evento familiar importante (matrimonio, graduación, aniversario, etc.);TOTAL;62;7.74;801;ADODB (validado con porcentajes TOM)
+23;A5;(1) Casarse;TOTAL;38;4.744;801;ADODB (validado con porcentajes TOM)
+23;A5;(4) Cambiar de “look” o apariencia;TOTAL;38;4.744;801;ADODB (validado con porcentajes TOM)
+24;A5T;Comprar muebles, electrodomésticos, dispositivos, equipos para equipar el hogar;TOTAL;458;57.179;801;ADODB (validado con porcentajes TOM)
+24;A5T;Construir / remodelar / ampliar su vivienda;TOTAL;416;51.935;801;ADODB (validado con porcentajes TOM)
+24;A5T;Viajar al interior del país;TOTAL;240;29.963;801;ADODB (validado con porcentajes TOM)
+24;A5T;Iniciar un negocio propio;TOTAL;222;27.715;801;ADODB (validado con porcentajes TOM)
+24;A5T;Pagar sus deudas;TOTAL;213;26.592;801;ADODB (validado con porcentajes TOM)
+24;A5T;Decorar / Redecorar su vivienda (que involucre cambiar la apariencia, sin construir);TOTAL;181;22.597;801;ADODB (validado con porcentajes TOM)
+24;A5T;Viajar al extranjero;TOTAL;172;21.473;801;ADODB (validado con porcentajes TOM)
+24;A5T;Crear o aumentar un fondo de ahorro de emergencia;TOTAL;148;18.477;801;ADODB (validado con porcentajes TOM)
+24;A5T;Invertir más en el negocio propio que ya tiene;TOTAL;132;16.479;801;ADODB (validado con porcentajes TOM)
+24;A5T;Estudiar una carrera profesional;TOTAL;129;16.105;801;ADODB (validado con porcentajes TOM)
+24;A5T;Comprar casa, departamento, terreno o lote;TOTAL;109;13.608;801;ADODB (validado con porcentajes TOM)
+24;A5T;Apoyar económicamente a un familiar en un proyecto importante (ej. estudios de un hijo, negocio de un hermano);TOTAL;109;13.608;801;ADODB (validado con porcentajes TOM)
+25;A5N;Negocio propio;TOTAL;329;41.074;801;ADODB (validado con porcentajes TOM)
+25;A5N;Propiedades;TOTAL;212;26.467;801;ADODB (validado con porcentajes TOM)
+25;A5N;Viajes;TOTAL;357;44.569;801;ADODB (validado con porcentajes TOM)
+25;A5N;Educación;TOTAL;262;32.709;801;ADODB (validado con porcentajes TOM)
+25;A5N;Mejoramiento del hogar;TOTAL;605;75.531;801;ADODB (validado con porcentajes TOM)
+25;A5N;Salud y bienestar;TOTAL;216;26.966;801;ADODB (validado con porcentajes TOM)
+25;A5N;Familia;TOTAL;78;9.738;801;ADODB (validado con porcentajes TOM)
+25;A5N;Finanzas;TOTAL;439;54.806;801;ADODB (validado con porcentajes TOM)
+25;A5N;Mudanza;TOTAL;130;16.23;801;ADODB (validado con porcentajes TOM)
+25;A5N;Celebraciones;TOTAL;62;7.74;801;ADODB (validado con porcentajes TOM)
+25;A5N;Ninguno;TOTAL;32;3.995;801;ADODB (validado con porcentajes TOM)
+26;A6;(1) Usaría mi tarjeta de crédito, aunque luego tenga que pagarlo en partes;TOTAL;111;13.858;801;ADODB (validado con porcentajes TOM)
+26;A6;(2) Le pediría prestado a un familiar o a un amigo de confianza;TOTAL;103;12.859;801;ADODB (validado con porcentajes TOM)
+26;A6;(3) Solicitaría un adelanto de mi sueldo en mi trabajo;TOTAL;66;8.24;801;ADODB (validado con porcentajes TOM)
+26;A6;(4) Pediría un préstamo personal al banco o a una entidad financiera;TOTAL;81;10.112;801;ADODB (validado con porcentajes TOM)
+26;A6;(5) Sacaría el dinero de mis ahorros personales, aunque estuvieran destinados para otra cosa;TOTAL;94;11.735;801;ADODB (validado con porcentajes TOM)
+26;A6;(6) Recortaría otros gastos durante el mes (ej. salidas, comidas fuera, compras menores) para liberar ese dinero;TOTAL;82;10.237;801;ADODB (validado con porcentajes TOM)
+26;A6;(7) Usaría un dinero que ya tengo separado para 'gustos', entretenimiento o un fondo de libre disposición;TOTAL;83;10.362;801;ADODB (validado con porcentajes TOM)
+26;A6;(8) Buscaría hacer algún trabajo extra o 'cachuelo' para generar ese ingreso específico;TOTAL;123;15.356;801;ADODB (validado con porcentajes TOM)
+26;A6;(9) Vendería algo de valor que ya no uso (ej. ropa, tecnología, etc.);TOTAL;26;3.246;801;ADODB (validado con porcentajes TOM)
+26;A6;(10) Haría una pollada / evento para recaudar ingresos;TOTAL;39;4.869;801;ADODB (validado con porcentajes TOM)
+26;A6;(96) Simplemente, lo dejaría pasar. Si no está en mi presupuesto, no lo compro.;TOTAL;250;31.211;801;ADODB (validado con porcentajes TOM)
+27;B1;Todos los días de la semana;Bodegas;367;45.81772784019975;801;ADODB B1[{_1}].Rp
+27;B1;5 a 6 días a la semana;Bodegas;92;11.485642946317103;801;ADODB B1[{_1}].Rp
+27;B1;3 a 4 día a la semana;Bodegas;137;17.10362047440699;801;ADODB B1[{_1}].Rp
+27;B1;2 días a la semana;Bodegas;75;9.363295880149813;801;ADODB B1[{_1}].Rp
+27;B1;1 día a la semana;Bodegas;55;6.866416978776529;801;ADODB B1[{_1}].Rp
+27;B1;Cada 15 días;Bodegas;18;2.247191011235955;801;ADODB B1[{_1}].Rp
+27;B1;1 vez al mes;Bodegas;19;2.3720349563046192;801;ADODB B1[{_1}].Rp
+27;B1;1 vez cada 2 meses;Bodegas;3;0.37453183520599254;801;ADODB B1[{_1}].Rp
+27;B1;Con menor frecuencia;Bodegas;16;1.9975031210986267;801;ADODB B1[{_1}].Rp
+27;B1;No asisto;Bodegas;19;2.3720349563046192;801;ADODB B1[{_1}].Rp
+27;B1;Todos los días de la semana;Mercados de su barrio;154;19.22596754057428;801;ADODB B1[{_3}].Rp
+27;B1;5 a 6 días a la semana;Mercados de su barrio;44;5.493133583021224;801;ADODB B1[{_3}].Rp
+27;B1;3 a 4 día a la semana;Mercados de su barrio;102;12.734082397003744;801;ADODB B1[{_3}].Rp
+27;B1;2 días a la semana;Mercados de su barrio;97;12.109862671660425;801;ADODB B1[{_3}].Rp
+27;B1;1 día a la semana;Mercados de su barrio;195;24.344569288389515;801;ADODB B1[{_3}].Rp
+27;B1;Cada 15 días;Mercados de su barrio;50;6.242197253433209;801;ADODB B1[{_3}].Rp
+27;B1;1 vez al mes;Mercados de su barrio;47;5.867665418227216;801;ADODB B1[{_3}].Rp
+27;B1;1 vez cada 2 meses;Mercados de su barrio;10;1.2484394506866416;801;ADODB B1[{_3}].Rp
+27;B1;Con menor frecuencia;Mercados de su barrio;34;4.2446941323345815;801;ADODB B1[{_3}].Rp
+27;B1;No asisto;Mercados de su barrio;68;8.489388264669163;801;ADODB B1[{_3}].Rp
+27;B1;Todos los días de la semana;Mercados mayoristas;20;2.4968789013732833;801;ADODB B1[{_4}].Rp
+27;B1;5 a 6 días a la semana;Mercados mayoristas;11;1.373283395755306;801;ADODB B1[{_4}].Rp
+27;B1;3 a 4 día a la semana;Mercados mayoristas;27;3.3707865168539324;801;ADODB B1[{_4}].Rp
+27;B1;2 días a la semana;Mercados mayoristas;33;4.119850187265918;801;ADODB B1[{_4}].Rp
+27;B1;1 día a la semana;Mercados mayoristas;120;14.9812734082397;801;ADODB B1[{_4}].Rp
+27;B1;Cada 15 días;Mercados mayoristas;89;11.11111111111111;801;ADODB B1[{_4}].Rp
+27;B1;1 vez al mes;Mercados mayoristas;140;17.478152309612984;801;ADODB B1[{_4}].Rp
+27;B1;1 vez cada 2 meses;Mercados mayoristas;34;4.2446941323345815;801;ADODB B1[{_4}].Rp
+27;B1;Con menor frecuencia;Mercados mayoristas;80;9.987515605493133;801;ADODB B1[{_4}].Rp
+27;B1;No asisto;Mercados mayoristas;247;30.83645443196005;801;ADODB B1[{_4}].Rp
+27;B1;Todos los días de la semana;Supermercados (ej. Tottus, Plaza Vea, Metro, Wong, Holi, etc.);16;1.9975031210986267;801;ADODB B1[{_5}].Rp
+27;B1;5 a 6 días a la semana;Supermercados (ej. Tottus, Plaza Vea, Metro, Wong, Holi, etc.);5;0.6242197253433208;801;ADODB B1[{_5}].Rp
+27;B1;3 a 4 día a la semana;Supermercados (ej. Tottus, Plaza Vea, Metro, Wong, Holi, etc.);46;5.742821473158552;801;ADODB B1[{_5}].Rp
+27;B1;2 días a la semana;Supermercados (ej. Tottus, Plaza Vea, Metro, Wong, Holi, etc.);59;7.365792759051186;801;ADODB B1[{_5}].Rp
+27;B1;1 día a la semana;Supermercados (ej. Tottus, Plaza Vea, Metro, Wong, Holi, etc.);115;14.35705368289638;801;ADODB B1[{_5}].Rp
+27;B1;Cada 15 días;Supermercados (ej. Tottus, Plaza Vea, Metro, Wong, Holi, etc.);103;12.85892634207241;801;ADODB B1[{_5}].Rp
+27;B1;1 vez al mes;Supermercados (ej. Tottus, Plaza Vea, Metro, Wong, Holi, etc.);183;22.846441947565545;801;ADODB B1[{_5}].Rp
+27;B1;1 vez cada 2 meses;Supermercados (ej. Tottus, Plaza Vea, Metro, Wong, Holi, etc.);55;6.866416978776529;801;ADODB B1[{_5}].Rp
+27;B1;Con menor frecuencia;Supermercados (ej. Tottus, Plaza Vea, Metro, Wong, Holi, etc.);84;10.486891385767791;801;ADODB B1[{_5}].Rp
+27;B1;No asisto;Supermercados (ej. Tottus, Plaza Vea, Metro, Wong, Holi, etc.);135;16.853932584269664;801;ADODB B1[{_5}].Rp
+27;B1;Todos los días de la semana;Tiendas por departamentos (ej. Saga, Ripley, Oechsle, etc.);8;0.9987515605493134;801;ADODB B1[{_6}].Rp
+27;B1;5 a 6 días a la semana;Tiendas por departamentos (ej. Saga, Ripley, Oechsle, etc.);3;0.37453183520599254;801;ADODB B1[{_6}].Rp
+27;B1;3 a 4 día a la semana;Tiendas por departamentos (ej. Saga, Ripley, Oechsle, etc.);18;2.247191011235955;801;ADODB B1[{_6}].Rp
+27;B1;2 días a la semana;Tiendas por departamentos (ej. Saga, Ripley, Oechsle, etc.);28;3.495630461922597;801;ADODB B1[{_6}].Rp
+27;B1;1 día a la semana;Tiendas por departamentos (ej. Saga, Ripley, Oechsle, etc.);78;9.737827715355806;801;ADODB B1[{_6}].Rp
+27;B1;Cada 15 días;Tiendas por departamentos (ej. Saga, Ripley, Oechsle, etc.);63;7.865168539325842;801;ADODB B1[{_6}].Rp
+27;B1;1 vez al mes;Tiendas por departamentos (ej. Saga, Ripley, Oechsle, etc.);176;21.972534332084894;801;ADODB B1[{_6}].Rp
+27;B1;1 vez cada 2 meses;Tiendas por departamentos (ej. Saga, Ripley, Oechsle, etc.);73;9.113607990012484;801;ADODB B1[{_6}].Rp
+27;B1;Con menor frecuencia;Tiendas por departamentos (ej. Saga, Ripley, Oechsle, etc.);119;14.856429463171036;801;ADODB B1[{_6}].Rp
+27;B1;No asisto;Tiendas por departamentos (ej. Saga, Ripley, Oechsle, etc.);235;29.33832709113608;801;ADODB B1[{_6}].Rp
+27;B1;Todos los días de la semana;Tiendas de mejoramiento del hogar (ej. Sodimac, Maestro, Promart, etc.);10;1.2484394506866416;801;ADODB B1[{_7}].Rp
+27;B1;5 a 6 días a la semana;Tiendas de mejoramiento del hogar (ej. Sodimac, Maestro, Promart, etc.);2;0.24968789013732834;801;ADODB B1[{_7}].Rp
+27;B1;3 a 4 día a la semana;Tiendas de mejoramiento del hogar (ej. Sodimac, Maestro, Promart, etc.);15;1.8726591760299625;801;ADODB B1[{_7}].Rp
+27;B1;2 días a la semana;Tiendas de mejoramiento del hogar (ej. Sodimac, Maestro, Promart, etc.);17;2.1223470661672907;801;ADODB B1[{_7}].Rp
+27;B1;1 día a la semana;Tiendas de mejoramiento del hogar (ej. Sodimac, Maestro, Promart, etc.);27;3.3707865168539324;801;ADODB B1[{_7}].Rp
+27;B1;Cada 15 días;Tiendas de mejoramiento del hogar (ej. Sodimac, Maestro, Promart, etc.);42;5.2434456928838955;801;ADODB B1[{_7}].Rp
+27;B1;1 vez al mes;Tiendas de mejoramiento del hogar (ej. Sodimac, Maestro, Promart, etc.);143;17.852684144818976;801;ADODB B1[{_7}].Rp
+27;B1;1 vez cada 2 meses;Tiendas de mejoramiento del hogar (ej. Sodimac, Maestro, Promart, etc.);93;11.610486891385769;801;ADODB B1[{_7}].Rp
+27;B1;Con menor frecuencia;Tiendas de mejoramiento del hogar (ej. Sodimac, Maestro, Promart, etc.);158;19.72534332084894;801;ADODB B1[{_7}].Rp
+27;B1;No asisto;Tiendas de mejoramiento del hogar (ej. Sodimac, Maestro, Promart, etc.);294;36.70411985018727;801;ADODB B1[{_7}].Rp
+27;B1;Todos los días de la semana;Tiendas de descuentos (ej. Mass, Maxiahorro, 3A, etc.);21;2.6217228464419478;801;ADODB B1[{_8}].Rp
+27;B1;5 a 6 días a la semana;Tiendas de descuentos (ej. Mass, Maxiahorro, 3A, etc.);27;3.3707865168539324;801;ADODB B1[{_8}].Rp
+27;B1;3 a 4 día a la semana;Tiendas de descuentos (ej. Mass, Maxiahorro, 3A, etc.);49;6.117353308364544;801;ADODB B1[{_8}].Rp
+27;B1;2 días a la semana;Tiendas de descuentos (ej. Mass, Maxiahorro, 3A, etc.);60;7.49063670411985;801;ADODB B1[{_8}].Rp
+27;B1;1 día a la semana;Tiendas de descuentos (ej. Mass, Maxiahorro, 3A, etc.);72;8.98876404494382;801;ADODB B1[{_8}].Rp
+27;B1;Cada 15 días;Tiendas de descuentos (ej. Mass, Maxiahorro, 3A, etc.);64;7.990012484394507;801;ADODB B1[{_8}].Rp
+27;B1;1 vez al mes;Tiendas de descuentos (ej. Mass, Maxiahorro, 3A, etc.);86;10.736579275905118;801;ADODB B1[{_8}].Rp
+27;B1;1 vez cada 2 meses;Tiendas de descuentos (ej. Mass, Maxiahorro, 3A, etc.);28;3.495630461922597;801;ADODB B1[{_8}].Rp
+27;B1;Con menor frecuencia;Tiendas de descuentos (ej. Mass, Maxiahorro, 3A, etc.);75;9.363295880149813;801;ADODB B1[{_8}].Rp
+27;B1;No asisto;Tiendas de descuentos (ej. Mass, Maxiahorro, 3A, etc.);319;39.82521847690387;801;ADODB B1[{_8}].Rp
+27;B1;Todos los días de la semana;Tiendas de conveniencia (ej. Tambo, Repshop, Listo, OXXO, Spid, etc.);19;2.3720349563046192;801;ADODB B1[{_9}].Rp
+27;B1;5 a 6 días a la semana;Tiendas de conveniencia (ej. Tambo, Repshop, Listo, OXXO, Spid, etc.);16;1.9975031210986267;801;ADODB B1[{_9}].Rp
+27;B1;3 a 4 día a la semana;Tiendas de conveniencia (ej. Tambo, Repshop, Listo, OXXO, Spid, etc.);37;4.619225967540574;801;ADODB B1[{_9}].Rp
+27;B1;2 días a la semana;Tiendas de conveniencia (ej. Tambo, Repshop, Listo, OXXO, Spid, etc.);55;6.866416978776529;801;ADODB B1[{_9}].Rp
+27;B1;1 día a la semana;Tiendas de conveniencia (ej. Tambo, Repshop, Listo, OXXO, Spid, etc.);81;10.112359550561798;801;ADODB B1[{_9}].Rp
+27;B1;Cada 15 días;Tiendas de conveniencia (ej. Tambo, Repshop, Listo, OXXO, Spid, etc.);51;6.367041198501872;801;ADODB B1[{_9}].Rp
+27;B1;1 vez al mes;Tiendas de conveniencia (ej. Tambo, Repshop, Listo, OXXO, Spid, etc.);54;6.741573033707865;801;ADODB B1[{_9}].Rp
+27;B1;1 vez cada 2 meses;Tiendas de conveniencia (ej. Tambo, Repshop, Listo, OXXO, Spid, etc.);26;3.2459425717852683;801;ADODB B1[{_9}].Rp
+27;B1;Con menor frecuencia;Tiendas de conveniencia (ej. Tambo, Repshop, Listo, OXXO, Spid, etc.);80;9.987515605493133;801;ADODB B1[{_9}].Rp
+27;B1;No asisto;Tiendas de conveniencia (ej. Tambo, Repshop, Listo, OXXO, Spid, etc.);382;47.690387016229714;801;ADODB B1[{_9}].Rp
+27;B1;Todos los días de la semana;Tiendas mayoristas (ej. Makro, Mayorsa, Vega, etc.);8;0.9987515605493134;801;ADODB B1[{_10}].Rp
+27;B1;5 a 6 días a la semana;Tiendas mayoristas (ej. Makro, Mayorsa, Vega, etc.);2;0.24968789013732834;801;ADODB B1[{_10}].Rp
+27;B1;3 a 4 día a la semana;Tiendas mayoristas (ej. Makro, Mayorsa, Vega, etc.);11;1.373283395755306;801;ADODB B1[{_10}].Rp
+27;B1;2 días a la semana;Tiendas mayoristas (ej. Makro, Mayorsa, Vega, etc.);22;2.746566791510612;801;ADODB B1[{_10}].Rp
+27;B1;1 día a la semana;Tiendas mayoristas (ej. Makro, Mayorsa, Vega, etc.);28;3.495630461922597;801;ADODB B1[{_10}].Rp
+27;B1;Cada 15 días;Tiendas mayoristas (ej. Makro, Mayorsa, Vega, etc.);39;4.868913857677903;801;ADODB B1[{_10}].Rp
+27;B1;1 vez al mes;Tiendas mayoristas (ej. Makro, Mayorsa, Vega, etc.);87;10.861423220973784;801;ADODB B1[{_10}].Rp
+27;B1;1 vez cada 2 meses;Tiendas mayoristas (ej. Makro, Mayorsa, Vega, etc.);49;6.117353308364544;801;ADODB B1[{_10}].Rp
+27;B1;Con menor frecuencia;Tiendas mayoristas (ej. Makro, Mayorsa, Vega, etc.);142;17.72784019975031;801;ADODB B1[{_10}].Rp
+27;B1;No asisto;Tiendas mayoristas (ej. Makro, Mayorsa, Vega, etc.);413;51.5605493133583;801;ADODB B1[{_10}].Rp
+27;B1;Todos los días de la semana;Cadenas de farmacias;13;1.6229712858926342;801;ADODB B1[{_11}].Rp
+27;B1;5 a 6 días a la semana;Cadenas de farmacias;4;0.4993757802746567;801;ADODB B1[{_11}].Rp
+27;B1;3 a 4 día a la semana;Cadenas de farmacias;41;5.118601747815231;801;ADODB B1[{_11}].Rp
+27;B1;2 días a la semana;Cadenas de farmacias;59;7.365792759051186;801;ADODB B1[{_11}].Rp
+27;B1;1 día a la semana;Cadenas de farmacias;95;11.860174781523096;801;ADODB B1[{_11}].Rp
+27;B1;Cada 15 días;Cadenas de farmacias;118;14.731585518102372;801;ADODB B1[{_11}].Rp
+27;B1;1 vez al mes;Cadenas de farmacias;195;24.344569288389515;801;ADODB B1[{_11}].Rp
+27;B1;1 vez cada 2 meses;Cadenas de farmacias;64;7.990012484394507;801;ADODB B1[{_11}].Rp
+27;B1;Con menor frecuencia;Cadenas de farmacias;108;13.48314606741573;801;ADODB B1[{_11}].Rp
+27;B1;No asisto;Cadenas de farmacias;104;12.983770287141073;801;ADODB B1[{_11}].Rp
+27;B1;Todos los días de la semana;Restaurantes;18;2.247191011235955;801;ADODB B1[{_12}].Rp
+27;B1;5 a 6 días a la semana;Restaurantes;15;1.8726591760299625;801;ADODB B1[{_12}].Rp
+27;B1;3 a 4 día a la semana;Restaurantes;40;4.9937578027465666;801;ADODB B1[{_12}].Rp
+27;B1;2 días a la semana;Restaurantes;50;6.242197253433209;801;ADODB B1[{_12}].Rp
+27;B1;1 día a la semana;Restaurantes;139;17.35330836454432;801;ADODB B1[{_12}].Rp
+27;B1;Cada 15 días;Restaurantes;123;15.355805243445692;801;ADODB B1[{_12}].Rp
+27;B1;1 vez al mes;Restaurantes;164;20.474406991260924;801;ADODB B1[{_12}].Rp
+27;B1;1 vez cada 2 meses;Restaurantes;47;5.867665418227216;801;ADODB B1[{_12}].Rp
+27;B1;Con menor frecuencia;Restaurantes;90;11.235955056179776;801;ADODB B1[{_12}].Rp
+27;B1;No asisto;Restaurantes;115;14.35705368289638;801;ADODB B1[{_12}].Rp
+27;B1;Todos los días de la semana;Centros comerciales;12;1.4981273408239701;801;ADODB B1[{_13}].Rp
+27;B1;5 a 6 días a la semana;Centros comerciales;8;0.9987515605493134;801;ADODB B1[{_13}].Rp
+27;B1;3 a 4 día a la semana;Centros comerciales;27;3.3707865168539324;801;ADODB B1[{_13}].Rp
+27;B1;2 días a la semana;Centros comerciales;31;3.8701622971285894;801;ADODB B1[{_13}].Rp
+27;B1;1 día a la semana;Centros comerciales;104;12.983770287141073;801;ADODB B1[{_13}].Rp
+27;B1;Cada 15 días;Centros comerciales;92;11.485642946317103;801;ADODB B1[{_13}].Rp
+27;B1;1 vez al mes;Centros comerciales;178;22.22222222222222;801;ADODB B1[{_13}].Rp
+27;B1;1 vez cada 2 meses;Centros comerciales;73;9.113607990012484;801;ADODB B1[{_13}].Rp
+27;B1;Con menor frecuencia;Centros comerciales;106;13.233458177278402;801;ADODB B1[{_13}].Rp
+27;B1;No asisto;Centros comerciales;170;21.22347066167291;801;ADODB B1[{_13}].Rp
+27;B1;Todos los días de la semana;Tiendas como Dollarcity, Mumuso, Miniso, Cami Shop, Ilahui;6;0.7490636704119851;801;ADODB B1[{_14}].Rp
+27;B1;5 a 6 días a la semana;Tiendas como Dollarcity, Mumuso, Miniso, Cami Shop, Ilahui;4;0.4993757802746567;801;ADODB B1[{_14}].Rp
+27;B1;3 a 4 día a la semana;Tiendas como Dollarcity, Mumuso, Miniso, Cami Shop, Ilahui;18;2.247191011235955;801;ADODB B1[{_14}].Rp
+27;B1;2 días a la semana;Tiendas como Dollarcity, Mumuso, Miniso, Cami Shop, Ilahui;23;2.871410736579276;801;ADODB B1[{_14}].Rp
+27;B1;1 día a la semana;Tiendas como Dollarcity, Mumuso, Miniso, Cami Shop, Ilahui;48;5.992509363295881;801;ADODB B1[{_14}].Rp
+27;B1;Cada 15 días;Tiendas como Dollarcity, Mumuso, Miniso, Cami Shop, Ilahui;47;5.867665418227216;801;ADODB B1[{_14}].Rp
+27;B1;1 vez al mes;Tiendas como Dollarcity, Mumuso, Miniso, Cami Shop, Ilahui;118;14.731585518102372;801;ADODB B1[{_14}].Rp
+27;B1;1 vez cada 2 meses;Tiendas como Dollarcity, Mumuso, Miniso, Cami Shop, Ilahui;47;5.867665418227216;801;ADODB B1[{_14}].Rp
+27;B1;Con menor frecuencia;Tiendas como Dollarcity, Mumuso, Miniso, Cami Shop, Ilahui;105;13.108614232209737;801;ADODB B1[{_14}].Rp
+27;B1;No asisto;Tiendas como Dollarcity, Mumuso, Miniso, Cami Shop, Ilahui;385;48.064918851435706;801;ADODB B1[{_14}].Rp
+27;B1;Todos los días de la semana;Tiendas para mascotas (ej. Superpet, Petlover);8;0.9987515605493134;801;ADODB B1[{_15}].Rp
+27;B1;5 a 6 días a la semana;Tiendas para mascotas (ej. Superpet, Petlover);1;0.12484394506866417;801;ADODB B1[{_15}].Rp
+27;B1;3 a 4 día a la semana;Tiendas para mascotas (ej. Superpet, Petlover);19;2.3720349563046192;801;ADODB B1[{_15}].Rp
+27;B1;2 días a la semana;Tiendas para mascotas (ej. Superpet, Petlover);16;1.9975031210986267;801;ADODB B1[{_15}].Rp
+27;B1;1 día a la semana;Tiendas para mascotas (ej. Superpet, Petlover);29;3.620474406991261;801;ADODB B1[{_15}].Rp
+27;B1;Cada 15 días;Tiendas para mascotas (ej. Superpet, Petlover);36;4.49438202247191;801;ADODB B1[{_15}].Rp
+27;B1;1 vez al mes;Tiendas para mascotas (ej. Superpet, Petlover);89;11.11111111111111;801;ADODB B1[{_15}].Rp
+27;B1;1 vez cada 2 meses;Tiendas para mascotas (ej. Superpet, Petlover);32;3.9950062421972534;801;ADODB B1[{_15}].Rp
+27;B1;Con menor frecuencia;Tiendas para mascotas (ej. Superpet, Petlover);82;10.237203495630462;801;ADODB B1[{_15}].Rp
+27;B1;No asisto;Tiendas para mascotas (ej. Superpet, Petlover);489;61.048689138576776;801;ADODB B1[{_15}].Rp
+27;B1;Todos los días de la semana;Ferreterías;11;1.373283395755306;801;ADODB B1[{_16}].Rp
+27;B1;5 a 6 días a la semana;Ferreterías;3;0.37453183520599254;801;ADODB B1[{_16}].Rp
+27;B1;3 a 4 día a la semana;Ferreterías;13;1.6229712858926342;801;ADODB B1[{_16}].Rp
+27;B1;2 días a la semana;Ferreterías;16;1.9975031210986267;801;ADODB B1[{_16}].Rp
+27;B1;1 día a la semana;Ferreterías;35;4.369538077403246;801;ADODB B1[{_16}].Rp
+27;B1;Cada 15 días;Ferreterías;46;5.742821473158552;801;ADODB B1[{_16}].Rp
+27;B1;1 vez al mes;Ferreterías;130;16.22971285892634;801;ADODB B1[{_16}].Rp
+27;B1;1 vez cada 2 meses;Ferreterías;66;8.239700374531836;801;ADODB B1[{_16}].Rp
+27;B1;Con menor frecuencia;Ferreterías;205;25.593008739076154;801;ADODB B1[{_16}].Rp
+27;B1;No asisto;Ferreterías;276;34.45692883895131;801;ADODB B1[{_16}].Rp
+28;B2;Bodegas;TOTAL;782;97.628;801;ADODB (validado con porcentajes TOM)
+28;B2;Mercados de su barrio;TOTAL;733;91.511;801;ADODB (validado con porcentajes TOM)
+28;B2;Cadenas de farmacias;TOTAL;697;87.016;801;ADODB (validado con porcentajes TOM)
+28;B2;Restaurantes;TOTAL;686;85.643;801;ADODB (validado con porcentajes TOM)
+28;B2;Supermercados (ej. Tottus, Plaza Vea, Metro, Wong, etc.);TOTAL;666;83.146;801;ADODB (validado con porcentajes TOM)
+28;B2;Centros comerciales;TOTAL;631;78.777;801;ADODB (validado con porcentajes TOM)
+28;B2;Tiendas por departamentos (ej. Saga, Ripley, Oechsle, etc.);TOTAL;566;70.662;801;ADODB (validado con porcentajes TOM)
+28;B2;Mercados mayoristas;TOTAL;554;69.164;801;ADODB (validado con porcentajes TOM)
+28;B2;Ferreterías;TOTAL;525;65.543;801;ADODB (validado con porcentajes TOM)
+28;B2;Tiendas de mejoramiento del hogar (ej. Sodimac, Maestro, Promart, etc.);TOTAL;507;63.296;801;ADODB (validado con porcentajes TOM)
+28;B2;Tiendas de descuentos (ej. Mass, Maxiahorro, A3, etc.);TOTAL;482;60.175;801;ADODB (validado con porcentajes TOM)
+28;B2;Tiendas de conveniencia (ej. Tambo, Repshop, Listo, OXXO, Spid, etc.);TOTAL;419;52.31;801;ADODB (validado con porcentajes TOM)
+29;B2M;Bodegas;TOTAL;763;95.256;801;ADODB (validado con porcentajes TOM)
+29;B2M;Mercados de su barrio;TOTAL;689;86.017;801;ADODB (validado con porcentajes TOM)
+29;B2M;Restaurantes;TOTAL;549;68.539;801;ADODB (validado con porcentajes TOM)
+29;B2M;Supermercados (ej. Tottus, Plaza Vea, Metro, Wong, Holi, etc.);TOTAL;527;65.793;801;ADODB (validado con porcentajes TOM)
+29;B2M;Cadenas de farmacias;TOTAL;525;65.543;801;ADODB (validado con porcentajes TOM)
+29;B2M;Centros comerciales;TOTAL;452;56.429;801;ADODB (validado con porcentajes TOM)
+29;B2M;Mercados mayoristas;TOTAL;440;54.931;801;ADODB (validado con porcentajes TOM)
+29;B2M;Tiendas de descuentos (ej. Mass, Maxiahorro, 3A, etc.);TOTAL;379;47.316;801;ADODB (validado con porcentajes TOM)
+29;B2M;Tiendas por departamentos (ej. Saga, Ripley, Oechsle, etc.);TOTAL;374;46.692;801;ADODB (validado con porcentajes TOM)
+29;B2M;Tiendas de conveniencia (ej. Tambo, Repshop, Listo, OXXO, Spid, etc.);TOTAL;313;39.076;801;ADODB (validado con porcentajes TOM)
+29;B2M;Tiendas como Dollarcity, Mumuso, Miniso, Cami Shop, Ilahui;TOTAL;264;32.959;801;ADODB (validado con porcentajes TOM)
+29;B2M;Tiendas de mejoramiento del hogar (ej. Sodimac, Maestro, Promart, etc.);TOTAL;256;31.96;801;ADODB (validado con porcentajes TOM)
+30;B3;El gasto se ha reducido;Bodegas;92;11.764705882352942;782;ADODB B3[{_1}].Rp
+30;B3;El gasto se ha mantenido;Bodegas;407;52.0460358056266;782;ADODB B3[{_1}].Rp
+30;B3;El gasto ha aumentado;Bodegas;283;36.18925831202046;782;ADODB B3[{_1}].Rp
+30;B3;El gasto se ha reducido;Mercados de su barrio;72;9.822646657571623;733;ADODB B3[{_3}].Rp
+30;B3;El gasto se ha mantenido;Mercados de su barrio;371;50.61391541609822;733;ADODB B3[{_3}].Rp
+30;B3;El gasto ha aumentado;Mercados de su barrio;290;39.56343792633015;733;ADODB B3[{_3}].Rp
+30;B3;El gasto se ha reducido;Mercados mayoristas;103;18.592057761732853;554;ADODB B3[{_4}].Rp
+30;B3;El gasto se ha mantenido;Mercados mayoristas;280;50.541516245487365;554;ADODB B3[{_4}].Rp
+30;B3;El gasto ha aumentado;Mercados mayoristas;171;30.866425992779785;554;ADODB B3[{_4}].Rp
+30;B3;El gasto se ha reducido;Supermercados (ej. Tottus, Plaza Vea, Metro, Wong, etc.);123;18.46846846846847;666;ADODB B3[{_5}].Rp
+30;B3;El gasto se ha mantenido;Supermercados (ej. Tottus, Plaza Vea, Metro, Wong, etc.);357;53.6036036036036;666;ADODB B3[{_5}].Rp
+30;B3;El gasto ha aumentado;Supermercados (ej. Tottus, Plaza Vea, Metro, Wong, etc.);186;27.92792792792793;666;ADODB B3[{_5}].Rp
+30;B3;El gasto se ha reducido;Tiendas por departamentos (ej. Saga, Ripley, Oechsle, etc.);146;25.795053003533567;566;ADODB B3[{_6}].Rp
+30;B3;El gasto se ha mantenido;Tiendas por departamentos (ej. Saga, Ripley, Oechsle, etc.);288;50.88339222614841;566;ADODB B3[{_6}].Rp
+30;B3;El gasto ha aumentado;Tiendas por departamentos (ej. Saga, Ripley, Oechsle, etc.);132;23.32155477031802;566;ADODB B3[{_6}].Rp
+30;B3;El gasto se ha reducido;Tiendas de mejoramiento del hogar (ej. Sodimac, Maestro, Promart, etc.);128;25.2465483234714;507;ADODB B3[{_7}].Rp
+30;B3;El gasto se ha mantenido;Tiendas de mejoramiento del hogar (ej. Sodimac, Maestro, Promart, etc.);285;56.21301775147929;507;ADODB B3[{_7}].Rp
+30;B3;El gasto ha aumentado;Tiendas de mejoramiento del hogar (ej. Sodimac, Maestro, Promart, etc.);94;18.54043392504931;507;ADODB B3[{_7}].Rp
+30;B3;El gasto se ha reducido;Tiendas de descuentos (ej. Mass, Maxiahorro, A3, etc.);90;18.672199170124482;482;ADODB B3[{_8}].Rp
+30;B3;El gasto se ha mantenido;Tiendas de descuentos (ej. Mass, Maxiahorro, A3, etc.);314;65.14522821576763;482;ADODB B3[{_8}].Rp
+30;B3;El gasto ha aumentado;Tiendas de descuentos (ej. Mass, Maxiahorro, A3, etc.);78;16.182572614107883;482;ADODB B3[{_8}].Rp
+30;B3;El gasto se ha reducido;Tiendas de conveniencia (ej. Tambo, Repshop, Listo, OXXO, Spid, etc.);82;19.570405727923628;419;ADODB B3[{_9}].Rp
+30;B3;El gasto se ha mantenido;Tiendas de conveniencia (ej. Tambo, Repshop, Listo, OXXO, Spid, etc.);250;59.665871121718375;419;ADODB B3[{_9}].Rp
+30;B3;El gasto ha aumentado;Tiendas de conveniencia (ej. Tambo, Repshop, Listo, OXXO, Spid, etc.);87;20.763723150357997;419;ADODB B3[{_9}].Rp
+30;B3;El gasto se ha reducido;Tiendas mayoristas (ej. Makro, Economax, Mayorsa, Vega, etc.);86;22.164948453608247;388;ADODB B3[{_10}].Rp
+30;B3;El gasto se ha mantenido;Tiendas mayoristas (ej. Makro, Economax, Mayorsa, Vega, etc.);244;62.88659793814433;388;ADODB B3[{_10}].Rp
+30;B3;El gasto ha aumentado;Tiendas mayoristas (ej. Makro, Economax, Mayorsa, Vega, etc.);58;14.948453608247423;388;ADODB B3[{_10}].Rp
+30;B3;El gasto se ha reducido;Cadenas de farmacias;92;13.199426111908178;697;ADODB B3[{_11}].Rp
+30;B3;El gasto se ha mantenido;Cadenas de farmacias;445;63.84505021520803;697;ADODB B3[{_11}].Rp
+30;B3;El gasto ha aumentado;Cadenas de farmacias;160;22.95552367288379;697;ADODB B3[{_11}].Rp
+30;B3;El gasto se ha reducido;Restaurantes;106;15.451895043731778;686;ADODB B3[{_12}].Rp
+30;B3;El gasto se ha mantenido;Restaurantes;375;54.66472303206997;686;ADODB B3[{_12}].Rp
+30;B3;El gasto ha aumentado;Restaurantes;205;29.88338192419825;686;ADODB B3[{_12}].Rp
+30;B3;El gasto se ha reducido;Centros comerciales;120;19.01743264659271;631;ADODB B3[{_13}].Rp
+30;B3;El gasto se ha mantenido;Centros comerciales;376;59.58795562599049;631;ADODB B3[{_13}].Rp
+30;B3;El gasto ha aumentado;Centros comerciales;135;21.394611727416798;631;ADODB B3[{_13}].Rp
+30;B3;El gasto se ha reducido;Tiendas como Dollarcity, Mumuso, Miniso, Cami Shop, Ilahui;104;25.0;416;ADODB B3[{_14}].Rp
+30;B3;El gasto se ha mantenido;Tiendas como Dollarcity, Mumuso, Miniso, Cami Shop, Ilahui;259;62.25961538461539;416;ADODB B3[{_14}].Rp
+30;B3;El gasto ha aumentado;Tiendas como Dollarcity, Mumuso, Miniso, Cami Shop, Ilahui;53;12.740384615384615;416;ADODB B3[{_14}].Rp
+30;B3;El gasto se ha reducido;Tiendas para mascotas (ej. Superpet, Petlover);61;19.55128205128205;312;ADODB B3[{_15}].Rp
+30;B3;El gasto se ha mantenido;Tiendas para mascotas (ej. Superpet, Petlover);196;62.82051282051282;312;ADODB B3[{_15}].Rp
+30;B3;El gasto ha aumentado;Tiendas para mascotas (ej. Superpet, Petlover);55;17.628205128205128;312;ADODB B3[{_15}].Rp
+30;B3;El gasto se ha reducido;Ferreterías;124;23.61904761904762;525;ADODB B3[{_16}].Rp
+30;B3;El gasto se ha mantenido;Ferreterías;310;59.04761904761905;525;ADODB B3[{_16}].Rp
+30;B3;El gasto ha aumentado;Ferreterías;91;17.333333333333332;525;ADODB B3[{_16}].Rp
+31;B4;(1) Explorar y comprar en tiendas, mercados o bodegas nuevos para usted;TOTAL;150;18.727;801;ADODB (validado con porcentajes TOM)
+31;B4;(2) Dejar de ir a comprar a alguna tienda donde suele comprar;TOTAL;86;10.737;801;ADODB (validado con porcentajes TOM)
+31;B4;(3) Dedicar más tiempo a investigar, comparar precios y leer reseñas antes de hacer una compra;TOTAL;159;19.85;801;ADODB (validado con porcentajes TOM)
+31;B4;(4) Atreverme a probar nuevos productos o marcas que no ha probado anteriormente;TOTAL;179;22.347;801;ADODB (validado con porcentajes TOM)
+31;B4;(5) Recomendar activamente a amigos o familiares las marcas o productos que funcionen bien;TOTAL;85;10.612;801;ADODB (validado con porcentajes TOM)
+31;B4;(6) Concentrar sus compras en menos visitas pero más grandes (ej. compras del mes) para ahorrar tiempo y dinero;TOTAL;88;10.986;801;ADODB (validado con porcentajes TOM)
+31;B4;(7) Hacer compras más pequeñas y frecuentes para controlar mejor su gasto diario;TOTAL;200;24.969;801;ADODB (validado con porcentajes TOM)
+31;B4;(8) Aumentar la frecuencia con la que compra ciertas categorías de productos;TOTAL;17;2.122;801;ADODB (validado con porcentajes TOM)
+31;B4;(9) Reducir la frecuencia con la que compra otras categorías para ahorrar;TOTAL;125;15.605;801;ADODB (validado con porcentajes TOM)
+31;B4;(10) Aumentar mis compras a través de canales online (páginas web, apps, redes sociales);TOTAL;61;7.615;801;ADODB (validado con porcentajes TOM)
+31;B4;(96) Ninguna;TOTAL;139;17.353;801;ADODB (validado con porcentajes TOM)
+32;B5;Compraré productos que son de marcas económicas;TOTAL;343;42.821;801;ADODB (validado con porcentajes TOM)
+32;B5;Compraré productos que son de marcas premium;TOTAL;79;9.863;801;ADODB (validado con porcentajes TOM)
+32;B5;Compraré productos que tienen la marca del supermercado (ej. Tottus, Bell´s, Aro, etc.);TOTAL;137;17.104;801;ADODB (validado con porcentajes TOM)
+32;B5;Compraré productos que son de marca regular, es decir que no son económicas ni premium;TOTAL;278;34.707;801;ADODB (validado con porcentajes TOM)
+32;B5;Ninguno;TOTAL;94;11.735;801;ADODB (validado con porcentajes TOM)
+33;B5x;Unicamente marcas económicas;TOTAL;262;32.709;801;ADODB (validado con porcentajes TOM)
+33;B5x;Unicamente marcas premium;TOTAL;48;5.992;801;ADODB (validado con porcentajes TOM)
+33;B5x;Unicamente marcas de supermercado;TOTAL;73;9.114;801;ADODB (validado con porcentajes TOM)
+33;B5x;Unicamente marcas regulares;TOTAL;206;25.718;801;ADODB (validado con porcentajes TOM)
+33;B5x;Marcas económicas + marcas premium;TOTAL;6;0.749;801;ADODB (validado con porcentajes TOM)
+33;B5x;Marcas económicas + premium + supermercados;TOTAL;1;0.125;801;ADODB (validado con porcentajes TOM)
+33;B5x;No aplica;TOTAL;205;25.593;801;ADODB (validado con porcentajes TOM)
+34;B6;(1) Suelo comprar productos en formato familiar o grande para que rinda más y ahorrar dinero por unidad;TOTAL;384;47.94;801;ADODB (validado con porcentajes TOM)
+34;B6;(2) Suelo comprar formatos personales o individuales por su conveniencia, para controlar las porciones;TOTAL;145;18.102;801;ADODB (validado con porcentajes TOM)
+34;B6;(3) Compro tamaños pequeños o personales cuando quiero probar algo nuevo sin arriesgar mucho dinero;TOTAL;152;18.976;801;ADODB (validado con porcentajes TOM)
+34;B6;(4) Para mis compras del día a día, a menudo compro formatos muy pequeños o de un solo uso (sachets);TOTAL;70;8.739;801;ADODB (validado con porcentajes TOM)
+34;B6;"(5) La verdad, no me fijo mucho en el tamaño; compro el disponible o el de mejor oferta en ese momento";TOTAL;159;19.85;801;ADODB (validado con porcentajes TOM)
+34;B6;(96) Ninguna de las anteriores;TOTAL;61;7.615;801;ADODB (validado con porcentajes TOM)
+35;B7;Precios bajos;TOTAL;247;30.836;801;ADODB (validado con porcentajes TOM)
+35;B7;"2x1 / ""3x2""";TOTAL;184;22.971;801;ADODB (validado con porcentajes TOM)
+35;B7;Liquidación;TOTAL;178;22.222;801;ADODB (validado con porcentajes TOM)
+35;B7;Super ofertas;TOTAL;153;19.101;801;ADODB (validado con porcentajes TOM)
+35;B7;Buen precio;TOTAL;142;17.728;801;ADODB (validado con porcentajes TOM)
+35;B7;Ahorro;TOTAL;120;14.981;801;ADODB (validado con porcentajes TOM)
+35;B7;Delivery gratis;TOTAL;111;13.858;801;ADODB (validado con porcentajes TOM)
+35;B7;Las mejores ofertas;TOTAL;107;13.358;801;ADODB (validado con porcentajes TOM)
+35;B7;Cyber / Black Friday / Sale;TOTAL;93;11.61;801;ADODB (validado con porcentajes TOM)
+35;B7;Ofertas imperdibles;TOTAL;87;10.861;801;ADODB (validado con porcentajes TOM)
+35;B7;Preciazos;TOTAL;67;8.365;801;ADODB (validado con porcentajes TOM)
+35;B7;Producto de regalo / Gratis;TOTAL;64;7.99;801;ADODB (validado con porcentajes TOM)
+36;B8;(3) La calidad de los productos y servicios;TOTAL;378;47.191;801;ADODB (validado con porcentajes TOM)
+36;B8;(6) El precio del producto / servicio;TOTAL;268;33.458;801;ADODB (validado con porcentajes TOM)
+36;B8;(7) Las promociones (descuentos, 2x1, puntos, etc.);TOTAL;261;32.584;801;ADODB (validado con porcentajes TOM)
+36;B8;(4) La marca;TOTAL;161;20.1;801;ADODB (validado con porcentajes TOM)
+36;B8;(2) La atención de los vendedores (amable, clara, rápida);TOTAL;151;18.851;801;ADODB (validado con porcentajes TOM)
+36;B8;(1) La asesoría y recomendaciones de los vendedores;TOTAL;114;14.232;801;ADODB (validado con porcentajes TOM)
+36;B8;(9) La rapidez del proceso de compra;TOTAL;96;11.985;801;ADODB (validado con porcentajes TOM)
+36;B8;(11) Los medios de pago (ej. efectivo, tarjeta, billetera digital, etc.);TOTAL;92;11.486;801;ADODB (validado con porcentajes TOM)
+36;B8;(8) El tamaño / presentación de los productos;TOTAL;77;9.613;801;ADODB (validado con porcentajes TOM)
+36;B8;(5) El delivery a domicilio;TOTAL;63;7.865;801;ADODB (validado con porcentajes TOM)
+36;B8;(10) Los canales de compra (ej. tienda física, tienda virtual, etc.);TOTAL;41;5.119;801;ADODB (validado con porcentajes TOM)
+36;B8;(99) No precisa;TOTAL;27;3.371;801;ADODB (validado con porcentajes TOM)
+37;B8x;La asesoría y recomendaciones de los vendedores;TOTAL;25;3.121;801;ADODB (validado con porcentajes TOM)
+37;B8x;La atención de los vendedores (amable, clara, rápida);TOTAL;29;3.621;801;ADODB (validado con porcentajes TOM)
+37;B8x;La calidad de los productos y servicios;TOTAL;81;10.112;801;ADODB (validado con porcentajes TOM)
+37;B8x;La marca;TOTAL;20;2.497;801;ADODB (validado con porcentajes TOM)
+37;B8x;El delivery a domicilio;TOTAL;6;0.749;801;ADODB (validado con porcentajes TOM)
+37;B8x;El precio del producto / servicio;TOTAL;36;4.494;801;ADODB (validado con porcentajes TOM)
+37;B8x;Las promociones (descuentos, 2x1, puntos, etc.);TOTAL;51;6.367;801;ADODB (validado con porcentajes TOM)
+37;B8x;El tamaño / presentación de los productos;TOTAL;7;0.874;801;ADODB (validado con porcentajes TOM)
+37;B8x;La rapidez del proceso de compra;TOTAL;5;0.624;801;ADODB (validado con porcentajes TOM)
+37;B8x;Los medios de pago (ej. efectivo, tarjeta, billetera digital, etc.);TOTAL;8;0.999;801;ADODB (validado con porcentajes TOM)
+37;B8x;No aplica;TOTAL;533;66.542;801;ADODB (validado con porcentajes TOM)
+38;B8a;1 Nada importante;Que sea una marca peruana;32;3.9950062421972534;801;ADODB B8a[{_1}].Rp
+38;B8a;2;Que sea una marca peruana;42;5.2434456928838955;801;ADODB B8a[{_1}].Rp
+38;B8a;3;Que sea una marca peruana;180;22.471910112359552;801;ADODB B8a[{_1}].Rp
+38;B8a;4;Que sea una marca peruana;277;34.581772784019975;801;ADODB B8a[{_1}].Rp
+38;B8a;5 Muy importante;Que sea una marca peruana;270;33.70786516853933;801;ADODB B8a[{_1}].Rp
+38;B8a;1 Nada importante;Que sea amigable con el medio ambiente / sostenible;22;2.746566791510612;801;ADODB B8a[{_2}].Rp
+38;B8a;2;Que sea amigable con el medio ambiente / sostenible;38;4.7440699126092385;801;ADODB B8a[{_2}].Rp
+38;B8a;3;Que sea amigable con el medio ambiente / sostenible;170;21.22347066167291;801;ADODB B8a[{_2}].Rp
+38;B8a;4;Que sea amigable con el medio ambiente / sostenible;267;33.333333333333336;801;ADODB B8a[{_2}].Rp
+38;B8a;5 Muy importante;Que sea amigable con el medio ambiente / sostenible;304;37.95255930087391;801;ADODB B8a[{_2}].Rp
+38;B8a;1 Nada importante;Que demuestre un compromiso real con la sociedad (responsabilidad social);24;2.9962546816479403;801;ADODB B8a[{_3}].Rp
+38;B8a;2;Que demuestre un compromiso real con la sociedad (responsabilidad social);36;4.49438202247191;801;ADODB B8a[{_3}].Rp
+38;B8a;3;Que demuestre un compromiso real con la sociedad (responsabilidad social);156;19.475655430711612;801;ADODB B8a[{_3}].Rp
+38;B8a;4;Que demuestre un compromiso real con la sociedad (responsabilidad social);307;38.3270911360799;801;ADODB B8a[{_3}].Rp
+38;B8a;5 Muy importante;Que demuestre un compromiso real con la sociedad (responsabilidad social);278;34.70661672908864;801;ADODB B8a[{_3}].Rp
+38;B8a;1 Nada importante;Que promueva un estilo de vida saludable y de bienestar;16;1.9975031210986267;801;ADODB B8a[{_4}].Rp
+38;B8a;2;Que promueva un estilo de vida saludable y de bienestar;39;4.868913857677903;801;ADODB B8a[{_4}].Rp
+38;B8a;3;Que promueva un estilo de vida saludable y de bienestar;131;16.354556803995006;801;ADODB B8a[{_4}].Rp
+38;B8a;4;Que promueva un estilo de vida saludable y de bienestar;270;33.70786516853933;801;ADODB B8a[{_4}].Rp
+38;B8a;5 Muy importante;Que promueva un estilo de vida saludable y de bienestar;345;43.07116104868914;801;ADODB B8a[{_4}].Rp
+38;B8a;1 Nada importante;Que sea una marca que me dé estatus o exclusividad;75;9.363295880149813;801;ADODB B8a[{_5}].Rp
+38;B8a;2;Que sea una marca que me dé estatus o exclusividad;105;13.108614232209737;801;ADODB B8a[{_5}].Rp
+38;B8a;3;Que sea una marca que me dé estatus o exclusividad;204;25.46816479400749;801;ADODB B8a[{_5}].Rp
+38;B8a;4;Que sea una marca que me dé estatus o exclusividad;227;28.339575530586767;801;ADODB B8a[{_5}].Rp
+38;B8a;5 Muy importante;Que sea una marca que me dé estatus o exclusividad;190;23.72034956304619;801;ADODB B8a[{_5}].Rp
+38;B8a;1 Nada importante;Que sea una marca innovadora y que esté a la vanguardia;35;4.369538077403246;801;ADODB B8a[{_6}].Rp
+38;B8a;2;Que sea una marca innovadora y que esté a la vanguardia;65;8.11485642946317;801;ADODB B8a[{_6}].Rp
+38;B8a;3;Que sea una marca innovadora y que esté a la vanguardia;203;25.343320848938827;801;ADODB B8a[{_6}].Rp
+38;B8a;4;Que sea una marca innovadora y que esté a la vanguardia;261;32.58426966292135;801;ADODB B8a[{_6}].Rp
+38;B8a;5 Muy importante;Que sea una marca innovadora y que esté a la vanguardia;237;29.588014981273407;801;ADODB B8a[{_6}].Rp
+38;B8a;1 Nada importante;Que sea una marca transparente y honesta en su comunicación;16;1.9975031210986267;801;ADODB B8a[{_7}].Rp
+38;B8a;2;Que sea una marca transparente y honesta en su comunicación;26;3.2459425717852683;801;ADODB B8a[{_7}].Rp
+38;B8a;3;Que sea una marca transparente y honesta en su comunicación;142;17.72784019975031;801;ADODB B8a[{_7}].Rp
+38;B8a;4;Que sea una marca transparente y honesta en su comunicación;269;33.58302122347066;801;ADODB B8a[{_7}].Rp
+38;B8a;5 Muy importante;Que sea una marca transparente y honesta en su comunicación;348;43.445692883895134;801;ADODB B8a[{_7}].Rp
+39;B8ax;Que sea una marca peruana;TOTAL;547;68.29;801;ADODB (validado con porcentajes TOM)
+39;B8ax;Que sea amigable con el medio ambiente / sostenible;TOTAL;571;71.286;801;ADODB (validado con porcentajes TOM)
+39;B8ax;Que demuestre un compromiso real con la sociedad (responsabilidad social);TOTAL;585;73.034;801;ADODB (validado con porcentajes TOM)
+39;B8ax;Que promueva un estilo de vida saludable y de bienestar;TOTAL;615;76.779;801;ADODB (validado con porcentajes TOM)
+39;B8ax;Que sea una marca que me dé estatus o exclusividad;TOTAL;417;52.06;801;ADODB (validado con porcentajes TOM)
+39;B8ax;Que sea una marca innovadora y que esté a la vanguardia;TOTAL;498;62.172;801;ADODB (validado con porcentajes TOM)
+39;B8ax;Que sea una marca transparente y honesta en su comunicación;TOTAL;617;77.029;801;ADODB (validado con porcentajes TOM)
+39;B8ax;No aplica;TOTAL;57;7.116;801;ADODB (validado con porcentajes TOM)
+40;B9;Ofrecer programas de recompensas y descuentos exclusivos para clientes frecuentes;TOTAL;286;35.705;801;ADODB (validado con porcentajes TOM)
+40;B9;Proporcionar un servicio al cliente excepcional y personalizado;TOTAL;176;21.973;801;ADODB (validado con porcentajes TOM)
+40;B9;Implementar políticas de devolución flexibles y sin complicaciones;TOTAL;131;16.355;801;ADODB (validado con porcentajes TOM)
+40;B9;Mantener una comunicación regular y efectiva con los clientes a través de boletines informativos y promociones;TOTAL;153;19.101;801;ADODB (validado con porcentajes TOM)
+40;B9;Garantizar la calidad y la seguridad de los productos o servicios ofrecidos;TOTAL;375;46.816;801;ADODB (validado con porcentajes TOM)
+40;B9;Ofrecer beneficios adicionales y valor agregado a los clientes;TOTAL;156;19.476;801;ADODB (validado con porcentajes TOM)
+40;B9;Brindar acceso exclusivo a eventos o experiencias especiales;TOTAL;60;7.491;801;ADODB (validado con porcentajes TOM)
+40;B9;Establecer alianzas estratégicas con otras marcas reconocidas;TOTAL;81;10.112;801;ADODB (validado con porcentajes TOM)
+40;B9;Realizar acciones de responsabilidad social y sostenibilidad;TOTAL;76;9.488;801;ADODB (validado con porcentajes TOM)
+40;B9;Otro (especifique);TOTAL;3;0.375;801;ADODB (validado con porcentajes TOM)
+40;B9;Ninguno;TOTAL;5;0.624;801;ADODB (validado con porcentajes TOM)
+40;B9;No Precisa;TOTAL;2;0.25;801;ADODB (validado con porcentajes TOM)
+41;B10;(1) Largas filas o tiempos de espera en cajas;TOTAL;602;75.156;801;ADODB (validado con porcentajes TOM)
+41;B10;(4) Atención al cliente grosera o poco profesional;TOTAL;369;46.067;801;ADODB (validado con porcentajes TOM)
+41;B10;(3) Precios elevados o falta de ofertas y descuentos;TOTAL;365;45.568;801;ADODB (validado con porcentajes TOM)
+41;B10;(5) Productos dañados o en mal estado;TOTAL;310;38.702;801;ADODB (validado con porcentajes TOM)
+41;B10;(2) Falta de disponibilidad de productos o tallas;TOTAL;252;31.461;801;ADODB (validado con porcentajes TOM)
+41;B10;(12) Publicidad engañosa o información falsa;TOTAL;238;29.713;801;ADODB (validado con porcentajes TOM)
+41;B10;(7) Falta de información clara y precisa sobre productos;TOTAL;230;28.714;801;ADODB (validado con porcentajes TOM)
+41;B10;(6) Dificultad para realizar devoluciones o cambios;TOTAL;206;25.718;801;ADODB (validado con porcentajes TOM)
+41;B10;(9) Falta de higiene o limpieza en el establecimiento;TOTAL;194;24.22;801;ADODB (validado con porcentajes TOM)
+41;B10;(8) Mal funcionamiento de los sistemas de pago;TOTAL;187;23.346;801;ADODB (validado con porcentajes TOM)
+41;B10;(11) Poca disponibilidad de personal para brindar asistencia;TOTAL;179;22.347;801;ADODB (validado con porcentajes TOM)
+41;B10;(14) Demoras o problemas al recoger una compra hecha por internet (recojo en tienda);TOTAL;90;11.236;801;ADODB (validado con porcentajes TOM)
+42;B11;Me es indiferente;Que acepten el ingreso con mascotas al establecimiento;473;59.05118601747815;801;ADODB B11[{_1}].Rp
+42;B11;Me molesta;Que acepten el ingreso con mascotas al establecimiento;328;40.94881398252185;801;ADODB B11[{_1}].Rp
+42;B11;Me es indiferente;Que se acerque un vendedor a preguntarle si necesita ayuda, aun cuando no lo ha solicitado;512;63.920099875156055;801;ADODB B11[{_2}].Rp
+42;B11;Me molesta;Que se acerque un vendedor a preguntarle si necesita ayuda, aun cuando no lo ha solicitado;289;36.079900124843945;801;ADODB B11[{_2}].Rp
+42;B11;Me es indiferente;Encontrar cajas que están cerradas (no están atendiendo), aun cuando hay afluencia de personas en la cola;114;14.232209737827715;801;ADODB B11[{_3}].Rp
+42;B11;Me molesta;Encontrar cajas que están cerradas (no están atendiendo), aun cuando hay afluencia de personas en la cola;687;85.76779026217228;801;ADODB B11[{_3}].Rp
+42;B11;Me es indiferente;Que no haya probadores / vestidores para probarse la ropa;187;23.3458177278402;801;ADODB B11[{_4}].Rp
+42;B11;Me molesta;Que no haya probadores / vestidores para probarse la ropa;614;76.6541822721598;801;ADODB B11[{_4}].Rp
+42;B11;Me es indiferente;Que los vendedores no estén capacitados para responder cualquier tipo de consulta;194;24.21972534332085;801;ADODB B11[{_5}].Rp
+42;B11;Me molesta;Que los vendedores no estén capacitados para responder cualquier tipo de consulta;607;75.78027465667915;801;ADODB B11[{_5}].Rp
+42;B11;Me es indiferente;Que no haya buena señal de internet en la tienda;330;41.19850187265918;801;ADODB B11[{_6}].Rp
+42;B11;Me molesta;Que no haya buena señal de internet en la tienda;471;58.80149812734082;801;ADODB B11[{_6}].Rp
+42;B11;Me es indiferente;Que soliciten datos personales (DNI, email) en caja para una compra que no requiere factura/boleta;264;32.95880149812734;801;ADODB B11[{_7}].Rp
+42;B11;Me molesta;Que soliciten datos personales (DNI, email) en caja para una compra que no requiere factura/boleta;537;67.04119850187266;801;ADODB B11[{_7}].Rp
+42;B11;Me es indiferente;Tener que descargar y usar la aplicación móvil de la tienda para acceder a descuentos exclusivos;388;48.4394506866417;801;ADODB B11[{_8}].Rp
+42;B11;Me molesta;Tener que descargar y usar la aplicación móvil de la tienda para acceder a descuentos exclusivos;413;51.5605493133583;801;ADODB B11[{_8}].Rp
+42;B11;Me es indiferente;Los anuncios constantes por altavoz sobre promociones, tarjetas de crédito u otros servicios;462;57.67790262172284;801;ADODB B11[{_9}].Rp
+42;B11;Me molesta;Los anuncios constantes por altavoz sobre promociones, tarjetas de crédito u otros servicios;339;42.32209737827716;801;ADODB B11[{_9}].Rp
+42;B11;Me es indiferente;Observar al personal de la tienda conversando entre ellos, sin prestar atención a los clientes;207;25.84269662921348;801;ADODB B11[{_10}].Rp
+42;B11;Me molesta;Observar al personal de la tienda conversando entre ellos, sin prestar atención a los clientes;594;74.15730337078652;801;ADODB B11[{_10}].Rp
+42;B11;Me es indiferente;Que el personal de seguridad quiera revisar tus bolsos o mochilas personales al salir;410;51.18601747815231;801;ADODB B11[{_11}].Rp
+42;B11;Me molesta;Que el personal de seguridad quiera revisar tus bolsos o mochilas personales al salir;391;48.81398252184769;801;ADODB B11[{_11}].Rp
+42;B11;Me es indiferente;Que no incluyan el precio de los productos y tener que preguntarlo;176;21.972534332084894;801;ADODB B11[{_12}].Rp
+42;B11;Me molesta;Que no incluyan el precio de los productos y tener que preguntarlo;625;78.02746566791511;801;ADODB B11[{_12}].Rp
+43;B11T;Encontrar cajas que están cerradas (no están atendiendo), aun cuando hay afluencia de personas en la cola;TOTAL;687;85.768;801;ADODB (validado con porcentajes TOM)
+43;B11T;Que no incluyan el precio de los productos y tener que preguntarlo;TOTAL;625;78.027;801;ADODB (validado con porcentajes TOM)
+43;B11T;Que no haya probadores / vestidores para probarse la ropa;TOTAL;614;76.654;801;ADODB (validado con porcentajes TOM)
+43;B11T;Que los vendedores no estén capacitados para responder cualquier tipo de consulta;TOTAL;607;75.78;801;ADODB (validado con porcentajes TOM)
+43;B11T;Largas filas o tiempos de espera en cajas;TOTAL;602;75.156;801;ADODB (validado con porcentajes TOM)
+43;B11T;Observar al personal de la tienda conversando entre ellos, sin prestar atención a los clientes;TOTAL;594;74.157;801;ADODB (validado con porcentajes TOM)
+43;B11T;Que soliciten datos personales (DNI, email) en caja para una compra que no requiere factura/boleta;TOTAL;537;67.041;801;ADODB (validado con porcentajes TOM)
+43;B11T;Que no haya buena señal de internet en la tienda;TOTAL;471;58.801;801;ADODB (validado con porcentajes TOM)
+43;B11T;Tener que descargar y usar la aplicación móvil de la tienda para acceder a descuentos exclusivos;TOTAL;413;51.561;801;ADODB (validado con porcentajes TOM)
+43;B11T;Que el personal de seguridad quiera revisar tus bolsos o mochilas personales al salir;TOTAL;391;48.814;801;ADODB (validado con porcentajes TOM)
+43;B11T;Atención al cliente grosera o poco profesional;TOTAL;369;46.067;801;ADODB (validado con porcentajes TOM)
+43;B11T;Precios elevados o falta de ofertas y descuentos;TOTAL;365;45.568;801;ADODB (validado con porcentajes TOM)
+44;B12;Muy de acuerdo;Si veo algo que me gusta, suelo comprarlo por impulso sin pensarlo mucho;33;4.119850187265918;801;ADODB B12[{_1}].Rp
+44;B12;De acuerdo;Si veo algo que me gusta, suelo comprarlo por impulso sin pensarlo mucho;332;41.4481897627965;801;ADODB B12[{_1}].Rp
+44;B12;Ni de acuerdo, ni en desacuerdo;Si veo algo que me gusta, suelo comprarlo por impulso sin pensarlo mucho;153;19.10112359550562;801;ADODB B12[{_1}].Rp
+44;B12;En desacuerdo;Si veo algo que me gusta, suelo comprarlo por impulso sin pensarlo mucho;267;33.333333333333336;801;ADODB B12[{_1}].Rp
+44;B12;Muy en desacuerdo;Si veo algo que me gusta, suelo comprarlo por impulso sin pensarlo mucho;16;1.9975031210986267;801;ADODB B12[{_1}].Rp
+44;B12;Muy de acuerdo;Disfruto la experiencia de comprar y explorar nuevas tiendas;80;9.987515605493133;801;ADODB B12[{_2}].Rp
+44;B12;De acuerdo;Disfruto la experiencia de comprar y explorar nuevas tiendas;526;65.66791510611735;801;ADODB B12[{_2}].Rp
+44;B12;Ni de acuerdo, ni en desacuerdo;Disfruto la experiencia de comprar y explorar nuevas tiendas;125;15.605493133583021;801;ADODB B12[{_2}].Rp
+44;B12;En desacuerdo;Disfruto la experiencia de comprar y explorar nuevas tiendas;66;8.239700374531836;801;ADODB B12[{_2}].Rp
+44;B12;Muy en desacuerdo;Disfruto la experiencia de comprar y explorar nuevas tiendas;4;0.4993757802746567;801;ADODB B12[{_2}].Rp
+44;B12;Muy de acuerdo;A menudo gasto más de lo que había presupuestado inicialmente;45;5.617977528089888;801;ADODB B12[{_3}].Rp
+44;B12;De acuerdo;A menudo gasto más de lo que había presupuestado inicialmente;366;45.69288389513109;801;ADODB B12[{_3}].Rp
+44;B12;Ni de acuerdo, ni en desacuerdo;A menudo gasto más de lo que había presupuestado inicialmente;165;20.59925093632959;801;ADODB B12[{_3}].Rp
+44;B12;En desacuerdo;A menudo gasto más de lo que había presupuestado inicialmente;208;25.967540574282147;801;ADODB B12[{_3}].Rp
+44;B12;Muy en desacuerdo;A menudo gasto más de lo que había presupuestado inicialmente;17;2.1223470661672907;801;ADODB B12[{_3}].Rp
+44;B12;Muy de acuerdo;Siempre busco y aprovecho las promociones y descuentos antes de comprar;108;13.48314606741573;801;ADODB B12[{_4}].Rp
+44;B12;De acuerdo;Siempre busco y aprovecho las promociones y descuentos antes de comprar;548;68.41448189762797;801;ADODB B12[{_4}].Rp
+44;B12;Ni de acuerdo, ni en desacuerdo;Siempre busco y aprovecho las promociones y descuentos antes de comprar;100;12.484394506866417;801;ADODB B12[{_4}].Rp
+44;B12;En desacuerdo;Siempre busco y aprovecho las promociones y descuentos antes de comprar;41;5.118601747815231;801;ADODB B12[{_4}].Rp
+44;B12;Muy en desacuerdo;Siempre busco y aprovecho las promociones y descuentos antes de comprar;4;0.4993757802746567;801;ADODB B12[{_4}].Rp
+44;B12;Muy de acuerdo;Comparo precios en diferentes tiendas antes de hacer una compra;94;11.735330836454432;801;ADODB B12[{_5}].Rp
+44;B12;De acuerdo;Comparo precios en diferentes tiendas antes de hacer una compra;483;60.29962546816479;801;ADODB B12[{_5}].Rp
+44;B12;Ni de acuerdo, ni en desacuerdo;Comparo precios en diferentes tiendas antes de hacer una compra;145;18.102372034956304;801;ADODB B12[{_5}].Rp
+44;B12;En desacuerdo;Comparo precios en diferentes tiendas antes de hacer una compra;77;9.61298377028714;801;ADODB B12[{_5}].Rp
+44;B12;Muy en desacuerdo;Comparo precios en diferentes tiendas antes de hacer una compra;2;0.24968789013732834;801;ADODB B12[{_5}].Rp
+44;B12;Muy de acuerdo;Acudo a lugares donde sé que siempre encontraré ofertas;81;10.112359550561798;801;ADODB B12[{_6}].Rp
+44;B12;De acuerdo;Acudo a lugares donde sé que siempre encontraré ofertas;558;69.66292134831461;801;ADODB B12[{_6}].Rp
+44;B12;Ni de acuerdo, ni en desacuerdo;Acudo a lugares donde sé que siempre encontraré ofertas;116;14.481897627965044;801;ADODB B12[{_6}].Rp
+44;B12;En desacuerdo;Acudo a lugares donde sé que siempre encontraré ofertas;45;5.617977528089888;801;ADODB B12[{_6}].Rp
+44;B12;Muy en desacuerdo;Acudo a lugares donde sé que siempre encontraré ofertas;1;0.12484394506866417;801;ADODB B12[{_6}].Rp
+44;B12;Muy de acuerdo;Sueldo comprar siempre las mismas marcas en la mayoría de los productos;54;6.741573033707865;801;ADODB B12[{_7}].Rp
+44;B12;De acuerdo;Sueldo comprar siempre las mismas marcas en la mayoría de los productos;477;59.550561797752806;801;ADODB B12[{_7}].Rp
+44;B12;Ni de acuerdo, ni en desacuerdo;Sueldo comprar siempre las mismas marcas en la mayoría de los productos;161;20.09987515605493;801;ADODB B12[{_7}].Rp
+44;B12;En desacuerdo;Sueldo comprar siempre las mismas marcas en la mayoría de los productos;106;13.233458177278402;801;ADODB B12[{_7}].Rp
+44;B12;Muy en desacuerdo;Sueldo comprar siempre las mismas marcas en la mayoría de los productos;3;0.37453183520599254;801;ADODB B12[{_7}].Rp
+44;B12;Muy de acuerdo;Estoy dispuesto a pagar un poco más por mis marcas favoritas;47;5.867665418227216;801;ADODB B12[{_8}].Rp
+44;B12;De acuerdo;Estoy dispuesto a pagar un poco más por mis marcas favoritas;369;46.06741573033708;801;ADODB B12[{_8}].Rp
+44;B12;Ni de acuerdo, ni en desacuerdo;Estoy dispuesto a pagar un poco más por mis marcas favoritas;163;20.34956304619226;801;ADODB B12[{_8}].Rp
+44;B12;En desacuerdo;Estoy dispuesto a pagar un poco más por mis marcas favoritas;211;26.34207240948814;801;ADODB B12[{_8}].Rp
+44;B12;Muy en desacuerdo;Estoy dispuesto a pagar un poco más por mis marcas favoritas;11;1.373283395755306;801;ADODB B12[{_8}].Rp
+44;B12;Muy de acuerdo;Recomiendo activamente las marcas que me gustan a amigos y familiares;71;8.863920099875156;801;ADODB B12[{_9}].Rp
+44;B12;De acuerdo;Recomiendo activamente las marcas que me gustan a amigos y familiares;465;58.052434456928836;801;ADODB B12[{_9}].Rp
+44;B12;Ni de acuerdo, ni en desacuerdo;Recomiendo activamente las marcas que me gustan a amigos y familiares;155;19.350811485642947;801;ADODB B12[{_9}].Rp
+44;B12;En desacuerdo;Recomiendo activamente las marcas que me gustan a amigos y familiares;103;12.85892634207241;801;ADODB B12[{_9}].Rp
+44;B12;Muy en desacuerdo;Recomiendo activamente las marcas que me gustan a amigos y familiares;7;0.8739076154806492;801;ADODB B12[{_9}].Rp
+44;B12;Muy de acuerdo;Valoro más la calidad del servicio al cliente que el precio del producto;64;7.990012484394507;801;ADODB B12[{_10}].Rp
+44;B12;De acuerdo;Valoro más la calidad del servicio al cliente que el precio del producto;441;55.056179775280896;801;ADODB B12[{_10}].Rp
+44;B12;Ni de acuerdo, ni en desacuerdo;Valoro más la calidad del servicio al cliente que el precio del producto;183;22.846441947565545;801;ADODB B12[{_10}].Rp
+44;B12;En desacuerdo;Valoro más la calidad del servicio al cliente que el precio del producto;109;13.607990012484395;801;ADODB B12[{_10}].Rp
+44;B12;Muy en desacuerdo;Valoro más la calidad del servicio al cliente que el precio del producto;4;0.4993757802746567;801;ADODB B12[{_10}].Rp
+44;B12;Muy de acuerdo;La atención personalizada es un factor decisivo en mis decisiones de compra;65;8.11485642946317;801;ADODB B12[{_11}].Rp
+44;B12;De acuerdo;La atención personalizada es un factor decisivo en mis decisiones de compra;462;57.67790262172284;801;ADODB B12[{_11}].Rp
+44;B12;Ni de acuerdo, ni en desacuerdo;La atención personalizada es un factor decisivo en mis decisiones de compra;175;21.84769038701623;801;ADODB B12[{_11}].Rp
+44;B12;En desacuerdo;La atención personalizada es un factor decisivo en mis decisiones de compra;93;11.610486891385769;801;ADODB B12[{_11}].Rp
+44;B12;Muy en desacuerdo;La atención personalizada es un factor decisivo en mis decisiones de compra;6;0.7490636704119851;801;ADODB B12[{_11}].Rp
+44;B12;Muy de acuerdo;Estoy dispuesto(a) a pagar un poco más por un producto o servicio si eso me ahorra tiempo o esfuerzo;61;7.615480649188514;801;ADODB B12[{_12}].Rp
+44;B12;De acuerdo;Estoy dispuesto(a) a pagar un poco más por un producto o servicio si eso me ahorra tiempo o esfuerzo;423;52.80898876404494;801;ADODB B12[{_12}].Rp
+44;B12;Ni de acuerdo, ni en desacuerdo;Estoy dispuesto(a) a pagar un poco más por un producto o servicio si eso me ahorra tiempo o esfuerzo;147;18.352059925093634;801;ADODB B12[{_12}].Rp
+44;B12;En desacuerdo;Estoy dispuesto(a) a pagar un poco más por un producto o servicio si eso me ahorra tiempo o esfuerzo;159;19.850187265917604;801;ADODB B12[{_12}].Rp
+44;B12;Muy en desacuerdo;Estoy dispuesto(a) a pagar un poco más por un producto o servicio si eso me ahorra tiempo o esfuerzo;11;1.373283395755306;801;ADODB B12[{_12}].Rp
+45;B12x;Siempre busco y aprovecho las promociones y descuentos antes de comprar;TOTAL;656;81.898;801;ADODB (validado con porcentajes TOM)
+45;B12x;Acudo a lugares donde sé que siempre encontraré ofertas;TOTAL;639;79.775;801;ADODB (validado con porcentajes TOM)
+45;B12x;Disfruto la experiencia de comprar y explorar nuevas tiendas;TOTAL;606;75.655;801;ADODB (validado con porcentajes TOM)
+45;B12x;Comparo precios en diferentes tiendas antes de hacer una compra;TOTAL;577;72.035;801;ADODB (validado con porcentajes TOM)
+45;B12x;Recomiendo activamente las marcas que me gustan a amigos y familiares;TOTAL;536;66.916;801;ADODB (validado con porcentajes TOM)
+45;B12x;Suelo comprar siempre las mismas marcas en la mayoría de los productos;TOTAL;531;66.292;801;ADODB (validado con porcentajes TOM)
+45;B12x;La atención personalizada es un factor decisivo en mis decisiones de compra;TOTAL;527;65.793;801;ADODB (validado con porcentajes TOM)
+45;B12x;Valoro más la calidad del servicio al cliente que el precio del producto;TOTAL;505;63.046;801;ADODB (validado con porcentajes TOM)
+45;B12x;Estoy dispuesto(a) a pagar un poco más por un producto o servicio si eso me ahorra tiempo o esfuerzo;TOTAL;484;60.424;801;ADODB (validado con porcentajes TOM)
+45;B12x;Estoy dispuesto a pagar un poco más por mis marcas favoritas;TOTAL;416;51.935;801;ADODB (validado con porcentajes TOM)
+45;B12x;A menudo gasto más de lo que había presupuestado inicialmente;TOTAL;411;51.311;801;ADODB (validado con porcentajes TOM)
+45;B12x;Si veo algo que me gusta, suelo comprarlo por impulso sin pensarlo mucho;TOTAL;365;45.568;801;ADODB (validado con porcentajes TOM)
+46;B13;(96) No compró por internet;TOTAL;352;43.945;801;ADODB (validado con porcentajes TOM)
+46;B13;(2) Ropa, calzado y accesorios de vestir (carteras, joyas, etc.);TOTAL;272;33.958;801;ADODB (validado con porcentajes TOM)
+46;B13;(1) Alimentos y bebidas / pedidos de restaurantes;TOTAL;170;21.223;801;ADODB (validado con porcentajes TOM)
+46;B13;(3) Cuidado personal (champú, desodorante, maquillaje, perfumes, cremas, etc.);TOTAL;107;13.358;801;ADODB (validado con porcentajes TOM)
+46;B13;(7) Dispositivos (computadora, celulares, tecnología en general);TOTAL;96;11.985;801;ADODB (validado con porcentajes TOM)
+46;B13;(6) Salud (productos de la farmacia o seguros de visa, salud, etc.);TOTAL;58;7.241;801;ADODB (validado con porcentajes TOM)
+46;B13;(8) Electro (televisores y electrodomésticos);TOTAL;53;6.617;801;ADODB (validado con porcentajes TOM)
+46;B13;(12) Mejoramiento del hogar (productos para construcción, decoración);TOTAL;52;6.492;801;ADODB (validado con porcentajes TOM)
+46;B13;(5) Productos de limpieza del hogar (lejía, detergentes, etc.);TOTAL;51;6.367;801;ADODB (validado con porcentajes TOM)
+46;B13;(9) Viajes (pasajes, hospedaje, tours, paseos, etc.);TOTAL;49;6.117;801;ADODB (validado con porcentajes TOM)
+46;B13;(11) Entradas a conciertos, cines, teatros y eventos deportivos;TOTAL;46;5.743;801;ADODB (validado con porcentajes TOM)
+46;B13;(13) Educativo (libros, cursos, programas educativos);TOTAL;39;4.869;801;ADODB (validado con porcentajes TOM)
+47;B14;En la tienda física (presencialmente);Se encuentra mejores ofertas y promociones;370;46.192259675405744;801;ADODB B14[{_1}].Rp
+47;B14;Por internet en páginas web, aplicaciones o redes sociales;Se encuentra mejores ofertas y promociones;409;51.06117353308365;801;ADODB B14[{_1}].Rp
+47;B14;No precisa;Se encuentra mejores ofertas y promociones;55;6.866416978776529;801;ADODB B14[{_1}].Rp
+47;B14;En la tienda física (presencialmente);Se encuentra más variedad de productos;463;57.80274656679151;801;ADODB B14[{_2}].Rp
+47;B14;Por internet en páginas web, aplicaciones o redes sociales;Se encuentra más variedad de productos;342;42.69662921348315;801;ADODB B14[{_2}].Rp
+47;B14;No precisa;Se encuentra más variedad de productos;32;3.9950062421972534;801;ADODB B14[{_2}].Rp
+47;B14;En la tienda física (presencialmente);Las personas como usted suelen gastar más;497;62.04744069912609;801;ADODB B14[{_3}].Rp
+47;B14;Por internet en páginas web, aplicaciones o redes sociales;Las personas como usted suelen gastar más;250;31.210986267166042;801;ADODB B14[{_3}].Rp
+47;B14;No precisa;Las personas como usted suelen gastar más;85;10.611735330836455;801;ADODB B14[{_3}].Rp
+47;B14;En la tienda física (presencialmente);Las personas como usted hacen más compras por impulso;412;51.43570536828964;801;ADODB B14[{_4}].Rp
+47;B14;Por internet en páginas web, aplicaciones o redes sociales;Las personas como usted hacen más compras por impulso;267;33.333333333333336;801;ADODB B14[{_4}].Rp
+47;B14;No precisa;Las personas como usted hacen más compras por impulso;139;17.35330836454432;801;ADODB B14[{_4}].Rp
+48;B15;Televisión tradicional (a través de un equipo de TV y buscando los canales y programación, sin usar internet);TOTAL;479;59.8;801;ADODB (validado con porcentajes TOM)
+48;B15;Televisión online (a través de una aplicación o página web, mirando la programación, usando internet);TOTAL;242;30.212;801;ADODB (validado con porcentajes TOM)
+48;B15;No veo televisión de ningún tipo;TOTAL;140;17.478;801;ADODB (validado con porcentajes TOM)
+49;B16;Radio tradicional (a través de un equipo de radio, buscando la emisora, sin usar internet);TOTAL;376;46.941;801;ADODB (validado con porcentajes TOM)
+49;B16;Radio online (a través de una aplicación o página web, usando internet);TOTAL;149;18.602;801;ADODB (validado con porcentajes TOM)
+49;B16;No escucho radio;TOTAL;302;37.703;801;ADODB (validado con porcentajes TOM)
+50;B17;De forma impresa (en papel);TOTAL;213;26.592;801;ADODB (validado con porcentajes TOM)
+50;B17;De forma digital (a través de una aplicación o página web, usando internet);TOTAL;244;30.462;801;ADODB (validado con porcentajes TOM)
+50;B17;No leo diarios;TOTAL;363;45.318;801;ADODB (validado con porcentajes TOM)
+51;B18;Podcast;TOTAL;232;28.964;801;ADODB (validado con porcentajes TOM)
+51;B18;Páginas web de noticias (no son diarios);TOTAL;205;25.593;801;ADODB (validado con porcentajes TOM)
+51;B18;Revistas impresas;TOTAL;67;8.365;801;ADODB (validado con porcentajes TOM)
+51;B18;Revistas digitales (a través de una aplicación o página web, usando internet);TOTAL;159;19.85;801;ADODB (validado con porcentajes TOM)
+51;B18;Ninguno;TOTAL;349;43.571;801;ADODB (validado con porcentajes TOM)
+52;B18T;Televisión tradicional;TOTAL;534;66.667;801;ADODB (validado con porcentajes TOM)
+52;B18T;Televisión online;TOTAL;272;33.958;801;ADODB (validado con porcentajes TOM)
+52;B18T;Radio tradicional;TOTAL;392;48.939;801;ADODB (validado con porcentajes TOM)
+52;B18T;Radio online;TOTAL;166;20.724;801;ADODB (validado con porcentajes TOM)
+52;B18T;Diarios impresos;TOTAL;229;28.589;801;ADODB (validado con porcentajes TOM)
+52;B18T;Diarios digitales;TOTAL;265;33.084;801;ADODB (validado con porcentajes TOM)
+52;B18T;Podcast;TOTAL;248;30.961;801;ADODB (validado con porcentajes TOM)
+52;B18T;Página web de noticias que no son diarios;TOTAL;253;31.586;801;ADODB (validado con porcentajes TOM)
+52;B18T;Revistas impresas;TOTAL;78;9.738;801;ADODB (validado con porcentajes TOM)
+52;B18T;Revistas digitales;TOTAL;165;20.599;801;ADODB (validado con porcentajes TOM)
+52;B18T;Ninguno;TOTAL;31;3.87;801;ADODB (validado con porcentajes TOM)
+53;B18N;Televisión;TOTAL;680;84.894;801;ADODB (validado con porcentajes TOM)
+53;B18N;Radio;TOTAL;504;62.921;801;ADODB (validado con porcentajes TOM)
+53;B18N;Diarios;TOTAL;454;56.679;801;ADODB (validado con porcentajes TOM)
+53;B18N;Revistas;TOTAL;212;26.467;801;ADODB (validado con porcentajes TOM)
+53;B18N;Podcast;TOTAL;248;30.961;801;ADODB (validado con porcentajes TOM)
+53;B18N;Páginas web de noticias;TOTAL;253;31.586;801;ADODB (validado con porcentajes TOM)
+53;B18N;Ninguno;TOTAL;31;3.87;801;ADODB (validado con porcentajes TOM)
+54;B19;Televisión tradicional;Dónde suele informarse / enterarse de lo que está sucediendo en el país;396;49.438202247191015;801;ADODB B19[{_1}].Rp
+54;B19;Televisión online;Dónde suele informarse / enterarse de lo que está sucediendo en el país;155;19.350811485642947;801;ADODB B19[{_1}].Rp
+54;B19;Radio tradicional;Dónde suele informarse / enterarse de lo que está sucediendo en el país;154;19.22596754057428;801;ADODB B19[{_1}].Rp
+54;B19;Radio online;Dónde suele informarse / enterarse de lo que está sucediendo en el país;63;7.865168539325842;801;ADODB B19[{_1}].Rp
+54;B19;Diarios impresos;Dónde suele informarse / enterarse de lo que está sucediendo en el país;68;8.489388264669163;801;ADODB B19[{_1}].Rp
+54;B19;Diarios digitales;Dónde suele informarse / enterarse de lo que está sucediendo en el país;94;11.735330836454432;801;ADODB B19[{_1}].Rp
+54;B19;Podcast;Dónde suele informarse / enterarse de lo que está sucediendo en el país;103;12.85892634207241;801;ADODB B19[{_1}].Rp
+54;B19;Página web de noticias que no son diarios;Dónde suele informarse / enterarse de lo que está sucediendo en el país;110;13.732833957553058;801;ADODB B19[{_1}].Rp
+54;B19;Revistas impresas;Dónde suele informarse / enterarse de lo que está sucediendo en el país;14;1.7478152309612984;801;ADODB B19[{_1}].Rp
+54;B19;Revistas digitales;Dónde suele informarse / enterarse de lo que está sucediendo en el país;24;2.9962546816479403;801;ADODB B19[{_1}].Rp
+54;B19;Facebook;Dónde suele informarse / enterarse de lo que está sucediendo en el país;414;51.68539325842696;801;ADODB B19[{_1}].Rp
+54;B19;Instagram;Dónde suele informarse / enterarse de lo que está sucediendo en el país;158;19.72534332084894;801;ADODB B19[{_1}].Rp
+54;B19;TikTok;Dónde suele informarse / enterarse de lo que está sucediendo en el país;322;40.19975031210986;801;ADODB B19[{_1}].Rp
+54;B19;YouTube;Dónde suele informarse / enterarse de lo que está sucediendo en el país;193;24.094881398252184;801;ADODB B19[{_1}].Rp
+54;B19;Otro (especifique);Dónde suele informarse / enterarse de lo que está sucediendo en el país;3;0.37453183520599254;801;ADODB B19[{_1}].Rp
+54;B19;Whatsapp;Dónde suele informarse / enterarse de lo que está sucediendo en el país;2;0.24968789013732834;801;ADODB B19[{_1}].Rp
+54;B19;Twitter/ X;Dónde suele informarse / enterarse de lo que está sucediendo en el país;1;0.12484394506866417;801;ADODB B19[{_1}].Rp
+54;B19;No Precisa;Dónde suele informarse / enterarse de lo que está sucediendo en el país;2;0.24968789013732834;801;ADODB B19[{_1}].Rp
+54;B19;Netflix;Dónde suele informarse / enterarse de lo que está sucediendo en el país;0;0.0;801;ADODB B19[{_1}].Rp
+54;B19;Televisión tradicional;Dónde suele entretenerse;232;28.963795255930087;801;ADODB B19[{_2}].Rp
+54;B19;Televisión online;Dónde suele entretenerse;87;10.861423220973784;801;ADODB B19[{_2}].Rp
+54;B19;Radio tradicional;Dónde suele entretenerse;63;7.865168539325842;801;ADODB B19[{_2}].Rp
+54;B19;Radio online;Dónde suele entretenerse;36;4.49438202247191;801;ADODB B19[{_2}].Rp
+54;B19;Diarios impresos;Dónde suele entretenerse;22;2.746566791510612;801;ADODB B19[{_2}].Rp
+54;B19;Diarios digitales;Dónde suele entretenerse;21;2.6217228464419478;801;ADODB B19[{_2}].Rp
+54;B19;Podcast;Dónde suele entretenerse;61;7.615480649188514;801;ADODB B19[{_2}].Rp
+54;B19;Página web de noticias que no son diarios;Dónde suele entretenerse;38;4.7440699126092385;801;ADODB B19[{_2}].Rp
+54;B19;Revistas impresas;Dónde suele entretenerse;12;1.4981273408239701;801;ADODB B19[{_2}].Rp
+54;B19;Revistas digitales;Dónde suele entretenerse;11;1.373283395755306;801;ADODB B19[{_2}].Rp
+54;B19;Facebook;Dónde suele entretenerse;406;50.686641697877654;801;ADODB B19[{_2}].Rp
+54;B19;Instagram;Dónde suele entretenerse;190;23.72034956304619;801;ADODB B19[{_2}].Rp
+54;B19;TikTok;Dónde suele entretenerse;450;56.17977528089887;801;ADODB B19[{_2}].Rp
+54;B19;YouTube;Dónde suele entretenerse;310;38.70162297128589;801;ADODB B19[{_2}].Rp
+54;B19;Otro (especifique);Dónde suele entretenerse;5;0.6242197253433208;801;ADODB B19[{_2}].Rp
+54;B19;Whatsapp;Dónde suele entretenerse;2;0.24968789013732834;801;ADODB B19[{_2}].Rp
+54;B19;Twitter/ X;Dónde suele entretenerse;1;0.12484394506866417;801;ADODB B19[{_2}].Rp
+54;B19;No Precisa;Dónde suele entretenerse;5;0.6242197253433208;801;ADODB B19[{_2}].Rp
+54;B19;Netflix;Dónde suele entretenerse;2;0.24968789013732834;801;ADODB B19[{_2}].Rp
+55;B19N;Redes sociales;Dónde suele informarse / enterarse de lo que está sucediendo en el país;536;66.916354556804;801;ADODB B19N[{_1}].Rp
+55;B19N;Televisión;Dónde suele informarse / enterarse de lo que está sucediendo en el país;508;63.4207240948814;801;ADODB B19N[{_1}].Rp
+55;B19N;Radio;Dónde suele informarse / enterarse de lo que está sucediendo en el país;201;25.093632958801496;801;ADODB B19N[{_1}].Rp
+55;B19N;Diarios;Dónde suele informarse / enterarse de lo que está sucediendo en el país;153;19.10112359550562;801;ADODB B19N[{_1}].Rp
+55;B19N;Podcast;Dónde suele informarse / enterarse de lo que está sucediendo en el país;103;12.85892634207241;801;ADODB B19N[{_1}].Rp
+55;B19N;Páginas web de noticias que no son diarios;Dónde suele informarse / enterarse de lo que está sucediendo en el país;110;13.732833957553058;801;ADODB B19N[{_1}].Rp
+55;B19N;Revistas;Dónde suele informarse / enterarse de lo que está sucediendo en el país;34;4.2446941323345815;801;ADODB B19N[{_1}].Rp
+55;B19N;Otro;Dónde suele informarse / enterarse de lo que está sucediendo en el país;3;0.37453183520599254;801;ADODB B19N[{_1}].Rp
+55;B19N;No precisa;Dónde suele informarse / enterarse de lo que está sucediendo en el país;2;0.24968789013732834;801;ADODB B19N[{_1}].Rp
+55;B19N;Streaming;Dónde suele informarse / enterarse de lo que está sucediendo en el país;0;0.0;801;ADODB B19N[{_1}].Rp
+55;B19N;Redes sociales;Dónde suele entretenerse;633;79.02621722846442;801;ADODB B19N[{_2}].Rp
+55;B19N;Televisión;Dónde suele entretenerse;300;37.453183520599254;801;ADODB B19N[{_2}].Rp
+55;B19N;Radio;Dónde suele entretenerse;91;11.36079900124844;801;ADODB B19N[{_2}].Rp
+55;B19N;Diarios;Dónde suele entretenerse;42;5.2434456928838955;801;ADODB B19N[{_2}].Rp
+55;B19N;Podcast;Dónde suele entretenerse;61;7.615480649188514;801;ADODB B19N[{_2}].Rp
+55;B19N;Páginas web de noticias que no son diarios;Dónde suele entretenerse;38;4.7440699126092385;801;ADODB B19N[{_2}].Rp
+55;B19N;Revistas;Dónde suele entretenerse;22;2.746566791510612;801;ADODB B19N[{_2}].Rp
+55;B19N;Otro;Dónde suele entretenerse;5;0.6242197253433208;801;ADODB B19N[{_2}].Rp
+55;B19N;No precisa;Dónde suele entretenerse;5;0.6242197253433208;801;ADODB B19N[{_2}].Rp
+55;B19N;Streaming;Dónde suele entretenerse;2;0.24968789013732834;801;ADODB B19N[{_2}].Rp
+56;B19T;Facebook;TOTAL;520;64.919;801;ADODB (validado con porcentajes TOM)
+56;B19T;TikTok;TOTAL;479;59.8;801;ADODB (validado con porcentajes TOM)
+56;B19T;Televisión tradicional;TOTAL;422;52.684;801;ADODB (validado con porcentajes TOM)
+56;B19T;YouTube;TOTAL;362;45.194;801;ADODB (validado con porcentajes TOM)
+56;B19T;Instagram;TOTAL;238;29.713;801;ADODB (validado con porcentajes TOM)
+56;B19T;Televisión online;TOTAL;174;21.723;801;ADODB (validado con porcentajes TOM)
+56;B19T;Radio tradicional;TOTAL;172;21.473;801;ADODB (validado con porcentajes TOM)
+56;B19T;Podcast;TOTAL;125;15.605;801;ADODB (validado con porcentajes TOM)
+56;B19T;Página web de noticias que no son diarios;TOTAL;124;15.481;801;ADODB (validado con porcentajes TOM)
+56;B19T;Diarios digitales;TOTAL;103;12.859;801;ADODB (validado con porcentajes TOM)
+56;B19T;Diarios impresos;TOTAL;78;9.738;801;ADODB (validado con porcentajes TOM)
+56;B19T;Radio online;TOTAL;77;9.613;801;ADODB (validado con porcentajes TOM)
+57;B19TN;Redes sociales;TOTAL;659;82.272;801;ADODB (validado con porcentajes TOM)
+57;B19TN;Televisión;TOTAL;534;66.667;801;ADODB (validado con porcentajes TOM)
+57;B19TN;Radio;TOTAL;226;28.215;801;ADODB (validado con porcentajes TOM)
+57;B19TN;Diarios;TOTAL;168;20.974;801;ADODB (validado con porcentajes TOM)
+57;B19TN;Podcast;TOTAL;125;15.605;801;ADODB (validado con porcentajes TOM)
+57;B19TN;Páginas web de noticias que no son diarios;TOTAL;124;15.481;801;ADODB (validado con porcentajes TOM)
+57;B19TN;Revistas;TOTAL;46;5.743;801;ADODB (validado con porcentajes TOM)
+57;B19TN;Streaming;TOTAL;2;0.25;801;ADODB (validado con porcentajes TOM)
+57;B19TN;Otro;TOTAL;8;0.999;801;ADODB (validado con porcentajes TOM)
+57;B19TN;No precisa;TOTAL;1;0.125;801;ADODB (validado con porcentajes TOM)
+58;B20;(8) Cines;TOTAL;282;35.206;801;ADODB (validado con porcentajes TOM)
+58;B20;(3) Canchas deportivas para practicar algún deporte;TOTAL;210;26.217;801;ADODB (validado con porcentajes TOM)
+58;B20;(1) Bares, discotecas o karaokes;TOTAL;176;21.973;801;ADODB (validado con porcentajes TOM)
+58;B20;(96) Ninguno de estos;TOTAL;171;21.348;801;ADODB (validado con porcentajes TOM)
+58;B20;(14) Parques recreacionales (De las Leyendas, De la Amistad, Circuito del agua);TOTAL;153;19.101;801;ADODB (validado con porcentajes TOM)
+58;B20;(2) Boulevares;TOTAL;91;11.361;801;ADODB (validado con porcentajes TOM)
+58;B20;(7) Centros y parques de juegos (Mr. Joy, Coney Park, Fun Jungle, Supernova, etc.);TOTAL;89;11.111;801;ADODB (validado con porcentajes TOM)
+58;B20;(12) Estadios (para ver espectáculos deportivos);TOTAL;85;10.612;801;ADODB (validado con porcentajes TOM)
+58;B20;(13) Ferias (del Libro, textiles, gastronómicas, etc.);TOTAL;82;10.237;801;ADODB (validado con porcentajes TOM)
+58;B20;(11) Conciertos;TOTAL;81;10.112;801;ADODB (validado con porcentajes TOM)
+58;B20;(15) Polideportivos;TOTAL;76;9.488;801;ADODB (validado con porcentajes TOM)
+58;B20;(6) Centros de juegos de videojuegos;TOTAL;44;5.493;801;ADODB (validado con porcentajes TOM)
+59;B20x;Restaurantes;TOTAL;686;85.643;801;ADODB (validado con porcentajes TOM)
+59;B20x;Cines;TOTAL;282;35.206;801;ADODB (validado con porcentajes TOM)
+59;B20x;Canchas deportivas para practicar algún deporte;TOTAL;210;26.217;801;ADODB (validado con porcentajes TOM)
+59;B20x;Bares, discotecas o karaokes;TOTAL;176;21.973;801;ADODB (validado con porcentajes TOM)
+59;B20x;Parques recreacionales (De las Leyendas, De la Amistad, Circuito del agua);TOTAL;153;19.101;801;ADODB (validado con porcentajes TOM)
+59;B20x;Boulevares;TOTAL;91;11.361;801;ADODB (validado con porcentajes TOM)
+59;B20x;Centros y parques de juegos (Mr. Joy, Coney Park, Fun Jungle, Supernova, etc.);TOTAL;89;11.111;801;ADODB (validado con porcentajes TOM)
+59;B20x;Estadios (para ver espectáculos deportivos);TOTAL;85;10.612;801;ADODB (validado con porcentajes TOM)
+59;B20x;Ferias (del Libro, textiles, gastronómicas, etc.);TOTAL;82;10.237;801;ADODB (validado con porcentajes TOM)
+59;B20x;Conciertos;TOTAL;81;10.112;801;ADODB (validado con porcentajes TOM)
+59;B20x;Polideportivos;TOTAL;76;9.488;801;ADODB (validado con porcentajes TOM)
+59;B20x;Ninguno de estos;TOTAL;54;6.742;801;ADODB (validado con porcentajes TOM)
+60;B21;Una vez por semana;Hace reuniones familiares en su casa;53;6.616729088639201;801;ADODB B21[{_1}].Rp
+60;B21;2 o 3 veces al mes;Hace reuniones familiares en su casa;46;5.742821473158552;801;ADODB B21[{_1}].Rp
+60;B21;Una vez al mes;Hace reuniones familiares en su casa;152;18.976279650436954;801;ADODB B21[{_1}].Rp
+60;B21;Cada 2 o 3 meses;Hace reuniones familiares en su casa;122;15.230961298377029;801;ADODB B21[{_1}].Rp
+60;B21;Algunas veces al año (de 1 a 4 veces al año);Hace reuniones familiares en su casa;227;28.339575530586767;801;ADODB B21[{_1}].Rp
+60;B21;Casi nunca / Menos de una vez al año;Hace reuniones familiares en su casa;113;14.107365792759051;801;ADODB B21[{_1}].Rp
+60;B21;Nunca;Hace reuniones familiares en su casa;88;10.986267166042447;801;ADODB B21[{_1}].Rp
+60;B21;Una vez por semana;Hace reuniones con amigos en su casa;18;2.247191011235955;801;ADODB B21[{_2}].Rp
+60;B21;2 o 3 veces al mes;Hace reuniones con amigos en su casa;25;3.1210986267166043;801;ADODB B21[{_2}].Rp
+60;B21;Una vez al mes;Hace reuniones con amigos en su casa;100;12.484394506866417;801;ADODB B21[{_2}].Rp
+60;B21;Cada 2 o 3 meses;Hace reuniones con amigos en su casa;81;10.112359550561798;801;ADODB B21[{_2}].Rp
+60;B21;Algunas veces al año (de 1 a 4 veces al año);Hace reuniones con amigos en su casa;165;20.59925093632959;801;ADODB B21[{_2}].Rp
+60;B21;Casi nunca / Menos de una vez al año;Hace reuniones con amigos en su casa;160;19.975031210986266;801;ADODB B21[{_2}].Rp
+60;B21;Nunca;Hace reuniones con amigos en su casa;252;31.46067415730337;801;ADODB B21[{_2}].Rp
+60;B21;Una vez por semana;Asiste a reuniones familiares en otras casa;40;4.9937578027465666;801;ADODB B21[{_3}].Rp
+60;B21;2 o 3 veces al mes;Asiste a reuniones familiares en otras casa;41;5.118601747815231;801;ADODB B21[{_3}].Rp
+60;B21;Una vez al mes;Asiste a reuniones familiares en otras casa;154;19.22596754057428;801;ADODB B21[{_3}].Rp
+60;B21;Cada 2 o 3 meses;Asiste a reuniones familiares en otras casa;138;17.228464419475657;801;ADODB B21[{_3}].Rp
+60;B21;Algunas veces al año (de 1 a 4 veces al año);Asiste a reuniones familiares en otras casa;218;27.21598002496879;801;ADODB B21[{_3}].Rp
+60;B21;Casi nunca / Menos de una vez al año;Asiste a reuniones familiares en otras casa;102;12.734082397003744;801;ADODB B21[{_3}].Rp
+60;B21;Nunca;Asiste a reuniones familiares en otras casa;108;13.48314606741573;801;ADODB B21[{_3}].Rp
+60;B21;Una vez por semana;Asiste a reuniones con amigos en otras casas;26;3.2459425717852683;801;ADODB B21[{_4}].Rp
+60;B21;2 o 3 veces al mes;Asiste a reuniones con amigos en otras casas;53;6.616729088639201;801;ADODB B21[{_4}].Rp
+60;B21;Una vez al mes;Asiste a reuniones con amigos en otras casas;123;15.355805243445692;801;ADODB B21[{_4}].Rp
+60;B21;Cada 2 o 3 meses;Asiste a reuniones con amigos en otras casas;119;14.856429463171036;801;ADODB B21[{_4}].Rp
+60;B21;Algunas veces al año (de 1 a 4 veces al año);Asiste a reuniones con amigos en otras casas;173;21.5980024968789;801;ADODB B21[{_4}].Rp
+60;B21;Casi nunca / Menos de una vez al año;Asiste a reuniones con amigos en otras casas;109;13.607990012484395;801;ADODB B21[{_4}].Rp
+60;B21;Nunca;Asiste a reuniones con amigos en otras casas;198;24.719101123595507;801;ADODB B21[{_4}].Rp
+61;B22;Todos los días de la semana;TOTAL;642;80.15;801;ADODB (validado con porcentajes TOM)
+61;B22;De 5 a 6 días por semana;TOTAL;34;4.245;801;ADODB (validado con porcentajes TOM)
+61;B22;De 3 a 4 días por semana;TOTAL;18;2.247;801;ADODB (validado con porcentajes TOM)
+61;B22;2 días por semana;TOTAL;19;2.372;801;ADODB (validado con porcentajes TOM)
+61;B22;Un día por semana;TOTAL;8;0.999;801;ADODB (validado con porcentajes TOM)
+61;B22;Con menor frecuencia;TOTAL;30;3.745;801;ADODB (validado con porcentajes TOM)
+61;B22;Nunca;TOTAL;50;6.242;801;ADODB (validado con porcentajes TOM)
+62;B22x;Sí;TOTAL;751;93.758;801;ADODB (validado con porcentajes TOM)
+62;B22x;No;TOTAL;50;6.242;801;ADODB (validado con porcentajes TOM)
+63;B23;WhatsApp;TOTAL;731;97.337;751;ADODB (validado con porcentajes TOM)
+63;B23;Facebook;TOTAL;607;80.826;751;ADODB (validado con porcentajes TOM)
+63;B23;TikTok;TOTAL;498;66.312;751;ADODB (validado con porcentajes TOM)
+63;B23;YouTube;TOTAL;397;52.863;751;ADODB (validado con porcentajes TOM)
+63;B23;Instagram;TOTAL;318;42.344;751;ADODB (validado con porcentajes TOM)
+63;B23;Messenger;TOTAL;224;29.827;751;ADODB (validado con porcentajes TOM)
+63;B23;Telegram;TOTAL;90;11.984;751;ADODB (validado con porcentajes TOM)
+63;B23;Pinterest;TOTAL;61;8.123;751;ADODB (validado con porcentajes TOM)
+63;B23;X (Twitter);TOTAL;49;6.525;751;ADODB (validado con porcentajes TOM)
+63;B23;LinkedIn;TOTAL;38;5.06;751;ADODB (validado con porcentajes TOM)
+63;B23;Discord;TOTAL;36;4.794;751;ADODB (validado con porcentajes TOM)
+63;B23;Snapchat;TOTAL;29;3.862;751;ADODB (validado con porcentajes TOM)
+64;B23x;WhatsApp;TOTAL;731;91.261;801;ADODB (validado con porcentajes TOM)
+64;B23x;Facebook;TOTAL;607;75.78;801;ADODB (validado con porcentajes TOM)
+64;B23x;TikTok;TOTAL;498;62.172;801;ADODB (validado con porcentajes TOM)
+64;B23x;YouTube;TOTAL;397;49.563;801;ADODB (validado con porcentajes TOM)
+64;B23x;Instagram;TOTAL;318;39.7;801;ADODB (validado con porcentajes TOM)
+64;B23x;Messenger;TOTAL;224;27.965;801;ADODB (validado con porcentajes TOM)
+64;B23x;Telegram;TOTAL;90;11.236;801;ADODB (validado con porcentajes TOM)
+64;B23x;Pinterest;TOTAL;61;7.615;801;ADODB (validado con porcentajes TOM)
+64;B23x;No aplican;TOTAL;50;6.242;801;ADODB (validado con porcentajes TOM)
+64;B23x;X (Twitter);TOTAL;49;6.117;801;ADODB (validado con porcentajes TOM)
+64;B23x;LinkedIn;TOTAL;38;4.744;801;ADODB (validado con porcentajes TOM)
+64;B23x;Discord;TOTAL;36;4.494;801;ADODB (validado con porcentajes TOM)
+65;B24;Sí;Ves series, películas, videos por streaming (YouTube, Netflix, Disney, Amazon, etc.);562;74.83355525965379;751;ADODB B24[{_1}].Rp
+65;B24;No;Ves series, películas, videos por streaming (YouTube, Netflix, Disney, Amazon, etc.);189;25.166444740346204;751;ADODB B24[{_1}].Rp
+65;B24;Sí;Escuchas música por streaming (YouTube, Spotify, etc.);545;72.56990679094541;751;ADODB B24[{_2}].Rp
+65;B24;No;Escuchas música por streaming (YouTube, Spotify, etc.);206;27.430093209054593;751;ADODB B24[{_2}].Rp
+65;B24;Sí;Apuestas en línea por alguna app o página web (Betsson, Te Apuesto, Dorado Bet, La Tinka, Kabala, Gana Diario, Gana Gol, etc.);77;10.252996005326231;751;ADODB B24[{_3}].Rp
+65;B24;No;Apuestas en línea por alguna app o página web (Betsson, Te Apuesto, Dorado Bet, La Tinka, Kabala, Gana Diario, Gana Gol, etc.);674;89.74700399467376;751;ADODB B24[{_3}].Rp
+65;B24;Sí;Juegas videojuegos;187;24.900133155792275;751;ADODB B24[{_4}].Rp
+65;B24;No;Juegas videojuegos;564;75.09986684420772;751;ADODB B24[{_4}].Rp
+65;B24;Sí;Juegas en alguna app desde tu celular;243;32.35685752330227;751;ADODB B24[{_5}].Rp
+65;B24;No;Juegas en alguna app desde tu celular;508;67.64314247669773;751;ADODB B24[{_5}].Rp
+66;B24x;Sí;Ves series, películas, videos por streaming (YouTube, Netflix, Disney, Amazon, etc.);562;70.16229712858926;801;ADODB B24X[{_1}].Rp
+66;B24x;No;Ves series, películas, videos por streaming (YouTube, Netflix, Disney, Amazon, etc.);189;23.59550561797753;801;ADODB B24X[{_1}].Rp
+66;B24x;No aplican;Ves series, películas, videos por streaming (YouTube, Netflix, Disney, Amazon, etc.);50;6.242197253433209;801;ADODB B24X[{_1}].Rp
+66;B24x;Sí;Escuchas música por streaming (YouTube, Spotify, etc.);545;68.03995006242197;801;ADODB B24X[{_2}].Rp
+66;B24x;No;Escuchas música por streaming (YouTube, Spotify, etc.);206;25.71785268414482;801;ADODB B24X[{_2}].Rp
+66;B24x;No aplican;Escuchas música por streaming (YouTube, Spotify, etc.);50;6.242197253433209;801;ADODB B24X[{_2}].Rp
+66;B24x;Sí;Apuestas en línea por alguna app o página web (Betsson, Te Apuesto, Dorado Bet, La Tinka, Kabala, Gana Diario, Gana Gol, etc.);77;9.61298377028714;801;ADODB B24X[{_3}].Rp
+66;B24x;No;Apuestas en línea por alguna app o página web (Betsson, Te Apuesto, Dorado Bet, La Tinka, Kabala, Gana Diario, Gana Gol, etc.);674;84.14481897627965;801;ADODB B24X[{_3}].Rp
+66;B24x;No aplican;Apuestas en línea por alguna app o página web (Betsson, Te Apuesto, Dorado Bet, La Tinka, Kabala, Gana Diario, Gana Gol, etc.);50;6.242197253433209;801;ADODB B24X[{_3}].Rp
+66;B24x;Sí;Juegas videojuegos;187;23.3458177278402;801;ADODB B24X[{_4}].Rp
+66;B24x;No;Juegas videojuegos;564;70.4119850187266;801;ADODB B24X[{_4}].Rp
+66;B24x;No aplican;Juegas videojuegos;50;6.242197253433209;801;ADODB B24X[{_4}].Rp
+66;B24x;Sí;Juegas en alguna app desde tu celular;243;30.337078651685392;801;ADODB B24X[{_5}].Rp
+66;B24x;No;Juegas en alguna app desde tu celular;508;63.4207240948814;801;ADODB B24X[{_5}].Rp
+66;B24x;No aplican;Juegas en alguna app desde tu celular;50;6.242197253433209;801;ADODB B24X[{_5}].Rp
+67;B25;Prefiero la comodidad y variedad del entretenimiento EN CASA;TOTAL;414;51.685;801;ADODB (validado con porcentajes TOM)
+67;B25;Prefiero la energía y la emoción de las experiencias FUERA DE CASA;TOTAL;103;12.859;801;ADODB (validado con porcentajes TOM)
+67;B25;"Disfruto de un equilibrio entre ambos mundos; valoro tanto los planes en casa como las salidas";TOTAL;284;35.456;801;ADODB (validado con porcentajes TOM)
+68;B25a;Cumbia;TOTAL;345;43.071;801;ADODB (validado con porcentajes TOM)
+68;B25a;Baladas/románticas;TOTAL;251;31.336;801;ADODB (validado con porcentajes TOM)
+68;B25a;Salsa;TOTAL;238;29.713;801;ADODB (validado con porcentajes TOM)
+68;B25a;Rock en español;TOTAL;194;24.22;801;ADODB (validado con porcentajes TOM)
+68;B25a;Bachata;TOTAL;172;21.473;801;ADODB (validado con porcentajes TOM)
+68;B25a;Rock en inglés;TOTAL;157;19.6;801;ADODB (validado con porcentajes TOM)
+68;B25a;Merengue;TOTAL;139;17.353;801;ADODB (validado con porcentajes TOM)
+68;B25a;Música criolla/vals peruano;TOTAL;138;17.228;801;ADODB (validado con porcentajes TOM)
+68;B25a;Boleros;TOTAL;135;16.854;801;ADODB (validado con porcentajes TOM)
+68;B25a;Reggaetón;TOTAL;135;16.854;801;ADODB (validado con porcentajes TOM)
+68;B25a;Pop latino;TOTAL;121;15.106;801;ADODB (validado con porcentajes TOM)
+68;B25a;Huayno/folklore andino;TOTAL;120;14.981;801;ADODB (validado con porcentajes TOM)
+69;B25b;Acción/Aventura;TOTAL;395;49.313;801;ADODB (validado con porcentajes TOM)
+69;B25b;Comedia;TOTAL;351;43.82;801;ADODB (validado con porcentajes TOM)
+69;B25b;Ciencia ficción;TOTAL;188;23.471;801;ADODB (validado con porcentajes TOM)
+69;B25b;Drama;TOTAL;178;22.222;801;ADODB (validado con porcentajes TOM)
+69;B25b;Documentales;TOTAL;149;18.602;801;ADODB (validado con porcentajes TOM)
+69;B25b;Terror;TOTAL;149;18.602;801;ADODB (validado con porcentajes TOM)
+69;B25b;Telenovelas;TOTAL;120;14.981;801;ADODB (validado con porcentajes TOM)
+69;B25b;Deportes (partidos, resúmenes, docuseries);TOTAL;112;13.983;801;ADODB (validado con porcentajes TOM)
+69;B25b;Romance;TOTAL;111;13.858;801;ADODB (validado con porcentajes TOM)
+69;B25b;Anime;TOTAL;98;12.235;801;ADODB (validado con porcentajes TOM)
+69;B25b;Biografías/Historias basadas en hechos reales;TOTAL;92;11.486;801;ADODB (validado con porcentajes TOM)
+69;B25b;Animación (occidental);TOTAL;73;9.114;801;ADODB (validado con porcentajes TOM)
+70;B25c;No veo este tipo de contenido;TOTAL;384;47.94;801;ADODB (validado con porcentajes TOM)
+70;B25c;Deportes (partidos, comentarios en vivo);TOTAL;128;15.98;801;ADODB (validado con porcentajes TOM)
+70;B25c;Humor/stand-up;TOTAL;104;12.984;801;ADODB (validado con porcentajes TOM)
+70;B25c;Compras y ventas en vivo (live shopping);TOTAL;98;12.235;801;ADODB (validado con porcentajes TOM)
+70;B25c;Moda y belleza;TOTAL;92;11.486;801;ADODB (validado con porcentajes TOM)
+70;B25c;Música (conciertos, sesiones, covers);TOTAL;92;11.486;801;ADODB (validado con porcentajes TOM)
+70;B25c;Noticias y actualidad;TOTAL;86;10.737;801;ADODB (validado con porcentajes TOM)
+70;B25c;Entrevistas/paneles;TOTAL;71;8.864;801;ADODB (validado con porcentajes TOM)
+70;B25c;Salud y bienestar (fitness, yoga, nutrición);TOTAL;58;7.241;801;ADODB (validado con porcentajes TOM)
+70;B25c;Política y debates;TOTAL;53;6.617;801;ADODB (validado con porcentajes TOM)
+70;B25c;Viajes y gastronomía;TOTAL;48;5.993;801;ADODB (validado con porcentajes TOM)
+70;B25c;Estilo de vida/charlas casuales;TOTAL;44;5.493;801;ADODB (validado con porcentajes TOM)
+71;B26;Pequeños electrodomésticos para la cocina (ej. olla arrocera, licuadora, freidora de aire);TOTAL;164;20.474;801;ADODB (validado con porcentajes TOM)
+71;B26;Grandes electrodomésticos para la cocina (ej. refrigeradora, cocina, campana);TOTAL;79;9.863;801;ADODB (validado con porcentajes TOM)
+71;B26;Equipos de lavandería (ej. lavadora, secadora, lavaseca);TOTAL;91;11.361;801;ADODB (validado con porcentajes TOM)
+71;B26;Equipos de aseo personal (ej. ducha eléctrica, terma);TOTAL;49;6.117;801;ADODB (validado con porcentajes TOM)
+71;B26;Equipos de limpieza (ej. aspiradora);TOTAL;56;6.991;801;ADODB (validado con porcentajes TOM)
+71;B26;Equipos de climatización (ej. aire acondicionado, Deshumedecedor);TOTAL;33;4.12;801;ADODB (validado con porcentajes TOM)
+71;B26;Equipos de cómputo (ej. computadora, laptop, impresora);TOTAL;105;13.109;801;ADODB (validado con porcentajes TOM)
+71;B26;Equipos de audio y/o video (ej. televisores, equipos de sonido);TOTAL;83;10.362;801;ADODB (validado con porcentajes TOM)
+71;B26;Ninguno;TOTAL;329;41.074;801;ADODB (validado con porcentajes TOM)
+71;B26;No precisa;TOTAL;29;3.62;801;ADODB (validado con porcentajes TOM)
+72;B27;Construir;TOTAL;148;18.477;801;ADODB (validado con porcentajes TOM)
+72;B27;Ampliar;TOTAL;91;11.361;801;ADODB (validado con porcentajes TOM)
+72;B27;Remodelar;TOTAL;170;21.223;801;ADODB (validado con porcentajes TOM)
+72;B27;Decorar;TOTAL;127;15.855;801;ADODB (validado con porcentajes TOM)
+72;B27;Ninguno / No precisa;TOTAL;327;40.824;801;ADODB (validado con porcentajes TOM)
+73;B28;Ninguno / Estoy satisfecho con mi vivienda actual;TOTAL;195;24.345;801;ADODB (validado con porcentajes TOM)
+73;B28;Cocina;TOTAL;187;23.346;801;ADODB (validado con porcentajes TOM)
+73;B28;Dormitorio principal;TOTAL;149;18.602;801;ADODB (validado con porcentajes TOM)
+73;B28;Baño principal;TOTAL;108;13.483;801;ADODB (validado con porcentajes TOM)
+73;B28;Azotea / Techos;TOTAL;107;13.358;801;ADODB (validado con porcentajes TOM)
+73;B28;Sala / Sala de estar;TOTAL;102;12.734;801;ADODB (validado con porcentajes TOM)
+73;B28;Dormitorio(s) secundario(s) / de hijos;TOTAL;97;12.11;801;ADODB (validado con porcentajes TOM)
+73;B28;Comedor;TOTAL;92;11.486;801;ADODB (validado con porcentajes TOM)
+73;B28;Baño de visitas / Baño secundario;TOTAL;50;6.242;801;ADODB (validado con porcentajes TOM)
+73;B28;Lavandería;TOTAL;35;4.37;801;ADODB (validado con porcentajes TOM)
+73;B28;Sala de TV / Sala de entretenimiento;TOTAL;34;4.245;801;ADODB (validado con porcentajes TOM)
+73;B28;Patio / Jardín;TOTAL;33;4.12;801;ADODB (validado con porcentajes TOM)
+74;B29;Canario / perico;TOTAL;6;0.749;801;ADODB (validado con porcentajes TOM)
+74;B29;Conejo;TOTAL;15;1.873;801;ADODB (validado con porcentajes TOM)
+74;B29;Cuy;TOTAL;12;1.498;801;ADODB (validado con porcentajes TOM)
+74;B29;Gallina;TOTAL;23;2.871;801;ADODB (validado con porcentajes TOM)
+74;B29;Gallo;TOTAL;12;1.498;801;ADODB (validado con porcentajes TOM)
+74;B29;Gato;TOTAL;200;24.969;801;ADODB (validado con porcentajes TOM)
+74;B29;Hámster;TOTAL;2;0.25;801;ADODB (validado con porcentajes TOM)
+74;B29;Pez;TOTAL;2;0.25;801;ADODB (validado con porcentajes TOM)
+74;B29;Perro;TOTAL;391;48.814;801;ADODB (validado con porcentajes TOM)
+74;B29;Tortuga;TOTAL;4;0.499;801;ADODB (validado con porcentajes TOM)
+74;B29;Otro;TOTAL;12;1.498;801;ADODB (validado con porcentajes TOM)
+74;B29;No tenemos mascotas;TOTAL;316;39.451;801;ADODB (validado con porcentajes TOM)
+75;B29x;Si;TOTAL;485;60.549;801;ADODB (validado con porcentajes TOM)
+75;B29x;No;TOTAL;316;39.451;801;ADODB (validado con porcentajes TOM)
+76;B30;Menos de 50 soles;TOTAL;122;25.154;485;ADODB (validado con porcentajes TOM)
+76;B30;De 50 a 100 soles;TOTAL;144;29.691;485;ADODB (validado con porcentajes TOM)
+76;B30;De 101 a 200 soles;TOTAL;91;18.763;485;ADODB (validado con porcentajes TOM)
+76;B30;De 201 a 300 soles;TOTAL;58;11.959;485;ADODB (validado con porcentajes TOM)
+76;B30;De 301 a 400 soles;TOTAL;18;3.711;485;ADODB (validado con porcentajes TOM)
+76;B30;De 401 a 500 soles;TOTAL;15;3.093;485;ADODB (validado con porcentajes TOM)
+76;B30;De 501 a 700 soles;TOTAL;10;2.062;485;ADODB (validado con porcentajes TOM)
+76;B30;De 701 a 900 soles;TOTAL;5;1.031;485;ADODB (validado con porcentajes TOM)
+76;B30;No gastamos;TOTAL;12;2.474;485;ADODB (validado con porcentajes TOM)
+76;B30;No precisa;TOTAL;10;2.062;485;ADODB (validado con porcentajes TOM)
+77;B31;(1) Busco activamente información sobre nuevos productos o cuidados para mi mascota;TOTAL;103;21.237;485;ADODB (validado con porcentajes TOM)
+77;B31;(2) Suelo 'engreír' a mi mascota con premios, snacks o comida especial;TOTAL;153;31.546;485;ADODB (validado con porcentajes TOM)
+77;B31;(3) Siento que faltan más opciones o variedad de productos para mascotas en las tiendas;TOTAL;35;7.216;485;ADODB (validado con porcentajes TOM)
+77;B31;(4) Me encantaría poder viajar más seguido con mi mascota si fuera más fácil hacerlo;TOTAL;62;12.784;485;ADODB (validado con porcentajes TOM)
+77;B31;(5) He tenido que cambiar o cancelar planes personales por no tener con quién dejar a mi mascota;TOTAL;48;9.897;485;ADODB (validado con porcentajes TOM)
+77;B31;"(6) La alimentación de mi mascota es una de mis principales prioridades; busco lo mejor para ella";TOTAL;162;33.402;485;ADODB (validado con porcentajes TOM)
+77;B31;(7) Busco cafés, centros comerciales y tiendas que permitan ingresar con mascotas;TOTAL;13;2.68;485;ADODB (validado con porcentajes TOM)
+77;B31;(8) Le compro ropa o accesorios a mi mascota para que se vea bien o esté cómodo;TOTAL;42;8.66;485;ADODB (validado con porcentajes TOM)
+77;B31;(9) Mi mascota aparece frecuentemente en mis redes sociales;TOTAL;17;3.505;485;ADODB (validado con porcentajes TOM)
+77;B31;(10) La salud de mi mascota es una prioridad, por encima de otros gastos personales si es necesario;TOTAL;99;20.412;485;ADODB (validado con porcentajes TOM)
+77;B31;(96) Ninguno;TOTAL;69;14.227;485;ADODB (validado con porcentajes TOM)
+78;B34;Carrera profesional para gente que trabaja;TOTAL;144;17.978;801;ADODB (validado con porcentajes TOM)
+78;B34;Carrera profesional pregrado (no para gente que trabaja);TOTAL;47;5.868;801;ADODB (validado con porcentajes TOM)
+78;B34;Cursos especializados (Aprox. 2 meses cada uno);TOTAL;116;14.482;801;ADODB (validado con porcentajes TOM)
+78;B34;Programas de especialización (Aprox. 14 meses todo el programa);TOTAL;46;5.743;801;ADODB (validado con porcentajes TOM)
+78;B34;Diplomado (Entre 6 y 10 meses);TOTAL;34;4.245;801;ADODB (validado con porcentajes TOM)
+78;B34;Maestría / Master;TOTAL;59;7.366;801;ADODB (validado con porcentajes TOM)
+78;B34;Doctorado;TOTAL;13;1.623;801;ADODB (validado con porcentajes TOM)
+78;B34;No tengo interés por llevar ninguno de estos programas educativos;TOTAL;420;52.434;801;ADODB (validado con porcentajes TOM)
+79;B35;Sí;TOTAL;538;67.166;801;ADODB (validado con porcentajes TOM)
+79;B35;No;TOTAL;263;32.834;801;ADODB (validado con porcentajes TOM)
+80;B36;(1) Trabajo dependiente: Un sueldo o salario fijo proveniente de un empleo en una empresa o institución;TOTAL;261;32.584;801;ADODB (validado con porcentajes TOM)
+80;B36;(2) Trabajo independiente: Ingresos por servicios profesionales, técnicos o freelance (ej. por recibos por honorarios);TOTAL;270;33.708;801;ADODB (validado con porcentajes TOM)
+80;B36;(3) Negocio o emprendimiento propio: Ganancias de un negocio, ya sea físico (tienda, taller) o digital (venta por redes sociales, etc.);TOTAL;72;8.989;801;ADODB (validado con porcentajes TOM)
+80;B36;"(4) Ingresos por trabajos eventuales (ej. ""cachuelos"")";TOTAL;73;9.114;801;ADODB (validado con porcentajes TOM)
+80;B36;(5) Jubilación o pensión: Ingresos por ser jubilado, pensionista o rentista;TOTAL;27;3.371;801;ADODB (validado con porcentajes TOM)
+80;B36;(6) Rentas o alquileres: Ingresos por el alquiler de propiedades (un cuarto, casa) o bienes (un auto, equipos.;TOTAL;13;1.623;801;ADODB (validado con porcentajes TOM)
+80;B36;(7) Apoyo económico de familiares: dinero que recibe de sus padres, pareja, hijos u otros familiares que viven en el país;TOTAL;59;7.366;801;ADODB (validado con porcentajes TOM)
+80;B36;(8) Remesas del extranjero: Dinero que le envían familiares o contactos desde fuera de Perú;TOTAL;4;0.499;801;ADODB (validado con porcentajes TOM)
+80;B36;(94) Otra fuente de ingresos;TOTAL;25;3.121;801;ADODB (validado con porcentajes TOM)
+80;B36;(96) Actualmente, no cuento con ninguna fuente de ingresos;TOTAL;64;7.99;801;ADODB (validado con porcentajes TOM)
+81;B37;Sí, estoy buscando activamente;TOTAL;346;43.196;801;ADODB (validado con porcentajes TOM)
+81;B37;No, pero estoy abierto(a) a oportunidades si se presentan;TOTAL;223;27.84;801;ADODB (validado con porcentajes TOM)
+81;B37;No, no estoy buscando ni me interesa por el momento;TOTAL;209;26.092;801;ADODB (validado con porcentajes TOM)
+81;B37;No precisa;TOTAL;23;2.872;801;ADODB (validado con porcentajes TOM)
+82;B38;Para cubrir gastos básicos y llegar a fin de mes;TOTAL;182;31.986;569;ADODB (validado con porcentajes TOM)
+82;B38;Para pagar deudas o salir de una obligación financiera;TOTAL;74;13.005;569;ADODB (validado con porcentajes TOM)
+82;B38;Para poder darme gustos o cubrir gastos extra. (ej. entretenimiento, compras, salidas);TOTAL;104;18.278;569;ADODB (validado con porcentajes TOM)
+82;B38;"Para tener un ""colchón"" de seguridad o un fondo de emergencia";TOTAL;42;7.381;569;ADODB (validado con porcentajes TOM)
+82;B38;Para ahorrar o invertir con una meta clara a futuro. (ej. inicial de una vivienda, educación, un viaje importante);TOTAL;98;17.223;569;ADODB (validado con porcentajes TOM)
+82;B38;Para poder ayudar económicamente a mis familiares;TOTAL;41;7.206;569;ADODB (validado con porcentajes TOM)
+82;B38;Por desarrollo personal o para convertir un hobby en una fuente de ingresos;TOTAL;19;3.339;569;ADODB (validado con porcentajes TOM)
+82;B38;Otro (especifique);TOTAL;1;0.176;569;ADODB (validado con porcentajes TOM)
+82;B38;No precisa;TOTAL;8;1.406;569;ADODB (validado con porcentajes TOM)
+83;B39;Cuenta de ahorro;TOTAL;457;57.054;801;ADODB (validado con porcentajes TOM)
+83;B39;Cuenta de ahorro a plazo fijo;TOTAL;31;3.87;801;ADODB (validado con porcentajes TOM)
+83;B39;Cuenta corriente;TOTAL;56;6.991;801;ADODB (validado con porcentajes TOM)
+83;B39;Tarjeta de crédito;TOTAL;147;18.352;801;ADODB (validado con porcentajes TOM)
+83;B39;Préstamos o créditos;TOTAL;87;10.861;801;ADODB (validado con porcentajes TOM)
+83;B39;CTS;TOTAL;60;7.491;801;ADODB (validado con porcentajes TOM)
+83;B39;No tiene / No precisa;TOTAL;268;33.458;801;ADODB (validado con porcentajes TOM)
+84;B40;Yape;TOTAL;622;77.653;801;ADODB (validado con porcentajes TOM)
+84;B40;Plin;TOTAL;245;30.587;801;ADODB (validado con porcentajes TOM)
+84;B40;IzipayYa;TOTAL;13;1.623;801;ADODB (validado con porcentajes TOM)
+84;B40;Bim;TOTAL;17;2.122;801;ADODB (validado con porcentajes TOM)
+84;B40;Oh!Pay (Agora Pay);TOTAL;39;4.869;801;ADODB (validado con porcentajes TOM)
+84;B40;BiPay;TOTAL;2;0.25;801;ADODB (validado con porcentajes TOM)
+84;B40;Ninguna;TOTAL;139;17.353;801;ADODB (validado con porcentajes TOM)
+85;B41;Sí;TOTAL;691;86.267;801;ADODB (validado con porcentajes TOM)
+85;B41;No;TOTAL;110;13.733;801;ADODB (validado con porcentajes TOM)
+86;B47;Seleccionó billeteras, pero no cuentas;TOTAL;64;7.99;801;ADODB (validado con porcentajes TOM)
+86;B47;Seleccionó Yape y ninguna otra billetera;TOTAL;400;49.938;801;ADODB (validado con porcentajes TOM)
+86;B47;No aplica;TOTAL;337;42.072;801;ADODB (validado con porcentajes TOM)
+87;B48;Solo tiene cuenta de ahorro;TOTAL;261;32.584;801;ADODB (validado con porcentajes TOM)
+87;B48;Solo tiene cuenta a plazo fijo;TOTAL;7;0.874;801;ADODB (validado con porcentajes TOM)
+87;B48;Solo tiene cuenta corriente;TOTAL;20;2.497;801;ADODB (validado con porcentajes TOM)
+87;B48;Solo tiene tarjeta de crédito;TOTAL;18;2.247;801;ADODB (validado con porcentajes TOM)
+87;B48;Solo tiene préstamos o créditos;TOTAL;22;2.747;801;ADODB (validado con porcentajes TOM)
+87;B48;Solo tiene CTS;TOTAL;3;0.374;801;ADODB (validado con porcentajes TOM)
+87;B48;No aplica;TOTAL;470;58.677;801;ADODB (validado con porcentajes TOM)
+88;B42;Efectivo (monedas y billetes);TOTAL;701;87.516;801;ADODB (validado con porcentajes TOM)
+88;B42;Tarjeta de débito;TOTAL;288;35.955;801;ADODB (validado con porcentajes TOM)
+88;B42;Tarjeta de crédito;TOTAL;131;16.355;801;ADODB (validado con porcentajes TOM)
+88;B42;Transferencias bancarias con número de cuenta;TOTAL;105;13.109;801;ADODB (validado con porcentajes TOM)
+88;B42;No compro o pago cosas;TOTAL;9;1.124;801;ADODB (validado con porcentajes TOM)
+89;B42T;Efectivo (monedas y/o billetes);TOTAL;701;87.516;801;ADODB (validado con porcentajes TOM)
+89;B42T;Tarjeta de débito;TOTAL;288;35.955;801;ADODB (validado con porcentajes TOM)
+89;B42T;Tarjeta de crédito;TOTAL;131;16.355;801;ADODB (validado con porcentajes TOM)
+89;B42T;Transferencias bancarias con número de cuenta;TOTAL;105;13.109;801;ADODB (validado con porcentajes TOM)
+89;B42T;Billetera digital;TOTAL;662;82.647;801;ADODB (validado con porcentajes TOM)
+89;B42T;No compro / pago cosas;TOTAL;7;0.874;801;ADODB (validado con porcentajes TOM)
+90;B43;De Salud pública (SIS, EsSalud, FF.AA., Policía);TOTAL;517;64.544;801;ADODB (validado con porcentajes TOM)
+90;B43;Ninguno;TOTAL;156;19.476;801;ADODB (validado con porcentajes TOM)
+90;B43;EPS;TOTAL;60;7.491;801;ADODB (validado con porcentajes TOM)
+90;B43;SOAT;TOTAL;44;5.493;801;ADODB (validado con porcentajes TOM)
+90;B43;De Vida;TOTAL;41;5.119;801;ADODB (validado con porcentajes TOM)
+90;B43;De Salud Particular (No EPS, No público);TOTAL;39;4.869;801;ADODB (validado con porcentajes TOM)
+90;B43;De accidentes / muerte accidental;TOTAL;21;2.622;801;ADODB (validado con porcentajes TOM)
+90;B43;De Sepelio;TOTAL;18;2.247;801;ADODB (validado con porcentajes TOM)
+90;B43;Oncológico;TOTAL;13;1.623;801;ADODB (validado con porcentajes TOM)
+90;B43;SCTR (Trabajo de riesgo);TOTAL;10;1.248;801;ADODB (validado con porcentajes TOM)
+90;B43;Vehicular (No SOAT);TOTAL;10;1.248;801;ADODB (validado con porcentajes TOM)
+90;B43;Otro;TOTAL;10;1.248;801;ADODB (validado con porcentajes TOM)
+91;B44;Dentro del país;TOTAL;304;37.953;801;ADODB (validado con porcentajes TOM)
+91;B44;Fuera del país;TOTAL;110;13.733;801;ADODB (validado con porcentajes TOM)
+91;B44;No piensa viajar;TOTAL;297;37.079;801;ADODB (validado con porcentajes TOM)
+91;B44;No sabe todavía;TOTAL;128;15.98;801;ADODB (validado con porcentajes TOM)
+92;B45;No la conozco;TOTAL;259;32.334;801;ADODB (validado con porcentajes TOM)
+92;B45;La conozco, pero no la uso;TOTAL;238;29.713;801;ADODB (validado con porcentajes TOM)
+92;B45;La conozco y la usé una vez;TOTAL;53;6.617;801;ADODB (validado con porcentajes TOM)
+92;B45;La conozco y la uso poco;TOTAL;168;20.974;801;ADODB (validado con porcentajes TOM)
+92;B45;La conozco y la uso mucho;TOTAL;83;10.362;801;ADODB (validado con porcentajes TOM)
+93;B46;Total Desconfianza;Para detectar fraudes y proteger mis cuentas bancarias;118;21.771217712177123;542;ADODB B46[{_1}].Rp
+93;B46;Algo de Desconfianza;Para detectar fraudes y proteger mis cuentas bancarias;122;22.509225092250922;542;ADODB B46[{_1}].Rp
+93;B46;Ni confianza ni desconfianza;Para detectar fraudes y proteger mis cuentas bancarias;110;20.29520295202952;542;ADODB B46[{_1}].Rp
+93;B46;Algo de Confianza;Para detectar fraudes y proteger mis cuentas bancarias;148;27.30627306273063;542;ADODB B46[{_1}].Rp
+93;B46;Total Confianza;Para detectar fraudes y proteger mis cuentas bancarias;44;8.118081180811808;542;ADODB B46[{_1}].Rp
+93;B46;Total Desconfianza;Para responder mis consultas a través de un chat automático (chatbot) disponible 24/7;89;16.420664206642066;542;ADODB B46[{_2}].Rp
+93;B46;Algo de Desconfianza;Para responder mis consultas a través de un chat automático (chatbot) disponible 24/7;121;22.324723247232473;542;ADODB B46[{_2}].Rp
+93;B46;Ni confianza ni desconfianza;Para responder mis consultas a través de un chat automático (chatbot) disponible 24/7;121;22.324723247232473;542;ADODB B46[{_2}].Rp
+93;B46;Algo de Confianza;Para responder mis consultas a través de un chat automático (chatbot) disponible 24/7;161;29.70479704797048;542;ADODB B46[{_2}].Rp
+93;B46;Total Confianza;Para responder mis consultas a través de un chat automático (chatbot) disponible 24/7;50;9.22509225092251;542;ADODB B46[{_2}].Rp
+93;B46;Total Desconfianza;Para darme recomendaciones personalizadas de productos, música o películas;52;9.59409594095941;542;ADODB B46[{_3}].Rp
+93;B46;Algo de Desconfianza;Para darme recomendaciones personalizadas de productos, música o películas;96;17.71217712177122;542;ADODB B46[{_3}].Rp
+93;B46;Ni confianza ni desconfianza;Para darme recomendaciones personalizadas de productos, música o películas;120;22.14022140221402;542;ADODB B46[{_3}].Rp
+93;B46;Algo de Confianza;Para darme recomendaciones personalizadas de productos, música o películas;206;38.00738007380074;542;ADODB B46[{_3}].Rp
+93;B46;Total Confianza;Para darme recomendaciones personalizadas de productos, música o películas;68;12.546125461254613;542;ADODB B46[{_3}].Rp
+93;B46;Total Desconfianza;Para analizar mi comportamiento y mostrarme publicidad de productos que podrían interesarme;58;10.70110701107011;542;ADODB B46[{_4}].Rp
+93;B46;Algo de Desconfianza;Para analizar mi comportamiento y mostrarme publicidad de productos que podrían interesarme;98;18.081180811808117;542;ADODB B46[{_4}].Rp
+93;B46;Ni confianza ni desconfianza;Para analizar mi comportamiento y mostrarme publicidad de productos que podrían interesarme;141;26.014760147601475;542;ADODB B46[{_4}].Rp
+93;B46;Algo de Confianza;Para analizar mi comportamiento y mostrarme publicidad de productos que podrían interesarme;191;35.239852398523986;542;ADODB B46[{_4}].Rp
+93;B46;Total Confianza;Para analizar mi comportamiento y mostrarme publicidad de productos que podrían interesarme;54;9.96309963099631;542;ADODB B46[{_4}].Rp
+93;B46;Total Desconfianza;Para decidir automáticamente si me aprueban o rechazan un préstamo o una tarjeta de crédito;107;19.74169741697417;542;ADODB B46[{_5}].Rp
+93;B46;Algo de Desconfianza;Para decidir automáticamente si me aprueban o rechazan un préstamo o una tarjeta de crédito;132;24.354243542435423;542;ADODB B46[{_5}].Rp
+93;B46;Ni confianza ni desconfianza;Para decidir automáticamente si me aprueban o rechazan un préstamo o una tarjeta de crédito;133;24.538745387453876;542;ADODB B46[{_5}].Rp
+93;B46;Algo de Confianza;Para decidir automáticamente si me aprueban o rechazan un préstamo o una tarjeta de crédito;131;24.169741697416974;542;ADODB B46[{_5}].Rp
+93;B46;Total Confianza;Para decidir automáticamente si me aprueban o rechazan un préstamo o una tarjeta de crédito;39;7.195571955719557;542;ADODB B46[{_5}].Rp
+93;B46;Total Desconfianza;Para analizar mi voz durante una llamada de servicio al cliente y así entender mejor mi estado de ánimo o mi problema;133;24.538745387453876;542;ADODB B46[{_6}].Rp
+93;B46;Algo de Desconfianza;Para analizar mi voz durante una llamada de servicio al cliente y así entender mejor mi estado de ánimo o mi problema;127;23.431734317343174;542;ADODB B46[{_6}].Rp
+93;B46;Ni confianza ni desconfianza;Para analizar mi voz durante una llamada de servicio al cliente y así entender mejor mi estado de ánimo o mi problema;129;23.800738007380073;542;ADODB B46[{_6}].Rp
+93;B46;Algo de Confianza;Para analizar mi voz durante una llamada de servicio al cliente y así entender mejor mi estado de ánimo o mi problema;122;22.509225092250922;542;ADODB B46[{_6}].Rp
+93;B46;Total Confianza;Para analizar mi voz durante una llamada de servicio al cliente y así entender mejor mi estado de ánimo o mi problema;31;5.719557195571956;542;ADODB B46[{_6}].Rp
+94;B46x;Para detectar fraudes y proteger mis cuentas bancarias;TOTAL;192;23.97;801;ADODB (validado con porcentajes TOM)
+94;B46x;Para responder mis consultas a través de un chat automático (chatbot) disponible 24/7;TOTAL;211;26.342;801;ADODB (validado con porcentajes TOM)
+94;B46x;Para darme recomendaciones personalizadas de productos, música o películas;TOTAL;274;34.207;801;ADODB (validado con porcentajes TOM)
+94;B46x;Para analizar mi comportamiento y mostrarme publicidad de productos que podrían interesarme;TOTAL;245;30.587;801;ADODB (validado con porcentajes TOM)
+94;B46x;Para decidir automáticamente si me aprueban o rechazan un préstamo o una tarjeta de crédito;TOTAL;170;21.223;801;ADODB (validado con porcentajes TOM)
+94;B46x;Para analizar mi voz durante una llamada de servicio al cliente y así entender mejor mi estado de ánimo o mi problema;TOTAL;153;19.101;801;ADODB (validado con porcentajes TOM)
+94;B46x;No aplica;TOTAL;431;53.808;801;ADODB (validado con porcentajes TOM)
+95;C1;Sí;TOTAL;225;28.09;801;ADODB (validado con porcentajes TOM)
+95;C1;No;TOTAL;576;71.91;801;ADODB (validado con porcentajes TOM)
+96;C2;(1) Postpondría decisiones importantes: Decidiría esperar para realizar compras grandes como un auto, un inmueble o electrodomésticos costosos;TOTAL;94;11.735;801;ADODB (validado con porcentajes TOM)
+96;C2;(2) Reduciría mis gastos cotidianos: Sería más cuidadoso con gastos en entretenimiento, restaurantes, viajes cortos y compras no esenciales;TOTAL;158;19.725;801;ADODB (validado con porcentajes TOM)
+96;C2;(3) Aumentaría mis ahorros: Priorizaría guardar más dinero como medida de precaución ante la incertidumbre;TOTAL;88;10.986;801;ADODB (validado con porcentajes TOM)
+96;C2;(4) Buscaría opciones de compra más económicas: Cambiaría a marcas o productos de menor precio en mis compras habituales;TOTAL;93;11.61;801;ADODB (validado con porcentajes TOM)
+96;C2;(96) No cambiaría mis planes: Mantendría mis decisiones de gasto y consumo tal como las tengo pensadas;TOTAL;431;53.808;801;ADODB (validado con porcentajes TOM)
+97;C3;(1) Compra o renovación de tecnología: Principalmente televisores, pero también equipos de sonido, proyectores, etc.;TOTAL;68;8.489;801;ADODB (validado con porcentajes TOM)
+97;C3;(2) Bebidas y snacks para el hogar: Cervezas, gaseosas, piqueos, carnes para parrilla, etc.;TOTAL;119;14.856;801;ADODB (validado con porcentajes TOM)
+97;C3;"(3) Salidas a lugares públicos: Asistir a bares, restaurantes o ""Fan Fests"" para ver los partidos";TOTAL;48;5.993;801;ADODB (validado con porcentajes TOM)
+97;C3;(4) Merchandising y vestimenta deportiva: Compra de camisetas de la selección, pelotas, banderas y artículos relacionados;TOTAL;29;3.62;801;ADODB (validado con porcentajes TOM)
+97;C3;(5) Delivery de comida y bebida: Aumento en el uso de aplicativos como Rappi o PedidosYa durante los partidos;TOTAL;65;8.115;801;ADODB (validado con porcentajes TOM)
+97;C3;(6) Mejora de planes de conectividad: Contratación o mejora de planes de internet/cable o suscripción a servicios de streaming para ver los partidos;TOTAL;36;4.494;801;ADODB (validado con porcentajes TOM)
+97;C3;(7) Apuestas deportivas: Destinar un presupuesto para participar en apuestas online o físicas;TOTAL;31;3.87;801;ADODB (validado con porcentajes TOM)
+97;C3;(96) No planeo aumentar mis gastos de forma significativa por el Mundial;TOTAL;530;66.167;801;ADODB (validado con porcentajes TOM)
+98;C4;Usaré parte de mis ahorros destinados a otros fines;TOTAL;108;39.853;271;ADODB (validado con porcentajes TOM)
+98;C4;Utilizaré mi tarjeta de crédito o un préstamo de consumo;TOTAL;40;14.76;271;ADODB (validado con porcentajes TOM)
+98;C4;Dejaré de gastar en otras categorías para priorizar los gastos del Mundial (ej. menos salidas a cenar no relacionadas al fútbol, posponer compra de ropa, etc.);TOTAL;53;19.557;271;ADODB (validado con porcentajes TOM)
+98;C4;Proviene de un ingreso extra que ya esperaba (ej. gratificación de julio, un bono);TOTAL;60;22.14;271;ADODB (validado con porcentajes TOM)
+98;C4;Otros (especifique);TOTAL;8;2.952;271;ADODB (validado con porcentajes TOM)
+98;C4;Trabajo extras;TOTAL;2;0.738;271;ADODB (validado con porcentajes TOM)
+99;T1a;(1) Evito salir a comprar de noche por razones de seguridad;TOTAL;351;43.82;801;ADODB (validado con porcentajes TOM)
+99;T1a;(2) Prefiero visitar lugares cercanos o conocidos en lugar de explorar nuevas zonas debido a la inseguridad;TOTAL;167;20.849;801;ADODB (validado con porcentajes TOM)
+99;T1a;(3) Llevo poco efectivo para reducir el riesgo en caso de robo o pérdida;TOTAL;244;30.462;801;ADODB (validado con porcentajes TOM)
+99;T1a;(4) Uso principalmente medios de pago electrónicos para evitar llevar efectivo en situaciones de riesgo;TOTAL;112;13.983;801;ADODB (validado con porcentajes TOM)
+99;T1a;(5) Voy a tiendas con medidas de seguridad visibles;TOTAL;70;8.739;801;ADODB (validado con porcentajes TOM)
+99;T1a;(6) Limito la cantidad que compro por seguridad;TOTAL;56;6.991;801;ADODB (validado con porcentajes TOM)
+99;T1a;(7) Prefiero comprar en momentos con más presencia de personas;TOTAL;71;8.864;801;ADODB (validado con porcentajes TOM)
+99;T1a;(8) Voy a comprar acompañado (a) para mayor seguridad;TOTAL;92;11.486;801;ADODB (validado con porcentajes TOM)
+99;T1a;(9) Hago compras en línea para evitar salir;TOTAL;43;5.368;801;ADODB (validado con porcentajes TOM)
+99;T1a;(94) Otro;TOTAL;6;0.749;801;ADODB (validado con porcentajes TOM)
+99;T1a;(96) No, la verdad no he cambiado mis hábitos por la inseguridad;TOTAL;187;23.346;801;ADODB (validado con porcentajes TOM)
+100;T1b;(1) He reducido mis salidas nocturnas a lugares como restaurantes, bares o cines;TOTAL;283;35.331;801;ADODB (validado con porcentajes TOM)
+100;T1b;(2) Prefiero ir a centros comerciales en lugar de a tiendas que dan a la calle;TOTAL;96;11.985;801;ADODB (validado con porcentajes TOM)
+100;T1b;(3) Hago más compras por internet para evitar tener que salir;TOTAL;87;10.861;801;ADODB (validado con porcentajes TOM)
+100;T1b;(4) Pido más delivery de comida como alternativa a salir a comer;TOTAL;81;10.112;801;ADODB (validado con porcentajes TOM)
+100;T1b;(5) Llevo poco efectivo conmigo y prefiero usar medios de pago digitales (Yape, Plin, tarjetas);TOTAL;227;28.34;801;ADODB (validado con porcentajes TOM)
+100;T1b;(6) Voy a comprar acompañado(a) con más frecuencia que antes;TOTAL;86;10.737;801;ADODB (validado con porcentajes TOM)
+100;T1b;(7) Prefiero ir a comprar durante el día o en momentos de mayor afluencia de gente;TOTAL;134;16.729;801;ADODB (validado con porcentajes TOM)
+100;T1b;(8) Realizo compras más rápidas y puntuales para exponerme menos tiempo en la calle;TOTAL;61;7.615;801;ADODB (validado con porcentajes TOM)
+100;T1b;(9) Uso aplicativos de taxi (ej. Uber, Cabify) con más frecuencia por seguridad;TOTAL;56;6.991;801;ADODB (validado con porcentajes TOM)
+100;T1b;(10) He invertido o estoy pensando en invertir en seguridad para mi hogar (ej. cámaras, alarmas, rejas);TOTAL;17;2.122;801;ADODB (validado con porcentajes TOM)
+100;T1b;(96) No, la verdad no he cambiado mis hábitos por la inseguridad;TOTAL;169;21.099;801;ADODB (validado con porcentajes TOM)
+101;T1;(T1a_1) Evito salir a comprar de noche;TOTAL;351;43.82;801;ADODB (validado con porcentajes TOM)
+101;T1;(T1b_1) Reduje salidas nocturnas a entretenimiento;TOTAL;283;35.331;801;ADODB (validado con porcentajes TOM)
+101;T1;(T1a_3) Llevo poco efectivo;TOTAL;244;30.462;801;ADODB (validado con porcentajes TOM)
+101;T1;(T1b_5) Llevo poco efectivo / uso medios digitales;TOTAL;227;28.34;801;ADODB (validado con porcentajes TOM)
+101;T1;(T1a_2) Prefiero lugares cercanos o conocidos;TOTAL;167;20.849;801;ADODB (validado con porcentajes TOM)
+101;T1;(T1b_7) Prefiero comprar de día o con más gente;TOTAL;134;16.729;801;ADODB (validado con porcentajes TOM)
+101;T1;No cambió hábitos;TOTAL;125;15.605;801;ADODB (validado con porcentajes TOM)
+101;T1;(T1a_4) Uso medios de pago electrónicos;TOTAL;112;13.983;801;ADODB (validado con porcentajes TOM)
+101;T1;(T1b_2) Prefiero centros comerciales;TOTAL;96;11.985;801;ADODB (validado con porcentajes TOM)
+101;T1;(T1a_8) Voy a comprar acompañado(a);TOTAL;92;11.486;801;ADODB (validado con porcentajes TOM)
+101;T1;(T1b_3) Hago más compras por internet;TOTAL;87;10.861;801;ADODB (validado con porcentajes TOM)
+101;T1;(T1b_6) Voy acompañado(a) con más frecuencia;TOTAL;86;10.737;801;ADODB (validado con porcentajes TOM)
+102;T2;Ha aumentado;Servicios de delivery de alimentos y bebidas para abastecer el hogar o la alacena;120;14.9812734082397;801;ADODB T2[{_1}].Rp
+102;T2;Se ha mantenido igual;Servicios de delivery de alimentos y bebidas para abastecer el hogar o la alacena;313;39.076154806491886;801;ADODB T2[{_1}].Rp
+102;T2;Ha disminuido;Servicios de delivery de alimentos y bebidas para abastecer el hogar o la alacena;117;14.606741573033707;801;ADODB T2[{_1}].Rp
+102;T2;No aplica / No usa este servicio;Servicios de delivery de alimentos y bebidas para abastecer el hogar o la alacena;251;31.335830212234708;801;ADODB T2[{_1}].Rp
+102;T2;Ha aumentado;Servicios de suscripción de video (ej. Netflix, Disney+, Max).;68;8.489388264669163;801;ADODB T2[{_2}].Rp
+102;T2;Se ha mantenido igual;Servicios de suscripción de video (ej. Netflix, Disney+, Max).;328;40.94881398252185;801;ADODB T2[{_2}].Rp
+102;T2;Ha disminuido;Servicios de suscripción de video (ej. Netflix, Disney+, Max).;93;11.610486891385769;801;ADODB T2[{_2}].Rp
+102;T2;No aplica / No usa este servicio;Servicios de suscripción de video (ej. Netflix, Disney+, Max).;312;38.951310861423224;801;ADODB T2[{_2}].Rp
+102;T2;Ha aumentado;Compras de supermercado a través de delivery;76;9.488139825218477;801;ADODB T2[{_3}].Rp
+102;T2;Se ha mantenido igual;Compras de supermercado a través de delivery;241;30.087390761548065;801;ADODB T2[{_3}].Rp
+102;T2;Ha disminuido;Compras de supermercado a través de delivery;131;16.354556803995006;801;ADODB T2[{_3}].Rp
+102;T2;No aplica / No usa este servicio;Compras de supermercado a través de delivery;353;44.06991260923845;801;ADODB T2[{_3}].Rp
+102;T2;Ha aumentado;Pedidos de restaurantes (delivery);101;12.60923845193508;801;ADODB T2[{_4}].Rp
+102;T2;Se ha mantenido igual;Pedidos de restaurantes (delivery);257;32.08489388264669;801;ADODB T2[{_4}].Rp
+102;T2;Ha disminuido;Pedidos de restaurantes (delivery);130;16.22971285892634;801;ADODB T2[{_4}].Rp
+102;T2;No aplica / No usa este servicio;Pedidos de restaurantes (delivery);313;39.076154806491886;801;ADODB T2[{_4}].Rp
+102;T2;Ha aumentado;Videojuegos o entretenimiento digital para consumir en casa.;43;5.368289637952559;801;ADODB T2[{_5}].Rp
+102;T2;Se ha mantenido igual;Videojuegos o entretenimiento digital para consumir en casa.;191;23.845193508114857;801;ADODB T2[{_5}].Rp
+102;T2;Ha disminuido;Videojuegos o entretenimiento digital para consumir en casa.;99;12.359550561797754;801;ADODB T2[{_5}].Rp
+102;T2;No aplica / No usa este servicio;Videojuegos o entretenimiento digital para consumir en casa.;468;58.42696629213483;801;ADODB T2[{_5}].Rp
+102;T2;Ha aumentado;Compras en plataformas como Temu, Amazon, Shein, etc.;66;8.239700374531836;801;ADODB T2[{_6}].Rp
+102;T2;Se ha mantenido igual;Compras en plataformas como Temu, Amazon, Shein, etc.;210;26.217228464419474;801;ADODB T2[{_6}].Rp
+102;T2;Ha disminuido;Compras en plataformas como Temu, Amazon, Shein, etc.;125;15.605493133583021;801;ADODB T2[{_6}].Rp
+102;T2;No aplica / No usa este servicio;Compras en plataformas como Temu, Amazon, Shein, etc.;400;49.93757802746567;801;ADODB T2[{_6}].Rp
+103;T2x;Si;TOTAL;532;66.417;801;ADODB (validado con porcentajes TOM)
+103;T2x;No;TOTAL;269;33.583;801;ADODB (validado con porcentajes TOM)
+104;T3;He comprado productos durante una de estas sesiones;TOTAL;105;13.108;801;ADODB (validado con porcentajes TOM)
+104;T3;He visto algunas sesiones, pero nunca he comprado nada;TOTAL;193;24.095;801;ADODB (validado con porcentajes TOM)
+104;T3;He oído hablar de ellas, pero nunca he visto una sesión completa;TOTAL;187;23.346;801;ADODB (validado con porcentajes TOM)
+104;T3;Nunca había oído hablar de este formato hasta ahora;TOTAL;316;39.451;801;ADODB (validado con porcentajes TOM)
+105;T4;(1) Los descuentos y ofertas exclusivas que solo están disponibles durante la transmisión;TOTAL;248;51.134;485;ADODB (validado con porcentajes TOM)
+105;T4;(2) Ver el producto en uso real, cómo funciona o cómo queda puesto, mejor que en una foto;TOTAL;152;31.34;485;ADODB (validado con porcentajes TOM)
+105;T4;(3) El entretenimiento y la forma divertida en que se presentan los productos;TOTAL;104;21.443;485;ADODB (validado con porcentajes TOM)
+105;T4;(4) La posibilidad de hacer preguntas al vendedor y recibir respuestas en tiempo real;TOTAL;123;25.361;485;ADODB (validado con porcentajes TOM)
+105;T4;(5) La sensación de ser parte de un evento único y la posibilidad de comprar algo antes que los demás;TOTAL;42;8.66;485;ADODB (validado con porcentajes TOM)
+105;T4;(6) La confianza o simpatía que me genera la persona que presenta (el anfitrión o influencer);TOTAL;65;13.402;485;ADODB (validado con porcentajes TOM)
+105;T4;(7) Descubrir productos nuevos que no conocía;TOTAL;121;24.948;485;ADODB (validado con porcentajes TOM)
+105;T4;(8) El ambiente de comunidad y ver los comentarios de otras personas interesadas;TOTAL;35;7.216;485;ADODB (validado con porcentajes TOM)
+105;T4;(94) Otro (especifique);TOTAL;1;0.206;485;ADODB (validado con porcentajes TOM)
+105;T4;No Precisa;TOTAL;11;2.268;485;ADODB (validado con porcentajes TOM)
+106;T5;(1) Para probar un estilo o tendencia nueva sin hacer una gran inversión;TOTAL;199;24.844;801;ADODB (validado con porcentajes TOM)
+106;T5;"(2) Para el uso diario o de ""batalla"", y así no desgastar un producto original más caro que ya poseo";TOTAL;79;9.863;801;ADODB (validado con porcentajes TOM)
+106;T5;(3) Porque me gusta el estilo, pero simplemente no puedo o no quiero pagar el precio de la marca de lujo;TOTAL;106;13.233;801;ADODB (validado con porcentajes TOM)
+106;T5;(4) Para darme un gusto o seguir una moda sin afectar mi presupuesto mensual;TOTAL;160;19.975;801;ADODB (validado con porcentajes TOM)
+106;T5;(5) Porque considero que la diferencia de calidad con el producto caro no justifica la diferencia de precio;TOTAL;97;12.11;801;ADODB (validado con porcentajes TOM)
+106;T5;(6) Para una ocasión específica (ej. una fiesta, un viaje) donde quiero lucir bien sin gastar mucho;TOTAL;80;9.988;801;ADODB (validado con porcentajes TOM)
+106;T5;(7) Por curiosidad, para comparar la calidad con el producto de referencia;TOTAL;140;17.478;801;ADODB (validado con porcentajes TOM)
+106;T5;(96) La verdad, no los compraría / Prefiero siempre el producto original;TOTAL;233;29.089;801;ADODB (validado con porcentajes TOM)
+107;T6;Carteras, bolsos o mochilas;TOTAL;115;20.246;568;ADODB (validado con porcentajes TOM)
+107;T6;Decoración o artículos para el hogar;TOTAL;103;18.134;568;ADODB (validado con porcentajes TOM)
+107;T6;Lentes de sol. Joyería, bisutería o relojes;TOTAL;68;11.972;568;ADODB (validado con porcentajes TOM)
+107;T6;Perfumes;TOTAL;123;21.655;568;ADODB (validado con porcentajes TOM)
+107;T6;Productos para el cuidado de la piel (Skincare);TOTAL;53;9.331;568;ADODB (validado con porcentajes TOM)
+107;T6;Ropa (ej. casacas, vestidos, polos con un estilo de diseñador);TOTAL;225;39.613;568;ADODB (validado con porcentajes TOM)
+107;T6;Tecnología (ej. audífonos, smartwatches, accesorios);TOTAL;118;20.775;568;ADODB (validado con porcentajes TOM)
+107;T6;Zapatillas;TOTAL;188;33.099;568;ADODB (validado con porcentajes TOM)
+107;T6;Otra (especifique):;TOTAL;2;0.352;568;ADODB (validado con porcentajes TOM)
+107;T6;No Precisa;TOTAL;10;1.761;568;ADODB (validado con porcentajes TOM)
+108;T7;(1) Estoy dispuesto(a) a comer más sano, pero es fundamental que los productos también sean ricos. Si el sabor no me convence, no los compro;TOTAL;382;47.69;801;ADODB (validado con porcentajes TOM)
+108;T7;(2) Priorizo los beneficios para mi salud por encima de todo, aunque el sabor del producto no sea el mejor;TOTAL;170;21.224;801;ADODB (validado con porcentajes TOM)
+108;T7;(3) La verdad, en mi día a día priorizo el sabor y el disfrute por encima de si un producto es saludable o no;TOTAL;87;10.862;801;ADODB (validado con porcentajes TOM)
+108;T7;(4) Siento que a la mayoría de los productos etiquetados como 'saludables' les falta sabor o son aburridos;TOTAL;36;4.494;801;ADODB (validado con porcentajes TOM)
+108;T7;(5) Me gustaría comprar más productos saludables, pero mi principal barrera es que suelen ser muy caros;TOTAL;120;14.981;801;ADODB (validado con porcentajes TOM)
+108;T7;Ninguno;TOTAL;6;0.749;801;ADODB (validado con porcentajes TOM)
+109;T8;(1) Que tengan un sabor delicioso, que compita directamente con las versiones tradicionales o menos saludables;TOTAL;364;45.443;801;ADODB (validado con porcentajes TOM)
+109;T8;(2) Que su empaque sea atractivo, moderno y provocativo, que destaque en la góndola;TOTAL;77;9.613;801;ADODB (validado con porcentajes TOM)
+109;T8;"(3) Que el empaque explique de forma clara y simple sus beneficios (ej. ""alto en fibra"", ""sin azúcar añadida"", ""con probióticos"")";TOTAL;177;22.097;801;ADODB (validado con porcentajes TOM)
+109;T8;(4) Que tengan un precio más accesible o que se encuentren en promoción;TOTAL;250;31.211;801;ADODB (validado con porcentajes TOM)
+109;T8;(5) Tener la oportunidad de probarlos en la tienda antes de decidir la compra;TOTAL;127;15.855;801;ADODB (validado con porcentajes TOM)
+109;T8;(6) Que sean recomendados por amigos, familiares o expertos en nutrición;TOTAL;86;10.737;801;ADODB (validado con porcentajes TOM)
+109;T8;(7) Que sean fáciles y rápidos de preparar o que vengan listos para consumir;TOTAL;71;8.864;801;ADODB (validado con porcentajes TOM)
+109;T8;(8) Que estén disponibles en más tiendas y bodegas cerca de mi casa o trabajo;TOTAL;115;14.357;801;ADODB (validado con porcentajes TOM)
+109;T8;(94) Otro (especifique);TOTAL;2;0.25;801;ADODB (validado con porcentajes TOM)
+109;T8;Ninguno;TOTAL;3;0.375;801;ADODB (validado con porcentajes TOM)
+109;T8;No Precisa;TOTAL;2;0.25;801;ADODB (validado con porcentajes TOM)
+110;T9;Es una prioridad urgente para mí;TOTAL;156;19.476;801;ADODB (validado con porcentajes TOM)
+110;T9;Es importante, algo que tengo en mente hacer;TOTAL;256;31.96;801;ADODB (validado con porcentajes TOM)
+110;T9;Es algo que podría ser útil, pero no es una prioridad;TOTAL;155;19.351;801;ADODB (validado con porcentajes TOM)
+110;T9;No lo considero necesario, siento que mis habilidades son suficientes por ahora;TOTAL;234;29.213;801;ADODB (validado con porcentajes TOM)
+111;T10;"Principalmente en habilidades técnicas o ""duras"", como el manejo de un software específico, programación, análisis de datos, un nuevo idioma, etc.";TOTAL;205;25.593;801;ADODB (validado con porcentajes TOM)
+111;T10;"Principalmente en habilidades interpersonales o ""de poder"", como comunicación efectiva, liderazgo, resolución de problemas, adaptabilidad, etc.";TOTAL;191;23.845;801;ADODB (validado con porcentajes TOM)
+111;T10;Buscaría una capacitación que combine ambos tipos de habilidades por igual;TOTAL;405;50.562;801;ADODB (validado con porcentajes TOM)
+112;T11;Un programa largo y certificado (diplomado, maestría) en una universidad o instituto de prestigio;TOTAL;176;21.973;801;ADODB (validado con porcentajes TOM)
+112;T11;Cursos cortos y muy especializados (bootcamps, certificaciones de pocas semanas) enfocados en una habilidad específica;TOTAL;328;40.949;801;ADODB (validado con porcentajes TOM)
+112;T11;Cursos online a mi propio ritmo, en plataformas como Coursera, Platzi, Crehana, etc.;TOTAL;144;17.978;801;ADODB (validado con porcentajes TOM)
+112;T11;Talleres o seminarios presenciales de corta duración;TOTAL;295;36.829;801;ADODB (validado con porcentajes TOM)
+112;T11;Capacitaciones ofrecidas por mi propio empleador;TOTAL;141;17.603;801;ADODB (validado con porcentajes TOM)
+112;T11;Otro (especifique);TOTAL;3;0.375;801;ADODB (validado con porcentajes TOM)
+112;T11;Ninguno;TOTAL;17;2.122;801;ADODB (validado con porcentajes TOM)
+112;T11;No Precisa;TOTAL;6;0.749;801;ADODB (validado con porcentajes TOM)
+113;T12;Prefiero invertir en mejorar mi entretenimiento en casa (ej. un mejor televisor, más suscripciones, un buen equipo de sonido);TOTAL;195;24.344;801;ADODB (validado con porcentajes TOM)
+113;T12;Prefiero destinar mi dinero a vivir experiencias especiales fuera de casa (ej. conciertos, buenos restaurantes, festivales, viajes cortos);TOTAL;117;14.607;801;ADODB (validado con porcentajes TOM)
+113;T12;Intento equilibrar mi presupuesto: invierto algo en mi casa, pero también me aseguro de tener dinero para salidas y experiencias;TOTAL;262;32.709;801;ADODB (validado con porcentajes TOM)
+113;T12;La verdad, intento limitar mi gasto en ambos y busco principalmente opciones de entretenimiento gratuitas o de muy bajo costo;TOTAL;227;28.34;801;ADODB (validado con porcentajes TOM)
+114;T13;Nada importante;Que la experiencia sea única, especial y memorable;60;7.49063670411985;801;ADODB T13[{_1}].Rp
+114;T13;Poco importante;Que la experiencia sea única, especial y memorable;109;13.607990012484395;801;ADODB T13[{_1}].Rp
+114;T13;Medianamente importante;Que la experiencia sea única, especial y memorable;199;24.84394506866417;801;ADODB T13[{_1}].Rp
+114;T13;Muy importante;Que la experiencia sea única, especial y memorable;351;43.82022471910113;801;ADODB T13[{_1}].Rp
+114;T13;Extremadamente importante;Que la experiencia sea única, especial y memorable;82;10.237203495630462;801;ADODB T13[{_1}].Rp
+114;T13;Nada importante;Que el lugar y sus alrededores sean percibidos como seguros;35;4.369538077403246;801;ADODB T13[{_2}].Rp
+114;T13;Poco importante;Que el lugar y sus alrededores sean percibidos como seguros;53;6.616729088639201;801;ADODB T13[{_2}].Rp
+114;T13;Medianamente importante;Que el lugar y sus alrededores sean percibidos como seguros;130;16.22971285892634;801;ADODB T13[{_2}].Rp
+114;T13;Muy importante;Que el lugar y sus alrededores sean percibidos como seguros;456;56.92883895131086;801;ADODB T13[{_2}].Rp
+114;T13;Extremadamente importante;Que el lugar y sus alrededores sean percibidos como seguros;127;15.85518102372035;801;ADODB T13[{_2}].Rp
+114;T13;Nada importante;Que el precio sea razonable para el valor que ofrece;23;2.871410736579276;801;ADODB T13[{_3}].Rp
+114;T13;Poco importante;Que el precio sea razonable para el valor que ofrece;39;4.868913857677903;801;ADODB T13[{_3}].Rp
+114;T13;Medianamente importante;Que el precio sea razonable para el valor que ofrece;168;20.973782771535582;801;ADODB T13[{_3}].Rp
+114;T13;Muy importante;Que el precio sea razonable para el valor que ofrece;447;55.80524344569288;801;ADODB T13[{_3}].Rp
+114;T13;Extremadamente importante;Que el precio sea razonable para el valor que ofrece;124;15.480649188514358;801;ADODB T13[{_3}].Rp
+114;T13;Nada importante;Que sea fácil de llegar y regresar a casa;17;2.1223470661672907;801;ADODB T13[{_4}].Rp
+114;T13;Poco importante;Que sea fácil de llegar y regresar a casa;38;4.7440699126092385;801;ADODB T13[{_4}].Rp
+114;T13;Medianamente importante;Que sea fácil de llegar y regresar a casa;152;18.976279650436954;801;ADODB T13[{_4}].Rp
+114;T13;Muy importante;Que sea fácil de llegar y regresar a casa;472;58.92634207240949;801;ADODB T13[{_4}].Rp
+114;T13;Extremadamente importante;Que sea fácil de llegar y regresar a casa;122;15.230961298377029;801;ADODB T13[{_4}].Rp
+114;T13;Nada importante;Que tenga buenas reseñas o sea recomendado por amigos;29;3.620474406991261;801;ADODB T13[{_5}].Rp
+114;T13;Poco importante;Que tenga buenas reseñas o sea recomendado por amigos;64;7.990012484394507;801;ADODB T13[{_5}].Rp
+114;T13;Medianamente importante;Que tenga buenas reseñas o sea recomendado por amigos;179;22.347066167290887;801;ADODB T13[{_5}].Rp
+114;T13;Muy importante;Que tenga buenas reseñas o sea recomendado por amigos;430;53.682896379525594;801;ADODB T13[{_5}].Rp
+114;T13;Extremadamente importante;Que tenga buenas reseñas o sea recomendado por amigos;99;12.359550561797754;801;ADODB T13[{_5}].Rp
+115;T13x;Que la experiencia sea única, especial y memorable;TOTAL;433;54.057;801;ADODB (validado con porcentajes TOM)
+115;T13x;Que el lugar y sus alrededores sean percibidos como seguros;TOTAL;583;72.784;801;ADODB (validado con porcentajes TOM)
+115;T13x;Que el precio sea razonable para el valor que ofrece;TOTAL;571;71.286;801;ADODB (validado con porcentajes TOM)
+115;T13x;Que sea fácil de llegar y regresar a casa;TOTAL;594;74.157;801;ADODB (validado con porcentajes TOM)
+115;T13x;Que tenga buenas reseñas o sea recomendado por amigos;TOTAL;529;66.042;801;ADODB (validado con porcentajes TOM)
+115;T13x;No aplica;TOTAL;96;11.985;801;ADODB (validado con porcentajes TOM)
+116;T14;Siento que es del tamaño justo para mis necesidades y las de mi familia;TOTAL;487;60.799;801;ADODB (validado con porcentajes TOM)
+116;T14;Siento que es un poco pequeña y me gustaría tener más espacio;TOTAL;232;28.964;801;ADODB (validado con porcentajes TOM)
+116;T14;Siento que es demasiado pequeña y la falta de espacio es un problema constante;TOTAL;46;5.743;801;ADODB (validado con porcentajes TOM)
+116;T14;Siento que es más grande de lo que realmente necesito;TOTAL;36;4.494;801;ADODB (validado con porcentajes TOM)
+117;T15;Prefiero comprar productos que son excelentes en una sola cosa. Busco la mejor calidad y diseño para esa función específica;TOTAL;346;43.196;801;ADODB (validado con porcentajes TOM)
+117;T15;Prefiero buscar productos que me ofrezcan varias funciones en uno. Lo considero una compra más inteligente que me ayuda a aprovechar mejor mi espacio;TOTAL;455;56.804;801;ADODB (validado con porcentajes TOM)
+118;T16;Nunca he usado una IA para pedirle recomendaciones de productos o servicios;TOTAL;84;27.631;304;ADODB (validado con porcentajes TOM)
+118;T16;He probado a pedirle recomendaciones por curiosidad, pero no he basado una compra en eso;TOTAL;78;25.658;304;ADODB (validado con porcentajes TOM)
+118;T16;Alguna vez he usado la recomendación de una IA como un dato más para ayudarme a decidir una compra;TOTAL;82;26.974;304;ADODB (validado con porcentajes TOM)
+118;T16;Uso con cierta frecuencia la IA para que me resuma opciones o me recomiende productos según mis necesidades;TOTAL;53;17.434;304;ADODB (validado con porcentajes TOM)
+118;T16;Confío plenamente en la IA y la uso como mi principal asesor antes de hacer compras importantes;TOTAL;7;2.303;304;ADODB (validado con porcentajes TOM)
+119;T17;(1) Tecnología (ej. celulares, laptops, audífonos);TOTAL;178;58.553;304;ADODB (validado con porcentajes TOM)
+119;T17;(2) Electrodomésticos (ej. refrigeradoras, lavadoras);TOTAL;56;18.421;304;ADODB (validado con porcentajes TOM)
+119;T17;(3) Planes de viaje (ej. hoteles, destinos, aerolíneas);TOTAL;66;21.711;304;ADODB (validado con porcentajes TOM)
+119;T17;(4) Servicios financieros (ej. tarjetas de crédito, tipos de ahorro);TOTAL;36;11.842;304;ADODB (validado con porcentajes TOM)
+119;T17;(5) Restaurantes o bares;TOTAL;50;16.447;304;ADODB (validado con porcentajes TOM)
+119;T17;(6) Entretenimiento (ej. películas, libros, videojuegos);TOTAL;54;17.763;304;ADODB (validado con porcentajes TOM)
+119;T17;(7) Ropa y accesorios de moda;TOTAL;52;17.105;304;ADODB (validado con porcentajes TOM)
+119;T17;(8) Productos de belleza o cuidado personal (skincare);TOTAL;25;8.224;304;ADODB (validado con porcentajes TOM)
+119;T17;(9) Automóviles;TOTAL;25;8.224;304;ADODB (validado con porcentajes TOM)
+119;T17;(94) Otro (especifique):;TOTAL;2;0.658;304;ADODB (validado con porcentajes TOM)
+119;T17;(96) No usaría la IA para pedir recomendaciones;TOTAL;37;12.171;304;ADODB (validado con porcentajes TOM)
+120;T18;La recomendación de una IA que analizó cientos de reseñas y te dice objetivamente cuál es la mejor opción según tu presupuesto y necesidades;TOTAL;126;15.73;801;ADODB (validado con porcentajes TOM)
+120;T18;"La recomendación de tu mejor amigo, que tiene un modelo específico y te dice que es ""buenísimo""";TOTAL;234;29.214;801;ADODB (validado con porcentajes TOM)
+120;T18;La recomendación de un influencer de tecnología que sigues y en quien confías;TOTAL;57;7.116;801;ADODB (validado con porcentajes TOM)
+120;T18;Las reseñas y el puntaje promedio de cientos de usuarios desconocidos en una página de e-commerce;TOTAL;98;12.235;801;ADODB (validado con porcentajes TOM)
+120;T18;La recomendación del vendedor de la tienda o de la propia publicidad de la marca;TOTAL;286;35.705;801;ADODB (validado con porcentajes TOM)
+121;T19;Producto A;TOTAL;386;48.19;801;ADODB (validado con porcentajes TOM)
+121;T19;Producto B;TOTAL;205;25.593;801;ADODB (validado con porcentajes TOM)
+121;T19;Ninguno;TOTAL;241;30.087;801;ADODB (validado con porcentajes TOM)
+122;P1;Sí, mi esposo (a);TOTAL;248;30.961;801;ADODB (validado con porcentajes TOM)
+122;P1;Sí, mi conviviente;TOTAL;154;19.226;801;ADODB (validado con porcentajes TOM)
+122;P1;Sí, mi enamorado (a) / novio (a);TOTAL;84;10.487;801;ADODB (validado con porcentajes TOM)
+122;P1;No, no tengo pareja;TOTAL;315;39.326;801;ADODB (validado con porcentajes TOM)
+124;T2x;Si;TOTAL;532;66.417;801;ADODB (validado con porcentajes TOM)
+124;T2x;No;TOTAL;269;33.583;801;ADODB (validado con porcentajes TOM)
+125;P3;Solo;TOTAL;58;7.241;801;ADODB (validado con porcentajes TOM)
+125;P3;Esposo (a) / conviviente / pareja;TOTAL;387;48.315;801;ADODB (validado con porcentajes TOM)
+125;P3;Hijos (as);TOTAL;438;54.682;801;ADODB (validado con porcentajes TOM)
+125;P3;Padres;TOTAL;262;32.709;801;ADODB (validado con porcentajes TOM)
+125;P3;Nietos (as);TOTAL;29;3.62;801;ADODB (validado con porcentajes TOM)
+125;P3;Abuelos (as);TOTAL;33;4.12;801;ADODB (validado con porcentajes TOM)
+125;P3;Hijos políticos (yerno / nuera);TOTAL;7;0.874;801;ADODB (validado con porcentajes TOM)
+125;P3;Hermanos (as);TOTAL;142;17.728;801;ADODB (validado con porcentajes TOM)
+125;P3;Sobrinos (as);TOTAL;21;2.622;801;ADODB (validado con porcentajes TOM)
+125;P3;Primos (as);TOTAL;9;1.124;801;ADODB (validado con porcentajes TOM)
+125;P3;Otros parientes;TOTAL;29;3.62;801;ADODB (validado con porcentajes TOM)
+125;P3;Otros NO parientes (amigos, etc.);TOTAL;2;0.25;801;ADODB (validado con porcentajes TOM)
+126;HOGARES;UNIPERSONAL;TOTAL;58;7.241;801;ADODB (validado con porcentajes TOM)
+126;HOGARES;PAREJA;TOTAL;61;7.615;801;ADODB (validado con porcentajes TOM)
+126;HOGARES;NUCLEAR;TOTAL;435;54.307;801;ADODB (validado con porcentajes TOM)
+126;HOGARES;EXTENDIDO / COMPUESTO;TOTAL;135;16.854;801;ADODB (validado con porcentajes TOM)
+126;HOGARES;MONOPARENTAL;TOTAL;73;9.114;801;ADODB (validado con porcentajes TOM)
+126;HOGARES;SIN NUCLEO CONYUGAL;TOTAL;39;4.869;801;ADODB (validado con porcentajes TOM)
+127;P4a;Sí;TOTAL;382;47.69;801;ADODB (validado con porcentajes TOM)
+127;P4a;No;TOTAL;419;52.31;801;ADODB (validado con porcentajes TOM)
+128;P4b;Sí;TOTAL;469;58.552;801;ADODB (validado con porcentajes TOM)
+128;P4b;No;TOTAL;332;41.448;801;ADODB (validado con porcentajes TOM)
+129;P4c;Hace las compras de alimentos para la casa;TOTAL;98;57.31;171;ADODB (validado con porcentajes TOM)
+129;P4c;Se encarga de cocinar;TOTAL;33;19.298;171;ADODB (validado con porcentajes TOM)
+129;P4c;Se encarga de lavar la ropa;TOTAL;32;18.713;171;ADODB (validado con porcentajes TOM)
+129;P4c;Se encarga de lavar los platos;TOTAL;37;21.637;171;ADODB (validado con porcentajes TOM)
+129;P4c;Se encarga de planchar la ropa;TOTAL;15;8.772;171;ADODB (validado con porcentajes TOM)
+129;P4c;Se encarga de limpiar y ordenar la casa;TOTAL;54;31.579;171;ADODB (validado con porcentajes TOM)
+129;P4c;Se encarga de solucionar / arreglar los desperfectos de la casa;TOTAL;95;55.556;171;ADODB (validado con porcentajes TOM)
+129;P4c;Se encarga de botar la basura;TOTAL;85;49.708;171;ADODB (validado con porcentajes TOM)
+129;P4c;Hace los pagos de los recibos de luz, agua, teléfono e internet;TOTAL;114;66.667;171;ADODB (validado con porcentajes TOM)
+129;P4c;Ninguna;TOTAL;7;4.094;171;ADODB (validado con porcentajes TOM)
+130;P5;Estudiante;TOTAL;93;11.611;801;ADODB (validado con porcentajes TOM)
+130;P5;Su casa;TOTAL;123;15.356;801;ADODB (validado con porcentajes TOM)
+130;P5;Trabajador dependiente;TOTAL;233;29.089;801;ADODB (validado con porcentajes TOM)
+130;P5;Trabajador independiente;TOTAL;306;38.202;801;ADODB (validado con porcentajes TOM)
+130;P5;Desocupado;TOTAL;23;2.871;801;ADODB (validado con porcentajes TOM)
+130;P5;Jubilado;TOTAL;23;2.871;801;ADODB (validado con porcentajes TOM)
+131;P6;Sí;TOTAL;197;24.594;801;ADODB (validado con porcentajes TOM)
+131;P6;No;TOTAL;604;75.406;801;ADODB (validado con porcentajes TOM)
+132;P7;Sí;TOTAL;448;55.93;801;ADODB (validado con porcentajes TOM)
+132;P7;No;TOTAL;353;44.07;801;ADODB (validado con porcentajes TOM)
+133;P8;Sí;TOTAL;766;95.63;801;ADODB (validado con porcentajes TOM)
+133;P8;No;TOTAL;35;4.37;801;ADODB (validado con porcentajes TOM)
+134;P9;Sí;TOTAL;653;85.248;766;ADODB (validado con porcentajes TOM)
+134;P9;No;TOTAL;113;14.752;766;ADODB (validado con porcentajes TOM)
+135;P10;Sí;TOTAL;754;94.132;801;ADODB (validado con porcentajes TOM)
+135;P10;No;TOTAL;47;5.868;801;ADODB (validado con porcentajes TOM)
+136;P11;Prepago;TOTAL;231;29.845;774;ADODB (validado con porcentajes TOM)
+136;P11;Postpago;TOTAL;536;69.251;774;ADODB (validado con porcentajes TOM)
+136;P11;No precisa;TOTAL;7;0.904;774;ADODB (validado con porcentajes TOM)
+137;P12;Auto y/o camioneta;TOTAL;147;18.352;801;ADODB (validado con porcentajes TOM)
+137;P12;Moto;TOTAL;107;13.358;801;ADODB (validado con porcentajes TOM)
+137;P12;Ninguno;TOTAL;562;70.162;801;ADODB (validado con porcentajes TOM)
+139;TOTAL_BASE;Total.;TOTAL;801;100.0;801;ADODB (validado con porcentajes TOM)
+140;Regiones;Lima;TOTAL;351;43.82;801;ADODB (validado con porcentajes TOM)
+140;Regiones;Norte;TOTAL;170;21.223;801;ADODB (validado con porcentajes TOM)
+140;Regiones;Centro;TOTAL;90;11.236;801;ADODB (validado con porcentajes TOM)
+140;Regiones;Sur;TOTAL;110;13.733;801;ADODB (validado con porcentajes TOM)
+140;Regiones;Oriente;TOTAL;80;9.988;801;ADODB (validado con porcentajes TOM)
+141;Zona_Lima;Lima norte;TOTAL;80;22.792;351;ADODB (validado con porcentajes TOM)
+141;Zona_Lima;Lima este;TOTAL;75;21.368;351;ADODB (validado con porcentajes TOM)
+141;Zona_Lima;Lima centro;TOTAL;25;7.122;351;ADODB (validado con porcentajes TOM)
+141;Zona_Lima;Lima oeste;TOTAL;90;25.641;351;ADODB (validado con porcentajes TOM)
+141;Zona_Lima;Lima sur;TOTAL;50;14.245;351;ADODB (validado con porcentajes TOM)
+141;Zona_Lima;Callao;TOTAL;31;8.832;351;ADODB (validado con porcentajes TOM)
